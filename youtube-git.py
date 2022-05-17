@@ -12,7 +12,7 @@ https://qiita.com/rkamikawa/items/dd1fd4c1427ece787eea
 API_KEY='OWN_YOUTUBE_API_KEY'
 YOUTUBE_API_SERVICE_NAME='youtube'
 YOUTUBE_API_VERSION='v3'
-print('チャンネルのidを入力してください')
+print("please input the channel's id.")
 search_word=input()
 
 youtube=build(
