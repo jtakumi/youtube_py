@@ -1,6 +1,6 @@
 from googleapiclient.discovery import build
 import json
-import os 
+import os
 import datetime
 
 """
@@ -12,8 +12,8 @@ https://qiita.com/rkamikawa/items/dd1fd4c1427ece787eea
 API_KEY='OWN_YOUTUBE_API_KEY'
 YOUTUBE_API_SERVICE_NAME='youtube'
 YOUTUBE_API_VERSION='v3'
-search_word='UC8xkzBruPP96NI22ki4mB_w'
-
+print('チャンネルのidを入力してください')
+search_word=input()
 
 youtube=build(
     YOUTUBE_API_SERVICE_NAME,
@@ -26,7 +26,7 @@ search_respose=youtube.channels().list(
     id=search_word
 ).execute()
 
-#jsonファイルに結果を書き込む
+#jsonファイルに結果を書きこむ
 print('please input file name.(no extension)')
 fn=input()
 fn=fn+'.json'
@@ -44,4 +44,3 @@ d1=today.strftime('%y-%m-%d')
 gcm='git commit -m ' + d1
 os.system(gad)
 os.system(gcm)
-os.system('git push origin y1')
