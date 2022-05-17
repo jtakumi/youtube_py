@@ -37,12 +37,8 @@ with open(fn,'w',encoding='utf-8') as f:
             continue
         print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
 
-#自動commit
+#自動add
 gad='git add ' + fn + ' ' + 'search-youtube-git.py'
-today=datetime.date.today()
-d1=today.strftime('%y-%m-%d') + ':' +  fn
-gcm='git commit -m ' + d1
 os.system(gad)
-os.system(gcm)
 
 

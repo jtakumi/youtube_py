@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "jnNYS6H2xJUzqIJFg5eTkJJR0aY",
+  "id": "UCMp5Buw-6LpbbV9r9Sl_5yg",
+  "snippet": {
+    "title": "Україна 24",
+    "description": "«Україна 24» — загальнонаціональний інформаційно-аналітичний телеканал, для створення якого консолідовані можливості всіх активів «Медіа Групи Україна». Тут глядач дізнається про усі важливі новини.\n\nЗаходьте на сайт https://u24.ua\nПідписуйтесь на наш телеграм: t.me/ukraina24tv",
+    "customUrl": "украіна24",
+    "publishedAt": "2019-11-12T10:52:52.124029Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ycUCcHsYsrHYKj_x9g75ZCvo7yjXP7mmJMEek36n28y9Vvf42iFwwJMWSiivDjDgDcqN4nOZ7g=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ycUCcHsYsrHYKj_x9g75ZCvo7yjXP7mmJMEek36n28y9Vvf42iFwwJMWSiivDjDgDcqN4nOZ7g=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ycUCcHsYsrHYKj_x9g75ZCvo7yjXP7mmJMEek36n28y9Vvf42iFwwJMWSiivDjDgDcqN4nOZ7g=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Україна 24",
+      "description": "«Україна 24» — загальнонаціональний інформаційно-аналітичний телеканал, для створення якого консолідовані можливості всіх активів «Медіа Групи Україна». Тут глядач дізнається про усі важливі новини.\n\nЗаходьте на сайт https://u24.ua\nПідписуйтесь на наш телеграм: t.me/ukraina24tv"
+    },
+    "country": "UA"
+  },
+  "statistics": {
+    "viewCount": "1242015273",
+    "subscriberCount": "2000000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "11040"
+  }
+}
