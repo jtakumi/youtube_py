@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "YnWUlwCl8V-AHDb2etRf5mCirao",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC1oPBUWifc0QOOY8DEKhLuQ"
+  },
+  "snippet": {
+    "publishedAt": "2008-09-04T16:53:18Z",
+    "channelId": "UC1oPBUWifc0QOOY8DEKhLuQ",
+    "title": "avex",
+    "description": "avex groupの最新Music VideoはYouTubeのavex Channelで！",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT9Gaphu-hTUHA7q9LfQgZp6JKMoOyJ5Z9a5-OjHw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT9Gaphu-hTUHA7q9LfQgZp6JKMoOyJ5Z9a5-OjHw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT9Gaphu-hTUHA7q9LfQgZp6JKMoOyJ5Z9a5-OjHw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "avex",
+    "liveBroadcastContent": "live",
+    "publishTime": "2008-09-04T16:53:18Z"
+  }
+}
+{
+  "kind": "youtube#searchResult",
+  "etag": "d6_vRJNIvW3LYdysnSohi1e_aEM",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCKlXiCjg_VI0eZ9kKBeNJgw"
+  },
+  "snippet": {
+    "publishedAt": "2014-04-07T07:04:35Z",
+    "channelId": "UCKlXiCjg_VI0eZ9kKBeNJgw",
+    "title": "avex pictures",
+    "description": "エイベックス・ピクチャーズのYouTube公式アカウントですアニメーション・実写など「映像コンテンツ」を核とし、コンテンツ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRCiqlNyl-ebth05F9kb24V3vnNkAl7lSDugfJu1Q=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRCiqlNyl-ebth05F9kb24V3vnNkAl7lSDugfJu1Q=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRCiqlNyl-ebth05F9kb24V3vnNkAl7lSDugfJu1Q=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "avex pictures",
+    "liveBroadcastContent": "none",
+    "publishTime": "2014-04-07T07:04:35Z"
+  }
+}

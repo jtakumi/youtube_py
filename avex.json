@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "fd59XYv_s_iXXyPWryoUbu5rRS4",
+  "id": "UC1oPBUWifc0QOOY8DEKhLuQ",
+  "snippet": {
+    "title": "avex",
+    "description": "avex groupの最新Music VideoはYouTubeのavex Channelで！",
+    "publishedAt": "2008-09-04T16:53:18Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT9Gaphu-hTUHA7q9LfQgZp6JKMoOyJ5Z9a5-OjHw=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT9Gaphu-hTUHA7q9LfQgZp6JKMoOyJ5Z9a5-OjHw=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT9Gaphu-hTUHA7q9LfQgZp6JKMoOyJ5Z9a5-OjHw=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "avex",
+      "description": "avex groupの最新Music VideoはYouTubeのavex Channelで！"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "9405463495",
+    "subscriberCount": "5810000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "15077"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "xI55VjyI6nZjLmKdajStnNqt5L8",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-25T12:37:01Z",
+    "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
+    "title": "Okayu Ch. 猫又おかゆ",
+    "description": "＿ ‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐-‐ 猫又おかゆ 60万人記念ボイス販売中   ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTBrp9cAeaFT4Yq9DVne54QYANyrhNv8Kd6NR7N7w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTBrp9cAeaFT4Yq9DVne54QYANyrhNv8Kd6NR7N7w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTBrp9cAeaFT4Yq9DVne54QYANyrhNv8Kd6NR7N7w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Okayu Ch. 猫又おかゆ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-03-25T12:37:01Z"
+  }
+}

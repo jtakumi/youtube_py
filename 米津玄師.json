@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "BkxyXBsuQ71ZLoMLQPne4IGGmtg",
+  "id": "UCUCeZaZeJbEYAAzvMgrKOPQ",
+  "snippet": {
+    "title": "Kenshi Yonezu  米津玄師",
+    "description": "▼米津玄師 / ハチ OFFICIAL CHANNEL▼\nMusician / Illustrator\nKenshi Yonezu  is Real Name  /  HACHI  is  VOCALOID Producer Name",
+    "customUrl": "kenshiyonezuhachi",
+    "publishedAt": "2010-03-31T00:06:37Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/obIiHrgUtL93lzpHG_pOPzseJv9ZEwGcLauBcqw9G-HB30qjiOe7uiVrA87WOO_4yCh-aQKxhsg=s88-c-k-c0x00ffffff-no-nd-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/obIiHrgUtL93lzpHG_pOPzseJv9ZEwGcLauBcqw9G-HB30qjiOe7uiVrA87WOO_4yCh-aQKxhsg=s240-c-k-c0x00ffffff-no-nd-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/obIiHrgUtL93lzpHG_pOPzseJv9ZEwGcLauBcqw9G-HB30qjiOe7uiVrA87WOO_4yCh-aQKxhsg=s800-c-k-c0x00ffffff-no-nd-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Kenshi Yonezu  米津玄師",
+      "description": "▼米津玄師 / ハチ OFFICIAL CHANNEL▼\nMusician / Illustrator\nKenshi Yonezu  is Real Name  /  HACHI  is  VOCALOID Producer Name"
+    }
+  },
+  "statistics": {
+    "viewCount": "4123882008",
+    "subscriberCount": "6230000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "76"
+  }
+}

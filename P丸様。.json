@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "h2RtLpW4Ub3O_aMOcGP4LM0gBA4",
+  "id": "UCLqCmbd6bgcLaBVz3aA-68A",
+  "snippet": {
+    "title": "P丸様。",
+    "description": "イラストと声で遊んでるひとです\n仲良くしてください🐣\nTwitterで話しかけてくれると喜びます！！！！！\n\nＴｗｉｔｔｅｒ▼▽\n\nhttps://twitter.com/p_ma_ru\n\nサブ垢▼▽\nhttps://www.youtube.com/channel/UCjMoVy70DWAoYmTwcAvzzhA\n",
+    "customUrl": "p丸様ちゃんねる",
+    "publishedAt": "2016-03-04T04:10:31Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/1CBv1WbHyFeRXfUcHjmHJWA3qFTCtKQDfIfBCwIBDJQpBigmR--nTM_Z3ieF1zsk-65LBCVd2A=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/1CBv1WbHyFeRXfUcHjmHJWA3qFTCtKQDfIfBCwIBDJQpBigmR--nTM_Z3ieF1zsk-65LBCVd2A=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/1CBv1WbHyFeRXfUcHjmHJWA3qFTCtKQDfIfBCwIBDJQpBigmR--nTM_Z3ieF1zsk-65LBCVd2A=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "P丸様。",
+      "description": "イラストと声で遊んでるひとです\n仲良くしてください🐣\nTwitterで話しかけてくれると喜びます！！！！！\n\nＴｗｉｔｔｅｒ▼▽\n\nhttps://twitter.com/p_ma_ru\n\nサブ垢▼▽\nhttps://www.youtube.com/channel/UCjMoVy70DWAoYmTwcAvzzhA\n"
+    }
+  },
+  "statistics": {
+    "viewCount": "1699216224",
+    "subscriberCount": "2440000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "642"
+  }
+}
