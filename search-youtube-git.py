@@ -45,7 +45,7 @@ mvf='mv'+ ' '+ fn + ' ' + 'search'
 os.system(mvf)
 
 #自動commit
-gad='git add ' + fn + ' ' + 'search-youtube-git.py'
+gad='git add ' + 'search/'+ fn
 os.system(gad)
 print('Do you want to move to youtube.py?[y/n]')
 dc=input()

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "xOPDFdZqQbJD9Ix8JsVg3nZLXEU",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC0TXe_LYZ4scaW2XMyi5_kw"
+  },
+  "snippet": {
+    "publishedAt": "2018-11-05T12:16:27Z",
+    "channelId": "UC0TXe_LYZ4scaW2XMyi5_kw",
+    "title": "AZKi Channel",
+    "description": "AZKiです。音楽を通して一人一人と繋がって 一緒に世界を創って行きたくて転生しました。 チャンネル登録や、動画や生放送で ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQRw-0zclxstcQV7QI-5AKt8YwC-MbWRvX8MYXqA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQRw-0zclxstcQV7QI-5AKt8YwC-MbWRvX8MYXqA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQRw-0zclxstcQV7QI-5AKt8YwC-MbWRvX8MYXqA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "AZKi Channel",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-11-05T12:16:27Z"
+  }
+}

@@ -47,7 +47,7 @@ mvf='mv'+ ' '+ fn + ' ' + 'youtube-json'
 os.system(mvf)
 
 #自動commit
-gad='git add ' + fn + ' ' + 'youtube-git.py'
+gad='git add ' + 'youtube-json/'+ fn
 os.system(gad)
 print('Do you want to commit? [y/n]')
 dc=input()
