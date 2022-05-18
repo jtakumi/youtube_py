@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "H4igynS63o_dOT4WZNHz1_YeIbU",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCZLZ8Jjx_RN2CXloOmgTHVg"
+  },
+  "snippet": {
+    "publishedAt": "2022-01-27T09:03:18Z",
+    "channelId": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+    "title": "Kaela Kovalskia Ch. hololive-ID",
+    "description": "Hello everyone! Nice to meet you!~ I'm Kaela Kovalskia, an awesome blacksmith from holoID! League of Legends addict.",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/PxkGgLvMEUgmme35T0VPLR8d5brJw4YTzJC5PE48mkYRdy-mq8FsKv_Sy-bJmxqvlgtitqMWtg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/PxkGgLvMEUgmme35T0VPLR8d5brJw4YTzJC5PE48mkYRdy-mq8FsKv_Sy-bJmxqvlgtitqMWtg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/PxkGgLvMEUgmme35T0VPLR8d5brJw4YTzJC5PE48mkYRdy-mq8FsKv_Sy-bJmxqvlgtitqMWtg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Kaela Kovalskia Ch. hololive-ID",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2022-01-27T09:03:18Z"
+  }
+}

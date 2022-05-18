@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "ovPCWGU9FBgzMpipEbn4hYnJvQI",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCOyYb1c43VlX9rc_lT6NKQw"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-03T07:34:08Z",
+    "channelId": "UCOyYb1c43VlX9rc_lT6NKQw",
+    "title": "Ayunda Risu Ch. hololive-ID",
+    "description": "Hai, aku Ayunda Risu dari Hololive Indonesia~! Aku seekor tupai imut dari hutan ajaib yang datang(nyasar) ke dunia manusia, ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTjqfaFS9JlspGjiIah2kkxOtl4vRrxBCYKMEY5Kw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTjqfaFS9JlspGjiIah2kkxOtl4vRrxBCYKMEY5Kw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTjqfaFS9JlspGjiIah2kkxOtl4vRrxBCYKMEY5Kw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Ayunda Risu Ch. hololive-ID",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-03-03T07:34:08Z"
+  }
+}
