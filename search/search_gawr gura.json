@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "c8-hoKDuiSVcJFVXb2Qa_XKqbsw",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g"
+  },
+  "snippet": {
+    "publishedAt": "2020-07-16T06:25:20Z",
+    "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+    "title": "Gawr Gura Ch. hololive-EN",
+    "description": "A descendant of the Lost City of Atlantis, who swam to Earth while saying, \"It's so boring down there LOLOLOL!\" She bought her ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Gawr Gura Ch. hololive-EN",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-07-16T06:25:20Z"
+  }
+}
