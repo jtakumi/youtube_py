@@ -9,11 +9,16 @@ https://qiita.com/rkamikawa/items/dd1fd4c1427ece787eea
 """
 
 #API情報
-API_KEY='own-youtube-api-key'
+API_KEY='own_key'
 YOUTUBE_API_SERVICE_NAME='youtube'
 YOUTUBE_API_VERSION='v3'
 print('please input a  keyword.')
 search_word=input()
+
+#jsonファイルに結果を書きこむ
+
+fn='search_' + search_word + '.json'
+
 
 youtube=build(
     YOUTUBE_API_SERVICE_NAME,
@@ -27,9 +32,7 @@ search_respose=youtube.search().list(
     maxResults=25
 ).execute()
 
-#jsonファイルに結果を書きこむ
 
-fn='search_' + search_word + '.json'
 
 with open(fn,'w',encoding='utf-8') as f:
     for search_result in search_respose.get('items',[]):
@@ -37,8 +40,19 @@ with open(fn,'w',encoding='utf-8') as f:
             continue
         print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
 
-#自動add
+#できたファイルを移動させる
+mvf='mv'+ ' '+ fn + ' ' + 'search'
+os.system(mvf)
+
+#自動commit
 gad='git add ' + fn + ' ' + 'search-youtube-git.py'
 os.system(gad)
+print('Do you want to move to youtube.py?[y/n]')
+dc=input()
+if(dc=='y'):
+    import youtube
+    youtube.main()
+
+
 
 
