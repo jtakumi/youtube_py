@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "zHjZk16D-l8MqFKvskx9zs3Zl1U",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC1CfXB_kRs3C-zaeTG3oGyg"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-24T03:02:52Z",
+    "channelId": "UC1CfXB_kRs3C-zaeTG3oGyg",
+    "title": "HAACHAMA Ch 赤井はあと",
+    "description": "はあちゃまっちゃま～！HAACHAMACHAMA~~~!!! ワールドワイドな最強アイドル！ はあちゃまこと赤井はあとです！",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/rNj6bichsOoUjA2N9iXWxInEt9Y2Fo5fhG4S8oR17ip8ouCu_7wmX3PnQxt6OP6Rd9OlYXYcmw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/rNj6bichsOoUjA2N9iXWxInEt9Y2Fo5fhG4S8oR17ip8ouCu_7wmX3PnQxt6OP6Rd9OlYXYcmw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/rNj6bichsOoUjA2N9iXWxInEt9Y2Fo5fhG4S8oR17ip8ouCu_7wmX3PnQxt6OP6Rd9OlYXYcmw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "HAACHAMA Ch 赤井はあと",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-05-24T03:02:52Z"
+  }
+}

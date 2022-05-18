@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "uxTcelVq389jvS3m4JPAM2nInvQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-24T02:41:21Z",
+    "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "title": "フブキCh。白上フブキ",
+    "description": "ホロライブ所属、白上フブキです。(Fubuki Shirakami)   狐(FOX)のバーチャル狐として活動しています。 ゲームや雑談放送や ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQdiN_0b5mfCHcwmIbRZKvpwowneYzu9xL0oCBBMw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQdiN_0b5mfCHcwmIbRZKvpwowneYzu9xL0oCBBMw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQdiN_0b5mfCHcwmIbRZKvpwowneYzu9xL0oCBBMw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "フブキCh。白上フブキ",
+    "liveBroadcastContent": "live",
+    "publishTime": "2018-05-24T02:41:21Z"
+  }
+}
