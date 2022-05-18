@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "qpwCESeQfFWB6TpmkLhntc0TgEo",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCYz_5n-uDuChHtLo7My1HnQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-09-01T06:59:09Z",
+    "channelId": "UCYz_5n-uDuChHtLo7My1HnQ",
+    "title": "Kureiji Ollie Ch. hololive-ID",
+    "description": "SUPER KAWAII ZOMBIE IDOL, ‍♀️KUREIJI OLLIE  ‍♀️ from holoIive Indonesia Gen 2!! [Support Ollie] ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/jWxru6sHDDSuKF-gztFg_WSoMp2da_d019iH0xz0MDWc7TIhetK8id_mVKV0PxWKp-QS23AzfQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/jWxru6sHDDSuKF-gztFg_WSoMp2da_d019iH0xz0MDWc7TIhetK8id_mVKV0PxWKp-QS23AzfQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/jWxru6sHDDSuKF-gztFg_WSoMp2da_d019iH0xz0MDWc7TIhetK8id_mVKV0PxWKp-QS23AzfQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Kureiji Ollie Ch. hololive-ID",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-09-01T06:59:09Z"
+  }
+}
