@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "8Fnv_rl3lW69lwuT82UILhDtIsA",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCZlDXzGoo7d44bwdNObFacg"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-04T09:13:34Z",
+    "channelId": "UCZlDXzGoo7d44bwdNObFacg",
+    "title": "Kanata Ch. 天音かなた",
+    "description": "へい！ホロライブ4期生、天音かなたです。PP天使 毎日19時頃に配信しています。よろしくお願いします！",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/TlH8nz5O9UYo5JZ_5fo4JfXdT18N0Ck27wWrulni-c1g5bwes0tVmFiSKICzI1SW7itaTkk9GA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/TlH8nz5O9UYo5JZ_5fo4JfXdT18N0Ck27wWrulni-c1g5bwes0tVmFiSKICzI1SW7itaTkk9GA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/TlH8nz5O9UYo5JZ_5fo4JfXdT18N0Ck27wWrulni-c1g5bwes0tVmFiSKICzI1SW7itaTkk9GA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Kanata Ch. 天音かなた",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-12-04T09:13:34Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "31qNEkEIWLUrmx3FO8MTxn1ks2A",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCqm3BQLlJfvkTsX_hvm0UmA"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-04T10:02:43Z",
+    "channelId": "UCqm3BQLlJfvkTsX_hvm0UmA",
+    "title": "Watame Ch. 角巻わため",
+    "description": "ホロライブ所属。 吟遊詩人をしながらのんびり旅をしている羊。 歌が大好き。もふもふ。とにかくもふもふ。 草食系なので ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ74gCnVzTJAJTtjvXlRGQLwcYMQ8HppeWsaJYd1w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ74gCnVzTJAJTtjvXlRGQLwcYMQ8HppeWsaJYd1w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ74gCnVzTJAJTtjvXlRGQLwcYMQ8HppeWsaJYd1w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Watame Ch. 角巻わため",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-04T10:02:43Z"
+  }
+}

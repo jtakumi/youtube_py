@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "xgVbH0pHL941JWSfax-PT8-KBv4",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCENwRMx5Yh42zWpzURebzTw"
+  },
+  "snippet": {
+    "publishedAt": "2021-09-10T19:24:36Z",
+    "channelId": "UCENwRMx5Yh42zWpzURebzTw",
+    "title": "Laplus ch. ラプラス・ダークネス - holoX -",
+    "description": "吾輩だぞ ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏ エデンの星に住む人間達諸君！  ✨ 吾輩は holoX 総帥 ラプラス・ダークネスだ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Laplus ch. ラプラス・ダークネス - holoX -",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2021-09-10T19:24:36Z"
+  }
+}

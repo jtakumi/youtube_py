@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "75Ubyl5KcWLsI74xWvVLoKi_oNc",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC_vMYWcDjmfdpH6r4TTn1MQ"
+  },
+  "snippet": {
+    "publishedAt": "2021-09-12T06:16:48Z",
+    "channelId": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "title": "Iroha ch. 風真いろは - holoX -",
+    "description": "ホロライブ所属６期生holox用心棒の風真いろはでござる   作ることや歌うことや体を動かすことが大好き✨ 迷ったらまず実行！",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Iroha ch. 風真いろは - holoX -",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2021-09-12T06:16:48Z"
+  }
+}
