@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Z6f_hqg562-DLM2c_BSIF43MWyU",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCK9V2B22uJYu3N7eR_BT9QA"
+  },
+  "snippet": {
+    "publishedAt": "2020-06-05T07:47:22Z",
+    "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
+    "title": "Polka Ch. 尾丸ポルカ",
+    "description": "ホロライブ所属5期生の尾丸ポルカ(Omaru Polka)でーす！ もふもふのフェネック(Fennec Fox)だよー   ふひひひ✨ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSNfuszQyKT1RGn7SaYyefnhGiUZsTsWpmjWD9_vw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSNfuszQyKT1RGn7SaYyefnhGiUZsTsWpmjWD9_vw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSNfuszQyKT1RGn7SaYyefnhGiUZsTsWpmjWD9_vw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Polka Ch. 尾丸ポルカ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-06-05T07:47:22Z"
+  }
+}

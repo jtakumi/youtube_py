@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "8-yvat-Nh6KzQKpVtfD_tlMl8Vc",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCAWSyEs_Io8MtpY3m-zqILA"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-15T10:20:06Z",
+    "channelId": "UCAWSyEs_Io8MtpY3m-zqILA",
+    "title": "Nene Ch.桃鈴ねね",
+    "description": "ホロライブ所属。 アイドルにあこがれて、異世界からやってきた女の子。 歌って踊ることと餃子が大好き。たくさんの人に愛さ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Nene Ch.桃鈴ねね",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-04-15T10:20:06Z"
+  }
+}
