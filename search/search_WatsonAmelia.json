@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_OUucxLF1WNcAYpw8NyVS2I3U-o",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCyl1z3jo3XHR1riLFKG5UAg"
+  },
+  "snippet": {
+    "publishedAt": "2020-07-16T06:24:42Z",
+    "channelId": "UCyl1z3jo3XHR1riLFKG5UAg",
+    "title": "Watson Amelia Ch. hololive-EN",
+    "description": "She heard strange rumors surrounding Hololive online: talking foxes, magical squirrels, superhuman dogs, and more. Soon after ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/IhrkWQ9jdq0-NqX6tuMIkzia560fo_jTg9qWYy223eGIDu3ZcJPRkl1hgY2ZuxLTvRyAdjRd0w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/IhrkWQ9jdq0-NqX6tuMIkzia560fo_jTg9qWYy223eGIDu3ZcJPRkl1hgY2ZuxLTvRyAdjRd0w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/IhrkWQ9jdq0-NqX6tuMIkzia560fo_jTg9qWYy223eGIDu3ZcJPRkl1hgY2ZuxLTvRyAdjRd0w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Watson Amelia Ch. hololive-EN",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-07-16T06:24:42Z"
+  }
+}

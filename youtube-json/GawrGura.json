@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "ewctRe8Fl0xWpjpyESb2lx-nGRY",
+  "etag": "p79mYu3LcDyfLq-TpxSu7Ixdl8M",
   "id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
   "snippet": {
     "title": "Gawr Gura Ch. hololive-EN",
@@ -30,9 +30,9 @@
     "country": "JP"
   },
   "statistics": {
-    "viewCount": "270128802",
+    "viewCount": "270284127",
     "subscriberCount": "3950000",
     "hiddenSubscriberCount": false,
-    "videoCount": "339"
+    "videoCount": "340"
   }
 }
