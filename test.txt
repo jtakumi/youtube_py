@@ -1,0 +1,39 @@
+**********
+{
+  "kind": "youtube#channel",
+  "etag": "Jd6huXH43-7KF5uwPKOZwzFAWj0",
+  "id": "UC8xkzBruPP96NI22ki4mB_w",
+  "snippet": {
+    "title": "バーバパパ",
+    "description": "",
+    "publishedAt": "2016-09-13T07:59:31Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS4gTTcwsy4HqD60ArMBlA85bwO2101HZbGCQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS4gTTcwsy4HqD60ArMBlA85bwO2101HZbGCQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS4gTTcwsy4HqD60ArMBlA85bwO2101HZbGCQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "バーバパパ",
+      "description": ""
+    }
+  },
+  "statistics": {
+    "viewCount": "139279589",
+    "subscriberCount": "541000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "77"
+  }
+}
+**********
