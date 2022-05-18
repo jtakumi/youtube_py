@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "Ed6ImXp2pLbXsebwM5zVnQpxevI",
+  "etag": "SZFhS4PpqG8ifDdbRiPwyDHDhy4",
   "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
   "snippet": {
     "title": "Okayu Ch. 猫又おかゆ",
@@ -30,9 +30,9 @@
     "country": "JP"
   },
   "statistics": {
-    "viewCount": "191231408",
+    "viewCount": "191442338",
     "subscriberCount": "1380000",
     "hiddenSubscriberCount": false,
-    "videoCount": "572"
+    "videoCount": "573"
   }
 }
