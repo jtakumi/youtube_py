@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "m19fMUSqqYanfJQAsU4OzELBi7A",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCa9Y57gfeY0Zro_noHRVrnw"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-04T09:26:28Z",
+    "channelId": "UCa9Y57gfeY0Zro_noHRVrnw",
+    "title": "Luna Ch. 姫森ルーナ",
+    "description": "ホロライブ4期生。 お菓子の国のお姫様。 甘えんぼで人懐っこいがわがままを言ってたびたび執事に怒られている。 月のアクセ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/O7m_5HMY_O8yxR3Jhn9cEO1fLNL_GifMERExnAmfY7JrdTRsTjNijTcNYTPN97Llj3zGn8Susw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/O7m_5HMY_O8yxR3Jhn9cEO1fLNL_GifMERExnAmfY7JrdTRsTjNijTcNYTPN97Llj3zGn8Susw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/O7m_5HMY_O8yxR3Jhn9cEO1fLNL_GifMERExnAmfY7JrdTRsTjNijTcNYTPN97Llj3zGn8Susw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Luna Ch. 姫森ルーナ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-12-04T09:26:28Z"
+  }
+}
