@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "5OLtGnlT88Seg5SA-mp2O1f143g",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCXteDRy5qB0IjA8WPusCJ7w"
+  },
+  "snippet": {
+    "publishedAt": "2005-09-25T11:13:24Z",
+    "channelId": "UCXteDRy5qB0IjA8WPusCJ7w",
+    "title": "Mr.Children Official Channel",
+    "description": "Mr.Children Official YouTube Channel.",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/tvUu2SeGzUlDGI3a4oJAA9WoUKSW6jVE8uHwdfrfw-M1M9FF16X1H3FTkEsL9uCOFGD6Hzc9ag=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/tvUu2SeGzUlDGI3a4oJAA9WoUKSW6jVE8uHwdfrfw-M1M9FF16X1H3FTkEsL9uCOFGD6Hzc9ag=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/tvUu2SeGzUlDGI3a4oJAA9WoUKSW6jVE8uHwdfrfw-M1M9FF16X1H3FTkEsL9uCOFGD6Hzc9ag=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Mr.Children Official Channel",
+    "liveBroadcastContent": "none",
+    "publishTime": "2005-09-25T11:13:24Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "si5_3SBRfrwsIlY0v-C0tqaLCHQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCDqI2jOz0weumE8s7paEk6g"
+  },
+  "snippet": {
+    "publishedAt": "2018-02-08T00:59:18Z",
+    "channelId": "UCDqI2jOz0weumE8s7paEk6g",
+    "title": "Roboco Ch. - ロボ子",
+    "description": "初めまして。ホロライブ所属、バーチャルロボットYouTuberの「ロボ子さん」です。 メイン活動は生放送！たまに動画も投稿し ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT1nccfyEH7yPGHnNqO7C8Ak2jw3scnVdKfSnTe2g=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT1nccfyEH7yPGHnNqO7C8Ak2jw3scnVdKfSnTe2g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT1nccfyEH7yPGHnNqO7C8Ak2jw3scnVdKfSnTe2g=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Roboco Ch. - ロボ子",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-02-08T00:59:18Z"
+  }
+}

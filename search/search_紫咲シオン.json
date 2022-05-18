@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "l_clC4BABg_elh9KdJsO57iFvdg",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCXTpFs_3PqI41qX2d9tL2Rw"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-03T08:32:21Z",
+    "channelId": "UCXTpFs_3PqI41qX2d9tL2Rw",
+    "title": "Shion Ch. 紫咲シオン",
+    "description": "ホロライブ所属   紫咲シオンです！ YouTubeのチャンネル登録、Twitterのフォローもよろしくね   ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/AyUL9W0ltc_aJr_MysuZBx8hRfb1SIVNREgU9kiOO-lqmdhYkEsllmhagertVIwHwa3UAAKy=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/AyUL9W0ltc_aJr_MysuZBx8hRfb1SIVNREgU9kiOO-lqmdhYkEsllmhagertVIwHwa3UAAKy=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/AyUL9W0ltc_aJr_MysuZBx8hRfb1SIVNREgU9kiOO-lqmdhYkEsllmhagertVIwHwa3UAAKy=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Shion Ch. 紫咲シオン",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-08-03T08:32:21Z"
+  }
+}

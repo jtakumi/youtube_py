@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "ydvEcvv3VQST3r70Xu4NxHPO6ys",
+  "id": "UCXteDRy5qB0IjA8WPusCJ7w",
+  "snippet": {
+    "title": "Mr.Children Official Channel",
+    "description": "Mr.Children Official YouTube Channel",
+    "publishedAt": "2005-09-25T11:13:24Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/tvUu2SeGzUlDGI3a4oJAA9WoUKSW6jVE8uHwdfrfw-M1M9FF16X1H3FTkEsL9uCOFGD6Hzc9ag=s88-c-k-c0x00ffffff-no-nd-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/tvUu2SeGzUlDGI3a4oJAA9WoUKSW6jVE8uHwdfrfw-M1M9FF16X1H3FTkEsL9uCOFGD6Hzc9ag=s240-c-k-c0x00ffffff-no-nd-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/tvUu2SeGzUlDGI3a4oJAA9WoUKSW6jVE8uHwdfrfw-M1M9FF16X1H3FTkEsL9uCOFGD6Hzc9ag=s800-c-k-c0x00ffffff-no-nd-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Mr.Children Official Channel",
+      "description": "Mr.Children Official YouTube Channel"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "1108204757",
+    "subscriberCount": "1390000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "144"
+  }
+}

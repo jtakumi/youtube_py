@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "MpctP1JK_TCBK1xCMsPYetsmCks",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCD8HOxPs4Xvsm8H0ZxXGiBw"
+  },
+  "snippet": {
+    "publishedAt": "2018-04-25T02:07:54Z",
+    "channelId": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+    "title": "Mel Channel 夜空メルチャンネル",
+    "description": "魔界の天才ヴァンパイア！ ホロライブ１期生の夜空メルです   お手紙・プレゼントはこちらまで   〒173-0003 東京都板橋区 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/lj909MK0P40YuGurbNswbYSywUkDi_7cwpLDzSzRb4R82VKopTGw_zERnZZeFPgrSC6_N6bKbDU=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/lj909MK0P40YuGurbNswbYSywUkDi_7cwpLDzSzRb4R82VKopTGw_zERnZZeFPgrSC6_N6bKbDU=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/lj909MK0P40YuGurbNswbYSywUkDi_7cwpLDzSzRb4R82VKopTGw_zERnZZeFPgrSC6_N6bKbDU=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Mel Channel 夜空メルチャンネル",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-04-25T02:07:54Z"
+  }
+}

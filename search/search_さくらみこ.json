@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "7qyfYqFmYTOPiQ8CEEyfQ6eBO7Y",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC-hM6YJuNYVAmUWxeIr9FeA"
+  },
+  "snippet": {
+    "publishedAt": "2018-04-25T02:45:48Z",
+    "channelId": "UC-hM6YJuNYVAmUWxeIr9FeA",
+    "title": "Miko Ch. さくらみこ",
+    "description": "にゃっはろ～！ ホロライブ所属のエリート巫女アイドル さくらみこ (Sakura Miko)だにぇ     ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR4HgNRKHFFp8B_r3Tex0UA3a81s_2Rb9TkVf12BA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR4HgNRKHFFp8B_r3Tex0UA3a81s_2Rb9TkVf12BA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR4HgNRKHFFp8B_r3Tex0UA3a81s_2Rb9TkVf12BA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Miko Ch. さくらみこ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-04-25T02:45:48Z"
+  }
+}
