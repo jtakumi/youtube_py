@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "dJeZlI_sgZjzUoZ6lYXUERazRsA",
+  "id": "UCv6P5nsS9rP4tDtFlqLU_QQ",
+  "snippet": {
+    "title": "ずっと真夜中でいいのに。 ZUTOMAYO",
+    "description": "",
+    "customUrl": "zutomayo",
+    "publishedAt": "2018-05-15T09:56:56Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/08nK4wXv0HKbd_gN-4LA-5J0U-hacYff7b0zIzRQwBwR8U2KH2hDrmDrsDs1mUfOtpl-HnjAgw=s88-c-k-c0x00ffffff-no-nd-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/08nK4wXv0HKbd_gN-4LA-5J0U-hacYff7b0zIzRQwBwR8U2KH2hDrmDrsDs1mUfOtpl-HnjAgw=s240-c-k-c0x00ffffff-no-nd-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/08nK4wXv0HKbd_gN-4LA-5J0U-hacYff7b0zIzRQwBwR8U2KH2hDrmDrsDs1mUfOtpl-HnjAgw=s800-c-k-c0x00ffffff-no-nd-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ずっと真夜中でいいのに。 ZUTOMAYO",
+      "description": ""
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "509895338",
+    "subscriberCount": "1850000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "55"
+  }
+}

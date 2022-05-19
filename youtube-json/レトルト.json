@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "z1qnuczxI0VfH7w72__1lfw1hz8",
+  "id": "UCPVr7clenPjpD7WNsSI3UBQ",
+  "snippet": {
+    "title": "レトルト",
+    "description": "ゲーム実況・実写動画など動画を投稿していきます！\n現在は主に、ホラーゲーム・バカゲー・実写動画などを投稿中。\n●ツイッター⇒https://twitter.com/retokani\n●インスタ⇒https://www.instagram.com/retort64/",
+    "customUrl": "retokani",
+    "publishedAt": "2014-06-11T05:19:04Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTahfK03H4Hd5cZ-ZauWv_lujyfhwB2DTIrR9TdJA=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTahfK03H4Hd5cZ-ZauWv_lujyfhwB2DTIrR9TdJA=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTahfK03H4Hd5cZ-ZauWv_lujyfhwB2DTIrR9TdJA=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "レトルト",
+      "description": "ゲーム実況・実写動画など動画を投稿していきます！\n現在は主に、ホラーゲーム・バカゲー・実写動画などを投稿中。\n●ツイッター⇒https://twitter.com/retokani\n●インスタ⇒https://www.instagram.com/retort64/"
+    }
+  },
+  "statistics": {
+    "viewCount": "1994807420",
+    "subscriberCount": "2240000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "3014"
+  }
+}

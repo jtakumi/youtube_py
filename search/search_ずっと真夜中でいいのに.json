@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Ui2GWu7IBBQVJh2QX6G9bS27WPo",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-15T09:56:56Z",
+    "channelId": "UCv6P5nsS9rP4tDtFlqLU_QQ",
+    "title": "ずっと真夜中でいいのに。 ZUTOMAYO",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQ9F3adf86PD-EL6i49jeq42xdZA1xOXGnpJ8RiQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQ9F3adf86PD-EL6i49jeq42xdZA1xOXGnpJ8RiQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQ9F3adf86PD-EL6i49jeq42xdZA1xOXGnpJ8RiQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "ずっと真夜中でいいのに。 ZUTOMAYO",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-05-15T09:56:56Z"
+  }
+}
+{
+  "kind": "youtube#searchResult",
+  "etag": "2eDprqJdsHsMejCTYDRazXrRRBA",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCcd-GOvl9DdyPVHQxy58bOw"
+  },
+  "snippet": {
+    "publishedAt": "2021-10-14T08:02:16Z",
+    "channelId": "UCcd-GOvl9DdyPVHQxy58bOw",
+    "title": "ずっと真夜中でいいのに。ZUTOMAYO",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/08nK4wXv0HKbd_gN-4LA-5J0U-hacYff7b0zIzRQwBwR8U2KH2hDrmDrsDs1mUfOtpl-HnjAgw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/08nK4wXv0HKbd_gN-4LA-5J0U-hacYff7b0zIzRQwBwR8U2KH2hDrmDrsDs1mUfOtpl-HnjAgw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/08nK4wXv0HKbd_gN-4LA-5J0U-hacYff7b0zIzRQwBwR8U2KH2hDrmDrsDs1mUfOtpl-HnjAgw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "ずっと真夜中でいいのに。ZUTOMAYO",
+    "liveBroadcastContent": "none",
+    "publishTime": "2021-10-14T08:02:16Z"
+  }
+}
