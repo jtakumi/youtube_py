@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "jee5EDTqce9OyfoUHVvgdAXzJOo",
+  "id": "UCbVwiRCE41y11zIO1rKb9LA",
+  "snippet": {
+    "title": "BIG SARU",
+    "description": "主にMGSの動画を投稿します\n名前は「走るダンボール箱」「BIG_SARU」「儀式の人」など\nYOU TUBEではMGS以外のゲーム動画もたまにアップします\n\n방문해주셔서 감사합니다\n주로 메탈기어 솔리드 시리즈(MGS) 영상을 업로드합니다\n가끔 MGS 이외의 영상도 올립니다\n\nThank you for visiting\nI mainly upload videos of the Metal Gear Solid series\nSometimes I post videos other than MGS\n",
+    "customUrl": "bigsaru",
+    "publishedAt": "2012-09-30T12:30:34Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRxztybymDAQ52Qhpkggefk8iE43BgD5j8wdJqCFg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRxztybymDAQ52Qhpkggefk8iE43BgD5j8wdJqCFg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRxztybymDAQ52Qhpkggefk8iE43BgD5j8wdJqCFg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "BIG SARU",
+      "description": "主にMGSの動画を投稿します\n名前は「走るダンボール箱」「BIG_SARU」「儀式の人」など\nYOU TUBEではMGS以外のゲーム動画もたまにアップします\n\n방문해주셔서 감사합니다\n주로 메탈기어 솔리드 시리즈(MGS) 영상을 업로드합니다\n가끔 MGS 이외의 영상도 올립니다\n\nThank you for visiting\nI mainly upload videos of the Metal Gear Solid series\nSometimes I post videos other than MGS\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "37714961",
+    "subscriberCount": "168000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "262"
+  }
+}
