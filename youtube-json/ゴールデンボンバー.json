@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "_NmYYljEhGgRkROSEVB7wp_f_dc",
+  "id": "UC4wKG5KyK_jstc2g01PZBcg",
+  "snippet": {
+    "title": "ゴールデンボンバー公式",
+    "description": "ゴールデンボンバーのYouTube公式チャンネルです。",
+    "customUrl": "goldenbomberofficial",
+    "publishedAt": "2012-04-29T09:02:48Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/A0s2yy5LvtQTLWSD19j1VTv0wzdwsMwGhqUfePUG8HjQp22AdfamTF0OXEzbIlqaxkRVTibL8g=s88-c-k-c0x00ffffff-no-nd-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/A0s2yy5LvtQTLWSD19j1VTv0wzdwsMwGhqUfePUG8HjQp22AdfamTF0OXEzbIlqaxkRVTibL8g=s240-c-k-c0x00ffffff-no-nd-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/A0s2yy5LvtQTLWSD19j1VTv0wzdwsMwGhqUfePUG8HjQp22AdfamTF0OXEzbIlqaxkRVTibL8g=s800-c-k-c0x00ffffff-no-nd-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ゴールデンボンバー公式",
+      "description": "ゴールデンボンバーのYouTube公式チャンネルです。"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "86723971",
+    "subscriberCount": "292000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "354"
+  }
+}
