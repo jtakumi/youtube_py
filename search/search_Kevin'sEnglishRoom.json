@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "ETstej77jUq3Lq8n8AUhJkKwUmg",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCFbp2XdRpKfk7mYt_uT8dxw"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-05T02:47:45Z",
+    "channelId": "UCFbp2XdRpKfk7mYt_uT8dxw",
+    "title": "Kevin's English Room / 掛山ケビ志郎",
+    "description": "大学からの友達３人組です！ 英語系、音楽系、日常系など僕たちの日常通りの楽しく喋っているだけの動画を投稿しています！",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQllFzf26J54L4mmMSJQmJxwFasNIQj2wuxnq0=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQllFzf26J54L4mmMSJQmJxwFasNIQj2wuxnq0=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRQllFzf26J54L4mmMSJQmJxwFasNIQj2wuxnq0=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Kevin's English Room / 掛山ケビ志郎",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-12-05T02:47:45Z"
+  }
+}
