@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "VVr4i0WLGAnuaM0AbQFWn6v-_wg",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCduDJ6s3mMchYMy2HvqalxQ"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-12T06:42:35Z",
+    "channelId": "UCduDJ6s3mMchYMy2HvqalxQ",
+    "title": "アバタロー",
+    "description": "人生に効く「古今東西の名著」をラジオ感覚で紹介しております。 ゆる～く配信してますので、更新頻度は不定期ですm(__)m ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/XxCeorwoC3ibp5F4S8OsgX2MK7W3BrKQihSLrxklEnwLQXYA71Uv7vRyT8v1IgF-EMP-oJ44bA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/XxCeorwoC3ibp5F4S8OsgX2MK7W3BrKQihSLrxklEnwLQXYA71Uv7vRyT8v1IgF-EMP-oJ44bA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/XxCeorwoC3ibp5F4S8OsgX2MK7W3BrKQihSLrxklEnwLQXYA71Uv7vRyT8v1IgF-EMP-oJ44bA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "アバタロー",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-08-12T06:42:35Z"
+  }
+}

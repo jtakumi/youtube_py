@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "yidbdIxfCFk_kpmglwcTYw_2-GU",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC4wKG5KyK_jstc2g01PZBcg"
+  },
+  "snippet": {
+    "publishedAt": "2012-04-29T09:02:48Z",
+    "channelId": "UC4wKG5KyK_jstc2g01PZBcg",
+    "title": "ゴールデンボンバー公式",
+    "description": "ゴールデンボンバーのYouTube公式チャンネルです。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/A0s2yy5LvtQTLWSD19j1VTv0wzdwsMwGhqUfePUG8HjQp22AdfamTF0OXEzbIlqaxkRVTibL8g=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/A0s2yy5LvtQTLWSD19j1VTv0wzdwsMwGhqUfePUG8HjQp22AdfamTF0OXEzbIlqaxkRVTibL8g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/A0s2yy5LvtQTLWSD19j1VTv0wzdwsMwGhqUfePUG8HjQp22AdfamTF0OXEzbIlqaxkRVTibL8g=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "ゴールデンボンバー公式",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2012-04-29T09:02:48Z"
+  }
+}

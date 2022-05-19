@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "izuwwsq2NwXtBbCFwSfm1h9Q89c",
+  "id": "UCRIgIJQWuBJ0Cv_VlU3USNA",
+  "snippet": {
+    "title": "ヨルシカ / n-buna Official",
+    "description": "ヨルシカ / n-buna official channel",
+    "customUrl": "nbuna",
+    "publishedAt": "2013-03-22T09:47:38Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQIIrZ9Qz1WFuLw6YuOzENINQjv4Q5u7C7Ebylf=s88-c-k-c0x00ffffff-no-rj-mo",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQIIrZ9Qz1WFuLw6YuOzENINQjv4Q5u7C7Ebylf=s240-c-k-c0x00ffffff-no-rj-mo",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQIIrZ9Qz1WFuLw6YuOzENINQjv4Q5u7C7Ebylf=s800-c-k-c0x00ffffff-no-rj-mo",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ヨルシカ / n-buna Official",
+      "description": "ヨルシカ / n-buna official channel"
+    }
+  },
+  "statistics": {
+    "viewCount": "1301266816",
+    "subscriberCount": "2440000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "46"
+  }
+}
