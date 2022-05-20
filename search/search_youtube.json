@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "TiMtpmg_E1PoZQBptSFRWSr98T0",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+  },
+  "snippet": {
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": "YouTube",
+    "description": "YouTube's Official Channel helps you discover what's new & trending globally. Watch must-see videos, from music to culture to ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "YouTube",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "1970-01-01T00:00:00Z"
+  }
+}
