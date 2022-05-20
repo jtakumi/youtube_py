@@ -11,15 +11,20 @@ https://qiita.com/rkamikawa/items/dd1fd4c1427ece787eea
 https://ccie-go.com/python-json/#toc9
 https://techacademy.jp/magazine/23279
 """
-
 def read_json():
     key=input()
     fnp='search/search_' + key + '.json'
 
-    with open(fnp,"r",encoding='utf-8') as f:
-        jsn=json.load(f)
+    #ファイルがなかったときは強制終了
+    try:
+        with open(fnp,"r",encoding='utf-8') as f:
+            jsn=json.load(f)
+    except Exception as e:
+        sys.exit('error')
+    else:
         #idというkeyの中のchannelIdを取り出す
         return jsn['id']['channelId']
+    
 
 def file_make(fn,search_respose):
     with open(fn,'w',encoding='utf-8') as f:
@@ -58,7 +63,6 @@ search_word=read_json()
 
 
 #jsonファイルに結果を書きこむ
-print('please input file name.(no extension)')
 fn=input()
 fn=fn+'.json'
 

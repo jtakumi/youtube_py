@@ -4,6 +4,7 @@ import os
 import datetime
 import sys
 
+key=''
 
 """
 参考サイト
@@ -12,8 +13,8 @@ https://ccie-go.com/python-json/#toc9
 https://techacademy.jp/magazine/23279
 """
 
-def read_json():
-    key=input()
+
+def read_json(key):
     fnp='search/search_' + key + '.json'
 
     #ファイルがなかったときは強制終了
@@ -60,12 +61,13 @@ def main():
     YOUTUBE_API_VERSION='v3'
 
     print("please input the keyword.")
-    search_word=read_json()
+    key=input()
+    search_word=read_json(key)
 
 
     #jsonファイルに結果を書きこむ
-    fn=search_word
-    fn=fn+'.json'
+    print('please input file name.(no extension)')
+    fn=key + '.json'
 
 
     youtube=build(
