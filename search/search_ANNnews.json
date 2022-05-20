@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "0huwvhhC9mRthfoQqxHN6KVKh4E",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ"
+  },
+  "snippet": {
+    "publishedAt": "2009-09-10T09:54:34Z",
+    "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+    "title": "ANNnewsCH",
+    "description": "テレビ局ならではの正確なニュース・情報をスピーディーに高画質で!!テレビ朝日系列26局が総力を挙げ取材したニュースは ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT8q9CX4OBJFSjoTzTe_t-zEAt67Sr2PxqqM3DXLg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT8q9CX4OBJFSjoTzTe_t-zEAt67Sr2PxqqM3DXLg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT8q9CX4OBJFSjoTzTe_t-zEAt67Sr2PxqqM3DXLg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "ANNnewsCH",
+    "liveBroadcastContent": "live",
+    "publishTime": "2009-09-10T09:54:34Z"
+  }
+}
