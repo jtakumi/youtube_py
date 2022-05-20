@@ -22,6 +22,7 @@ def read_json():
             jsn=json.load(f)
     except Exception as e:
         sys.exit('error')
+        
     else:
         #idというkeyの中のchannelIdを取り出す
         return jsn['id']['channelId']
@@ -53,33 +54,34 @@ def git(fn):
         print('Bye')
 
 
-def main():
-    #API情報
-    API_KEY='own_key'
-    YOUTUBE_API_SERVICE_NAME='youtube'
-    YOUTUBE_API_VERSION='v3'
 
-    print("please input the keyword.")
-    search_word=read_json()
+#API情報
+API_KEY='AIzaSyApW7J2kODcXuSRFnoKDEiigaDxjbH42a4'
+YOUTUBE_API_SERVICE_NAME='youtube'
+YOUTUBE_API_VERSION='v3'
 
-
-    #jsonファイルに結果を書きこむ
-    fn=search_word
-    fn=fn+'.json'
+print("please input the keyword.")
+search_word=read_json()
 
 
-    youtube=build(
-        YOUTUBE_API_SERVICE_NAME,
-        YOUTUBE_API_VERSION,
-        developerKey = API_KEY
-    )
+#jsonファイルに結果を書きこむ
+print('please input file name.(no extension)')
+fn=input()
+fn=fn+'.json'
 
-    search_respose=youtube.channels().list(
-        part='snippet,statistics',
-        id=search_word
-    ).execute()
 
-    file_make(fn,search_respose)
-    git(fn)
+youtube=build(
+    YOUTUBE_API_SERVICE_NAME,
+    YOUTUBE_API_VERSION,
+    developerKey = API_KEY
+)
+
+search_respose=youtube.channels().list(
+    part='snippet,statistics',
+    id=search_word
+).execute()
+
+file_make(fn,search_respose)
+git(fn)
 
 
