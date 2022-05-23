@@ -4,9 +4,11 @@ import datetime
 
 c=0
 dir='.\hololive'
+today=datetime.date.today()
+today=today.strftime('%y/%m/%d')
 with open('hololive_members.csv','w',encoding='utf-8') as f:
     print('---hololive members---',file=f)
-    print('---hololive members---')
+    print('date:',today,file=f)
     for i in os.listdir(dir):
         c+=1
         #ファイルのパスを取得
@@ -15,7 +17,6 @@ with open('hololive_members.csv','w',encoding='utf-8') as f:
         member=os.path.splitext( os.path.basename(path))[0]
         print(member)
         print(member,file=f)
-    print("member count=",c)
     print("member count=",c,file=f)
 
 os.system('git add count_youtube.py hololive_members.csv')
