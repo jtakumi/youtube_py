@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "yq4uFxvpgXw1MCwRBC93v-SyRus",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg"
+  },
+  "snippet": {
+    "publishedAt": "2020-07-16T06:23:05Z",
+    "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+    "title": "Ninomae Ina'nis Ch. hololive-EN",
+    "description": "One day, she picked up a strange book and then started to gain the power of controlling tentacles. To her, tentacles are just a part ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Ninomae Ina'nis Ch. hololive-EN",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-07-16T06:23:05Z"
+  }
+}
