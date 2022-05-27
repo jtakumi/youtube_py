@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "BvHcf52L9C80SInKfxpEuonuy84",
+  "etag": "zrHcjXGxSAgnS4-4FxjkhTvbfn8",
   "id": "UCjLEmnpCNeisMxy134KPwWw",
   "snippet": {
     "title": "Kobo Kanaeru Ch. hololive-ID",
@@ -30,8 +30,8 @@
     "country": "JP"
   },
   "statistics": {
-    "viewCount": "12542680",
-    "subscriberCount": "605000",
+    "viewCount": "12935731",
+    "subscriberCount": "606000",
     "hiddenSubscriberCount": false,
     "videoCount": "51"
   }

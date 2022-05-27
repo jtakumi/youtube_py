@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "S08upyYf1laqny11QyaVNXMarqE",
+  "etag": "p8r8DXj8uDqcasxg7Ccx16SunPU",
   "id": "UCyl1z3jo3XHR1riLFKG5UAg",
   "snippet": {
     "title": "Watson Amelia Ch. hololive-EN",
@@ -33,6 +33,6 @@
     "viewCount": "126044350",
     "subscriberCount": "1660000",
     "hiddenSubscriberCount": false,
-    "videoCount": "555"
+    "videoCount": "556"
   }
 }
