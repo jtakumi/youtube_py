@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "Kb_fMD7wi-RCNx0faa0A3eWu7tA",
+  "etag": "ZTulnVasR5-xUmzRbRpxaJeMKgU",
   "id": "UC3n5uGu18FoCy23ggWWp8tA",
   "snippet": {
     "title": "Nanashi Mumei Ch. hololive-EN",
@@ -30,8 +30,8 @@
     "country": "JP"
   },
   "statistics": {
-    "viewCount": "34153717",
-    "subscriberCount": "647000",
+    "viewCount": "34476119",
+    "subscriberCount": "648000",
     "hiddenSubscriberCount": false,
     "videoCount": "155"
   }

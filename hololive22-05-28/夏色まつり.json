@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "0hFXM-anFFWOMKbFjknDVSKdetc",
+  "etag": "B--j9CQFJPV-ERablmQ8dDElfTA",
   "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
   "snippet": {
     "title": "Matsuri Channel 夏色まつり",
@@ -33,6 +33,6 @@
     "viewCount": "114895497",
     "subscriberCount": "1240000",
     "hiddenSubscriberCount": false,
-    "videoCount": "757"
+    "videoCount": "758"
   }
 }

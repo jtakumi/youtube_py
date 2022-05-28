@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "lrafUEq26NjfMI9DuWOMkcNDyD8",
+  "etag": "ZLhT7amNek30C_lKkO7SYDSqKnM",
   "id": "UCTvHWSfBZgtxE4sILOaurIQ",
   "snippet": {
     "title": "Vestia Zeta Ch. hololive-ID",
@@ -30,8 +30,8 @@
     "country": "JP"
   },
   "statistics": {
-    "viewCount": "7157744",
-    "subscriberCount": "387000",
+    "viewCount": "7229618",
+    "subscriberCount": "388000",
     "hiddenSubscriberCount": false,
     "videoCount": "65"
   }

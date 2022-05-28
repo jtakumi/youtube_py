@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "vpN7ABoJYOe3cjhqNb6ylWHkk2E",
+  "etag": "ZZPFqTty03dkwfu8sAUPAPSModw",
   "id": "UCCzUftO8KOVkV4wQG1vkUvg",
   "snippet": {
     "title": "Marine Ch. 宝鐘マリン",
@@ -30,9 +30,9 @@
     "country": "JP"
   },
   "statistics": {
-    "viewCount": "348405453",
+    "viewCount": "348568483",
     "subscriberCount": "1920000",
     "hiddenSubscriberCount": false,
-    "videoCount": "742"
+    "videoCount": "743"
   }
 }

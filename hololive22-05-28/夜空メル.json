@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "5dDU5XQnYHhH5rvgjZbljXka1o4",
+  "etag": "XcZKTux7CaxALsxFoxVnCZNv9Hs",
   "id": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
   "snippet": {
     "title": "Mel Channel 夜空メルチャンネル",
@@ -30,7 +30,7 @@
     "country": "JP"
   },
   "statistics": {
-    "viewCount": "28180045",
+    "viewCount": "28208725",
     "subscriberCount": "720000",
     "hiddenSubscriberCount": false,
     "videoCount": "311"
