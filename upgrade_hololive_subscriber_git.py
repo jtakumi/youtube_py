@@ -78,7 +78,7 @@ def make_csv(tddir):
     fn='holo_subscriber_before_sort' + d1 + 'data.csv'
     csv_dir=os.path.join('.\holo_csv',d1)
     path=os.path.join(csv_dir,fn)
-    with open(path,'w',encoding='utf-8') as wf:
+    with open(path,'w',encoding='utf-8-sig') as wf:
         #改行まで書きます
         writer=csv.writer(wf,lineterminator='\n')
         #ヘッダーを書き出す
@@ -97,7 +97,7 @@ def make_csv(tddir):
     fna='holo_subscriber_after_sort' + d1 + 'data.csv'
     csv_dir=os.path.join('.\holo_csv',d1)
     path_a=os.path.join(csv_dir,fna)
-    with open(path_a,'w',encoding='utf-8') as wf:
+    with open(path_a,'w',encoding='utf-8-sig') as wf:
          #改行まで書きます
         writer=csv.writer(wf,lineterminator='\n')
         #ヘッダーを書き出す

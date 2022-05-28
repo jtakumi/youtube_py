@@ -76,8 +76,9 @@ def make_csv(tddir):
     global member_a
     global video
     fn='holo_videocount_before_sort' + d1 + 'data.csv'
-    path=os.path.join('./holo_csv/',fn)
-    with open(path,'w',encoding='utf-8') as wf:
+    csv_dir=os.path.join('.\holo_csv',d1)
+    path=os.path.join(csv_dir,fn)
+    with open(path,'w',encoding='utf-8-sig') as wf:
         #改行まで書きます
         writer=csv.writer(wf,lineterminator='\n')
         #ヘッダーを書き出す
@@ -94,8 +95,9 @@ def make_csv(tddir):
     #戻す
     video,member_a=zip(*sm)
     fna='holo_videocount_after_sort' + d1 + 'data.csv'
-    path_a=os.path.join('./holo_csv/',fna)
-    with open(path_a,'w',encoding='utf-8') as wf:
+    csv_dir=os.path.join('.\holo_csv',d1)
+    path_a=os.path.join(csv_dir,fna)
+    with open(path_a,'w',encoding='utf-8-sig') as wf:
          #改行まで書きます
         writer=csv.writer(wf,lineterminator='\n')
         #ヘッダーを書き出す
@@ -108,7 +110,10 @@ def make_csv(tddir):
 
 def make_dir():
     mkdir='mkdir '+ dir + d1
+    csv_dir=os.path.join('.\holo_csv',d1)
+    mk_csv_dir='mkdir '+ csv_dir
     os.system(mkdir)
+    os.system(mk_csv_dir)
     todir=dir + d1
     return todir
 
