@@ -115,7 +115,9 @@ def make_dir():
 def git(tddir):
     #自動commit
     gad='git add ' + tddir + '\.'
+    git_csv='git add ' + '.\holo_csv\.'
     os.system(gad)
+    os.system(git_csv)
     print('Do you want to commit? [y/n]')
     dc=input()
     if(dc=='y'):
