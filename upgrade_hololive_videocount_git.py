@@ -78,6 +78,7 @@ def make_csv(tddir):
     fn='holo_videocount_before_sort' + d1 + 'data.csv'
     csv_dir=os.path.join('.\holo_csv',d1)
     path=os.path.join(csv_dir,fn)
+    #utf-8 with BOM
     with open(path,'w',encoding='utf-8-sig') as wf:
         #改行まで書きます
         writer=csv.writer(wf,lineterminator='\n')
