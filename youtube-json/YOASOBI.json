@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "xCRlr8PcL-RROuMQNXL_B0ulhQw",
+  "id": "UCvpredjG93ifbCP1Y77JyFA",
+  "snippet": {
+    "title": "Ayase / YOASOBI",
+    "description": "ボカロP・Ayase、そしてAyaseがコンポーザーを務めるユニット・YOASOBIのYouTubeチャンネルです。",
+    "customUrl": "ayase0404",
+    "publishedAt": "2018-11-16T23:11:18Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQlab7SciC0zKOTNvVomQGmkQpZIr8yRarFZ4HtZw=s88-c-k-c0x00ffffff-no-rj-mo",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQlab7SciC0zKOTNvVomQGmkQpZIr8yRarFZ4HtZw=s240-c-k-c0x00ffffff-no-rj-mo",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQlab7SciC0zKOTNvVomQGmkQpZIr8yRarFZ4HtZw=s800-c-k-c0x00ffffff-no-rj-mo",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Ayase / YOASOBI",
+      "description": "ボカロP・Ayase、そしてAyaseがコンポーザーを務めるユニット・YOASOBIのYouTubeチャンネルです。"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "1828333449",
+    "subscriberCount": "3830000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "89"
+  }
+}
