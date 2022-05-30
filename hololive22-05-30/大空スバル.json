@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "Rxs-8wQz_KXjHPZglb79H29B3ls",
+  "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+  "snippet": {
+    "title": "Subaru Ch. 大空スバル",
+    "description": "総合格闘技部とe-sports部のマネージャーっす！みんなのファイトのお手伝いするッス!!🌟\n【関連ツイート】#大空スバル 【絵文字】🚑【生放送タグ】#生スバル【アート】#プロテインザスバル 【ﾌｧﾝﾈｰﾑ】スタンド ※このタグのイラストは使わせてもらう事があるっす！ \n大好きな母ちゃん!→@ui_shig",
+    "publishedAt": "2018-08-22T07:29:15Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Nsdn1Wqq6ZUtHEKrpDabcaXo3BwMqEFgSy-hhg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Nsdn1Wqq6ZUtHEKrpDabcaXo3BwMqEFgSy-hhg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ0Nsdn1Wqq6ZUtHEKrpDabcaXo3BwMqEFgSy-hhg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Subaru Ch. 大空スバル",
+      "description": "総合格闘技部とe-sports部のマネージャーっす！みんなのファイトのお手伝いするッス!!🌟\n【関連ツイート】#大空スバル 【絵文字】🚑【生放送タグ】#生スバル【アート】#プロテインザスバル 【ﾌｧﾝﾈｰﾑ】スタンド ※このタグのイラストは使わせてもらう事があるっす！ \n大好きな母ちゃん!→@ui_shig"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "162458676",
+    "subscriberCount": "1320000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "639"
+  }
+}
