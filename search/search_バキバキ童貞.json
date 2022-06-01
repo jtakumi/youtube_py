@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "0B2QT4UOrmKOCFHIKUmYq6Rjglw",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC8embhEdS-QrY3K6XcoyyNg"
+  },
+  "snippet": {
+    "publishedAt": "2020-11-10T07:03:54Z",
+    "channelId": "UC8embhEdS-QrY3K6XcoyyNg",
+    "title": "バキバキ童貞【バキ童】",
+    "description": "街頭インタビューでバズってしまい、私生活が無茶苦茶になりまして。 どうせ無茶苦茶になったならということで、無茶苦茶 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRig97bd19tSP7h770t7_7TINXPemcwmb6h1jvl=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRig97bd19tSP7h770t7_7TINXPemcwmb6h1jvl=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRig97bd19tSP7h770t7_7TINXPemcwmb6h1jvl=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "バキバキ童貞【バキ童】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-11-10T07:03:54Z"
+  }
+}
