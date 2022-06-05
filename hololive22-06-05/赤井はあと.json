@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "5zIvcoQtWe0FPSVyRWlYPrv8cck",
+  "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+  "snippet": {
+    "title": "HAACHAMA Ch 赤井はあと",
+    "description": "はあちゃまっちゃま～！HAACHAMACHAMA~~~!!!\nワールドワイドな最強アイドル！\nはあちゃまこと赤井はあとです！\nTwitter➡https://twitter.com/akaihaato",
+    "publishedAt": "2018-05-24T03:02:52Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/B2tq3IQAFxUe9W3MaMc0V62bmlTWCSoTuCk-Y-Ab8yXkZKdIswQhHABZhz2e4YM1-B_Kxen_7w=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/B2tq3IQAFxUe9W3MaMc0V62bmlTWCSoTuCk-Y-Ab8yXkZKdIswQhHABZhz2e4YM1-B_Kxen_7w=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/B2tq3IQAFxUe9W3MaMc0V62bmlTWCSoTuCk-Y-Ab8yXkZKdIswQhHABZhz2e4YM1-B_Kxen_7w=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "HAACHAMA Ch 赤井はあと",
+      "description": "はあちゃまっちゃま～！HAACHAMACHAMA~~~!!!\nワールドワイドな最強アイドル！\nはあちゃまこと赤井はあとです！\nTwitter➡https://twitter.com/akaihaato"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "175135877",
+    "subscriberCount": "1360000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "786"
+  }
+}
