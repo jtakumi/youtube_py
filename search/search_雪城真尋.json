@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "L8FI6KQ05VFwRgVtQpnHzQlBCtc",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCHX7YpFG8rVwhsHCx34xt7w"
+  },
+  "snippet": {
+    "publishedAt": "2019-04-22T08:55:28Z",
+    "channelId": "UCHX7YpFG8rVwhsHCx34xt7w",
+    "title": "雪城眞尋/Yukishiro Mahiro【にじさんじ所属】",
+    "description": "ひろーく皆に幸せお届け   にじさんじ所属、バーチャルライバーの雪城眞尋です( ˙º˙ *) 高校1年生の15歳！水泳部と演劇部に所属 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/il-QNEBt0bNmOZYlKu9FQgdhgDHwpcEvNn5oi59YznfiwFB5JvkFvINWxz-sTdzaxEId25OCfjk=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/il-QNEBt0bNmOZYlKu9FQgdhgDHwpcEvNn5oi59YznfiwFB5JvkFvINWxz-sTdzaxEId25OCfjk=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/il-QNEBt0bNmOZYlKu9FQgdhgDHwpcEvNn5oi59YznfiwFB5JvkFvINWxz-sTdzaxEId25OCfjk=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "雪城眞尋/Yukishiro Mahiro【にじさんじ所属】",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-04-22T08:55:28Z"
+  }
+}

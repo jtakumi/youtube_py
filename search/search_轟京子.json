@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "VCNLM53Eq5n4U33Qe1xwGquiJoY",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCRV9d6YCYIMUszK-83TwxVA"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-25T00:10:32Z",
+    "channelId": "UCRV9d6YCYIMUszK-83TwxVA",
+    "title": "轟京子/kyoko todoroki【にじさんじ】",
+    "description": "にじさんじの轟京子です✨目指せ    エナジードリンク系バーチャルライバー   どんなことしてるの？   生配信を中心に ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/U-cGSPzDv4uks9oaX3DCE0oeRsI_QzwDtwYt-koDk_7deHb4Wzvl5KKzoh2D5xhpsDeE6b7W=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/U-cGSPzDv4uks9oaX3DCE0oeRsI_QzwDtwYt-koDk_7deHb4Wzvl5KKzoh2D5xhpsDeE6b7W=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/U-cGSPzDv4uks9oaX3DCE0oeRsI_QzwDtwYt-koDk_7deHb4Wzvl5KKzoh2D5xhpsDeE6b7W=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "轟京子/kyoko todoroki【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-05-25T00:10:32Z"
+  }
+}

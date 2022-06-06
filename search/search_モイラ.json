@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_NhK4jYmXG3DTVs2qnN6OFsk9Eo",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCvmppcdYf4HOv-tFQhHHJMA"
+  },
+  "snippet": {
+    "publishedAt": "2018-01-31T09:12:07Z",
+    "channelId": "UCvmppcdYf4HOv-tFQhHHJMA",
+    "title": "《にじさんじ所属の女神》モイラ",
+    "description": "[Twitter]@Moiramoimoimoi.",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTKBRtfrpYcNOdBNo6aEgFvKw9FV4C14xBBUpDP=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTKBRtfrpYcNOdBNo6aEgFvKw9FV4C14xBBUpDP=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTKBRtfrpYcNOdBNo6aEgFvKw9FV4C14xBBUpDP=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "《にじさんじ所属の女神》モイラ",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-01-31T09:12:07Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "n3Hse4iPGK4_qOD5ggELe-KpQpI",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCpnvhOIJ6BN-vPkYU9ls-Eg"
+  },
+  "snippet": {
+    "publishedAt": "2018-12-21T04:07:48Z",
+    "channelId": "UCpnvhOIJ6BN-vPkYU9ls-Eg",
+    "title": "鈴谷アキの陽だまりの庭",
+    "description": "にじさんじ所属公式バーチャルライバー 中学3年男の子、15歳、鈴谷アキです！ 歌、ゲーム、雑談配信をしています！ 皆さんと ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTgMpV9hIQSssAR4WMXuTkz78ManOPHmzfzzH0-=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTgMpV9hIQSssAR4WMXuTkz78ManOPHmzfzzH0-=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTgMpV9hIQSssAR4WMXuTkz78ManOPHmzfzzH0-=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "鈴谷アキの陽だまりの庭",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-12-21T04:07:48Z"
+  }
+}

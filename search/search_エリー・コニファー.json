@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "St9AknBPT_qaLnPlDYw6TPWvsUA",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCpNH2Zk2gw3JBjWAKSyZcQQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-07-29T05:56:37Z",
+    "channelId": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
+    "title": "エリー・コニファー / Eli Conifer【にじさんじ】",
+    "description": "Twitter  ※最新情報はこちら http://twitter.com/Eli_Conifer 皆様、おかエリーなさい！にじさんじ所属 公式バーチャルライバーの、 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQV9M-0iXvQvYqJLueDvBFzxcamxznnKGWTorE_=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQV9M-0iXvQvYqJLueDvBFzxcamxznnKGWTorE_=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQV9M-0iXvQvYqJLueDvBFzxcamxznnKGWTorE_=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "エリー・コニファー / Eli Conifer【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-07-29T05:56:37Z"
+  }
+}

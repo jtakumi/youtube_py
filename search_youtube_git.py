@@ -17,7 +17,7 @@ search_word=input()
 
 #jsonファイルに結果を書きこむ
 
-fn='search_' + search_word + '.json'
+fn='search/search_' + search_word + '.json'
 
 
 youtube=build(
@@ -40,12 +40,8 @@ with open(fn,'w',encoding='utf-8') as f:
             continue
         print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
 
-#できたファイルを移動させる
-mvf='mv'+ ' '+ fn + ' ' + 'search'
-os.system(mvf)
-
 #自動commit
-gad='git add ' + 'search/'+ fn
+gad='git add ' + fn
 os.system(gad)
 print('Do you want to move to youtube.py?[y/n]')
 dc=input()

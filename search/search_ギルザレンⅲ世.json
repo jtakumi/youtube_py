@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "fFYwFafrJ4m-lw3xjCrt1tIv1aQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCUzJ90o1EjqUbk2pBAy0_aw"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-06T13:16:50Z",
+    "channelId": "UCUzJ90o1EjqUbk2pBAy0_aw",
+    "title": "Gilzaren III Season 2",
+    "description": "こちらは我が主、悠久の刻を生きる高貴なるヴァンパイア一族が名門ギルザレン家の現当主にして、にじさんじ所属ヴァンパイア ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSzux_xD8od2HcPMMfktjPi9K0gmTb3AiVhFelhNw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSzux_xD8od2HcPMMfktjPi9K0gmTb3AiVhFelhNw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSzux_xD8od2HcPMMfktjPi9K0gmTb3AiVhFelhNw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Gilzaren III Season 2",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-03-06T13:16:50Z"
+  }
+}
