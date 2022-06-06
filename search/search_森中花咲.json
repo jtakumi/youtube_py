@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "TVQCxv6OpKL2JEQ6yiWcOX4C7_k",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCtpB6Bvhs1Um93ziEDACQ8g"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-14T07:29:33Z",
+    "channelId": "UCtpB6Bvhs1Um93ziEDACQ8g",
+    "title": "森中花咲",
+    "description": "みんな～！る～るるる～(こんにちは) にじさんじ所属バーチャルライバーの森中花咲！10才だけど科学の力でオトナにもなれ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSGLI4zyIISSDVuIc7xUbm-tm5VoOmflk0JcUAQSg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSGLI4zyIISSDVuIc7xUbm-tm5VoOmflk0JcUAQSg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSGLI4zyIISSDVuIc7xUbm-tm5VoOmflk0JcUAQSg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "森中花咲",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-03-14T07:29:33Z"
+  }
+}

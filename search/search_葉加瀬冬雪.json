@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "h-dGIBCW7wRSLrOL9IIXWzRcJCs",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCGYAYLDE7TZiiC8U6teciDQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-15T11:13:04Z",
+    "channelId": "UCGYAYLDE7TZiiC8U6teciDQ",
+    "title": "葉加瀬 冬雪 / Hakase Fuyuki",
+    "description": "にじさんじ所属の葉加瀬 冬雪( はかせ ふゆき )です。 高校二年生。実験と美味しいご飯が好き。 どうぞよろしくお願いします。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQE70W9rNpgIkaR1U3u97kZwjFh4Vh8G_gpd5Tn=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQE70W9rNpgIkaR1U3u97kZwjFh4Vh8G_gpd5Tn=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQE70W9rNpgIkaR1U3u97kZwjFh4Vh8G_gpd5Tn=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "葉加瀬 冬雪 / Hakase Fuyuki",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-06-15T11:13:04Z"
+  }
+}

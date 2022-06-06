@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "WRWtnGun6fP5sNYXjmMnZoJZRl4",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCb5JxV6vKlYVknoJB8TnyYg"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-27T07:28:54Z",
+    "channelId": "UCb5JxV6vKlYVknoJB8TnyYg",
+    "title": "黛 灰 / Kai Mayuzumi【にじさんじ】",
+    "description": "にじさんじ所属バーチャルライバー 黛灰の放送です。 ◯プロフィール 類い稀な才能を持つハッカー 持て余した暇をどうにかする ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQTn1m3YLY4lXjOSXQh0nDgq-jasIj7rZPbrWFk=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQTn1m3YLY4lXjOSXQh0nDgq-jasIj7rZPbrWFk=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQTn1m3YLY4lXjOSXQh0nDgq-jasIj7rZPbrWFk=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "黛 灰 / Kai Mayuzumi【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-06-27T07:28:54Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "bJqMnjDIlEluTwtYlcxKY3k4iQE",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC0g1AE0DOjBYnLhkgoRWN1w"
+  },
+  "snippet": {
+    "publishedAt": "2018-07-02T09:34:28Z",
+    "channelId": "UC0g1AE0DOjBYnLhkgoRWN1w",
+    "title": "本間ひまわり - Himawari Honma -",
+    "description": "おはござ～(・ワ・  )ﾉｼ バーチャルライバー本間ひまわりです！ ほぼ毎日ゲーム配信をしています。 色んなゲームをするのがだー ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQFPb_KIoPk1KxGXzAG71u4rKIUFiEzYRN_xeHm=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQFPb_KIoPk1KxGXzAG71u4rKIUFiEzYRN_xeHm=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQFPb_KIoPk1KxGXzAG71u4rKIUFiEzYRN_xeHm=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "本間ひまわり - Himawari Honma -",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-07-02T09:34:28Z"
+  }
+}

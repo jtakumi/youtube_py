@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "-U_uMv0IUqRf8UdAKnSr-HzZE0g",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCTIE7LM5X15NVugV7Krp9Hw"
+  },
+  "snippet": {
+    "publishedAt": "2018-09-19T07:48:38Z",
+    "channelId": "UCTIE7LM5X15NVugV7Krp9Hw",
+    "title": "夢追翔のJUKE BOX",
+    "description": "にじさんじ、バーチャルシンガーソングライターの男性(29) 森ん中の小さなライブハウスで作曲と歌をやってます。 僕の作品が、 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS0kuALnck7BwyF1OJ3e3yCNni_m6qBXqYmD77I=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS0kuALnck7BwyF1OJ3e3yCNni_m6qBXqYmD77I=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS0kuALnck7BwyF1OJ3e3yCNni_m6qBXqYmD77I=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "夢追翔のJUKE BOX",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-09-19T07:48:38Z"
+  }
+}

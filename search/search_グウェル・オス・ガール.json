@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tCaPVd3RWo9n3elzcFinzZHtrhs",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC1QgXt46-GEvtNjEC1paHnw"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-16T09:04:47Z",
+    "channelId": "UC1QgXt46-GEvtNjEC1paHnw",
+    "title": "グウェル・オス・ガール / Gwelu Os Gar 【にじさんじ】",
+    "description": "にじさんじ所属バーチャルライバー、企画屋/司会屋のエルフ。既婚/一児の父。 ・にじさんじ公式HP https://www.nijisanji.jp ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQzg8xJhnA1WC2kOqvtVKl8JWWr1vxk4vv6GkSX6w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQzg8xJhnA1WC2kOqvtVKl8JWWr1vxk4vv6GkSX6w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQzg8xJhnA1WC2kOqvtVKl8JWWr1vxk4vv6GkSX6w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "グウェル・オス・ガール / Gwelu Os Gar 【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-10-16T09:04:47Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "kIdTNHgYSdnrz87i7Pq1pf6G1V8",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC6wvdADTJ88OfIbJYIpAaDA"
+  },
+  "snippet": {
+    "publishedAt": "2019-10-16T06:08:16Z",
+    "channelId": "UC6wvdADTJ88OfIbJYIpAaDA",
+    "title": "不破 湊 / Fuwa Minato【にじさんじ】",
+    "description": "にじさんじ所属バーチャルホストの不破 湊（ふわ みなと）です ゲームと歌 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSJp6QW_B1DxnHz2odpGQqrR5AqVWTSOFq3T5yIaQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSJp6QW_B1DxnHz2odpGQqrR5AqVWTSOFq3T5yIaQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSJp6QW_B1DxnHz2odpGQqrR5AqVWTSOFq3T5yIaQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "不破 湊 / Fuwa Minato【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-10-16T06:08:16Z"
+  }
+}

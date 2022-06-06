@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Bzt2DTH9lfKPsCJkwglit4jKbYA",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCZ1xuCK1kNmn5RzPYIZop3w"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-19T05:26:11Z",
+    "channelId": "UCZ1xuCK1kNmn5RzPYIZop3w",
+    "title": "リゼ・ヘルエスタ -Lize Helesta-",
+    "description": "ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ プロフィール ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQvtwSF4eaHbVzDe6g458kAgS1k42K_-X2KdPGPsw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQvtwSF4eaHbVzDe6g458kAgS1k42K_-X2KdPGPsw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQvtwSF4eaHbVzDe6g458kAgS1k42K_-X2KdPGPsw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "リゼ・ヘルエスタ -Lize Helesta-",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-03-19T05:26:11Z"
+  }
+}

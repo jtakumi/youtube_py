@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "0mg9j4q4EHSKp14r-_IWyHcmBCQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCBiqkFJljoxAj10SoP2w2Cg"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-08T16:22:33Z",
+    "channelId": "UCBiqkFJljoxAj10SoP2w2Cg",
+    "title": "文野環【にじさんじの野良猫】ふみのたまき",
+    "description": "吾輩は、にじさんじ公式ライバーの野良猫である。名前は文野環！ 猫缶がほしいなっ(o・ω・o) この拾ったスマホでたくさんのお ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSJY-NOEkjMZGbp7tUtMhmkrom7LGmgsljt-Xnv=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSJY-NOEkjMZGbp7tUtMhmkrom7LGmgsljt-Xnv=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSJY-NOEkjMZGbp7tUtMhmkrom7LGmgsljt-Xnv=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "文野環【にじさんじの野良猫】ふみのたまき",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-03-08T16:22:33Z"
+  }
+}

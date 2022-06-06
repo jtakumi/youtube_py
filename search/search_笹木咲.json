@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "zRwti4966f0kpEvzAbLBc3XFvsk",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCoztvTULBYd3WmStqYeoHcA"
+  },
+  "snippet": {
+    "publishedAt": "2018-07-02T09:36:43Z",
+    "channelId": "UCoztvTULBYd3WmStqYeoHcA",
+    "title": "笹木咲 / Sasaki Saku",
+    "description": "にじさんじ所属 笹木咲やよ～。 ゲームだいすき！ ▽ Twitter https://twitter.com/saku_sasaki ▽ fanclub ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLROCo1PmTawsl97a7XC_26AwHFaXiyBuYMbE-_S=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLROCo1PmTawsl97a7XC_26AwHFaXiyBuYMbE-_S=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLROCo1PmTawsl97a7XC_26AwHFaXiyBuYMbE-_S=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "笹木咲 / Sasaki Saku",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-07-02T09:36:43Z"
+  }
+}
+{
+  "kind": "youtube#searchResult",
+  "etag": "mecBB8jNZAVnYqnVVIKa7nHC59o",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCTZqMsaAx8GcnbzFqjU3OOg"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-10T16:08:11Z",
+    "channelId": "UCTZqMsaAx8GcnbzFqjU3OOg",
+    "title": "【新】笹木咲 切り抜きチャンネル",
+    "description": "にじさんじ所属・笹木咲さん関連の切り抜きチャンネルです。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSpUJ6GqhXAnS3kbaKEVi1cCZKR9ELUidfLgo-P=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSpUJ6GqhXAnS3kbaKEVi1cCZKR9ELUidfLgo-P=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSpUJ6GqhXAnS3kbaKEVi1cCZKR9ELUidfLgo-P=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "【新】笹木咲 切り抜きチャンネル",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-12-10T16:08:11Z"
+  }
+}

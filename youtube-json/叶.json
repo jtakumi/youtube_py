@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "-pi5_A7hRtN3Wvcr04ovkqiAsF4",
+  "id": "UCspv01oxUFf_MTSipURRhkA",
+  "snippet": {
+    "title": "Kanae Channel",
+    "description": "にじさんじ\n所属ライバーの叶です！\n\n毎日生放送を行っております。\nゲームの実況や生放送のアーカイブなど\n沢山楽しい動画を楽しく投稿していきたいです！\n\n▼自己紹介▼\n突然天使の如く舞い降りてきた超癒し系男子。\nそして猫のクッションを両手で抱っこしている。話し方もふわふわしている。\n学生のように見えるが何をしているかは不明。\n甘いボイスで、聞いているこちらの心が洗い流されるようなトークを繰り広げる。\n（公式説明文引用）\nイラストレーター U助様 https://twitter.com/u_skeeep\n\n",
+    "customUrl": "kanaechannel",
+    "publishedAt": "2018-05-01T08:37:40Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/dfCsIDvqaK7K1yIzVFGEq5-1cBAdERky6P4qwqcyXFNLVW1cV-rx7J-Gaj6dUSl2ZaRNPdl0gg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/dfCsIDvqaK7K1yIzVFGEq5-1cBAdERky6P4qwqcyXFNLVW1cV-rx7J-Gaj6dUSl2ZaRNPdl0gg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/dfCsIDvqaK7K1yIzVFGEq5-1cBAdERky6P4qwqcyXFNLVW1cV-rx7J-Gaj6dUSl2ZaRNPdl0gg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Kanae Channel",
+      "description": "にじさんじ\n所属ライバーの叶です！\n\n毎日生放送を行っております。\nゲームの実況や生放送のアーカイブなど\n沢山楽しい動画を楽しく投稿していきたいです！\n\n▼自己紹介▼\n突然天使の如く舞い降りてきた超癒し系男子。\nそして猫のクッションを両手で抱っこしている。話し方もふわふわしている。\n学生のように見えるが何をしているかは不明。\n甘いボイスで、聞いているこちらの心が洗い流されるようなトークを繰り広げる。\n（公式説明文引用）\nイラストレーター U助様 https://twitter.com/u_skeeep\n\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "318516330",
+    "subscriberCount": "1010000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "2515"
+  }
+}
