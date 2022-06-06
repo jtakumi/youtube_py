@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tfLpMPuzsb4eezb0eN3F8NOEHRg",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCryOPk2GZ1meIDt53tL30Tw"
+  },
+  "snippet": {
+    "publishedAt": "2018-12-21T02:39:51Z",
+    "channelId": "UCryOPk2GZ1meIDt53tL30Tw",
+    "title": "鈴木勝 / Suzuki Masaru【にじさんじ】",
+    "description": "にじさんじ所属バーチャルライバー、漆黒の捕食者-Darkness Eater-即ちD.E. こと鈴木勝です。 バーチャル中学二年生の男です。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/VOjZReuLyJl7lSVk_dH7g-cDeQPZT9lCtRFY8nn4GfgGV9t5qozIdFpzKRst6n-OkQFW2sAev24=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/VOjZReuLyJl7lSVk_dH7g-cDeQPZT9lCtRFY8nn4GfgGV9t5qozIdFpzKRst6n-OkQFW2sAev24=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/VOjZReuLyJl7lSVk_dH7g-cDeQPZT9lCtRFY8nn4GfgGV9t5qozIdFpzKRst6n-OkQFW2sAev24=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "鈴木勝 / Suzuki Masaru【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-12-21T02:39:51Z"
+  }
+}

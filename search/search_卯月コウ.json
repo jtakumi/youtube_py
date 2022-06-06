@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "j2jFGnyc2Q4XvNRobyOK6yKXy-A",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC3lNFeJiTq6L3UWoz4g1e-A"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-27T03:14:09Z",
+    "channelId": "UC3lNFeJiTq6L3UWoz4g1e-A",
+    "title": "卯月コウ",
+    "description": "にじさんじ所属バーチャルライバーです。 企画・雑談・ゲーム実況など思いついたことたくさんやってます。 いっぞ！ 配信告知 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRUZ3Ao9h5tNpWuS6mlttaD4R52HL2VIfv0-_R1=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRUZ3Ao9h5tNpWuS6mlttaD4R52HL2VIfv0-_R1=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRUZ3Ao9h5tNpWuS6mlttaD4R52HL2VIfv0-_R1=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "卯月コウ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-05-27T03:14:09Z"
+  }
+}
