@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "WHdr8bh3Ypf3_XukSYsNDVIDtJo",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCfQVs_KuXeNAlGa3fb8rlnQ"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-07T07:20:06Z",
+    "channelId": "UCfQVs_KuXeNAlGa3fb8rlnQ",
+    "title": "桜凛月",
+    "description": "ﾟ･*☽:ﾟ･⋆✿｡✰⋆✿｡:ﾟ･*☽:ﾟ･⋆✿｡✰⋆✿｡:ﾟ･*☽ 初めまして。 皆さん こんりつき～ん  (こんにちは) にじさんじの 桜 凛月 (さくら り ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ6ZoCSbWpfyTYh5QYMCCOn62J-zAuwpfAjgW7E=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ6ZoCSbWpfyTYh5QYMCCOn62J-zAuwpfAjgW7E=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQ6ZoCSbWpfyTYh5QYMCCOn62J-zAuwpfAjgW7E=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "桜凛月",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-08-07T07:20:06Z"
+  }
+}

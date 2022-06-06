@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "k23FjWgTb2unV_9w5lS24AbfbpY",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCGw7lrT-rVZCWHfdG9Frcgg"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-13T08:13:52Z",
+    "channelId": "UCGw7lrT-rVZCWHfdG9Frcgg",
+    "title": "弦月 藤士郎 / Genzuki Tojiro【にじさんじ】",
+    "description": "交流を深めて自国の発展に生かす為桜魔皇国より参上しました。 ゲーム・歌の配信や雑談をメインにやっていきます。 好きなもの ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/oz_9V6WkS1L2Ponc80OraQFz0U2sFr5h2nAf8WtJO4AnaJ0A18DPieI71pJsoZE8JHuvkRDN=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/oz_9V6WkS1L2Ponc80OraQFz0U2sFr5h2nAf8WtJO4AnaJ0A18DPieI71pJsoZE8JHuvkRDN=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/oz_9V6WkS1L2Ponc80OraQFz0U2sFr5h2nAf8WtJO4AnaJ0A18DPieI71pJsoZE8JHuvkRDN=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "弦月 藤士郎 / Genzuki Tojiro【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-12-13T08:13:52Z"
+  }
+}

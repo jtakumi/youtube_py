@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "blA1vo-v_eRKMFUC8OBQf7C0HpQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCl1oLKcAq93p-pwKfDGhiYQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-17T05:08:11Z",
+    "channelId": "UCl1oLKcAq93p-pwKfDGhiYQ",
+    "title": "えま★おうがすと / Emma★August【にじさんじ】",
+    "description": "魔王になる者です。いえーい！ヨイショ。 メンバーシップはこちらから。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/EFHakHIby-wWrVPnikUFgu1TqeBrF-_M_oljVbFAW3o3cZcH9KvqFouxrd2yWoq_6-QHL0KFzA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/EFHakHIby-wWrVPnikUFgu1TqeBrF-_M_oljVbFAW3o3cZcH9KvqFouxrd2yWoq_6-QHL0KFzA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/EFHakHIby-wWrVPnikUFgu1TqeBrF-_M_oljVbFAW3o3cZcH9KvqFouxrd2yWoq_6-QHL0KFzA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "えま★おうがすと / Emma★August【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-08-17T05:08:11Z"
+  }
+}

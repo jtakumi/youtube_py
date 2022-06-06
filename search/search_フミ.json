@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "HhZrV5kvagCP8d69S5Fg5YahbBw",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCwrjITPwG4q71HzihV2C7Nw"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-17T04:09:36Z",
+    "channelId": "UCwrjITPwG4q71HzihV2C7Nw",
+    "title": "フミ/にじさんじ",
+    "description": "にじさんじ所属のバーチャルライバー、フミだ とある神社の境内から配信をしている。我が神社は目を閉じて願えばいつでもお前 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTpaunC9PePiSJ0jH_IyHEJvKUTP0YQ2MtPGPPKsg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTpaunC9PePiSJ0jH_IyHEJvKUTP0YQ2MtPGPPKsg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTpaunC9PePiSJ0jH_IyHEJvKUTP0YQ2MtPGPPKsg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "フミ/にじさんじ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-08-17T04:09:36Z"
+  }
+}

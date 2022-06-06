@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "ve6G0Wqr2jfGpdT2CAEVGgc08bo",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCsg-YqdqQ-KFF0LNk23BY4A"
+  },
+  "snippet": {
+    "publishedAt": "2018-01-31T10:47:47Z",
+    "channelId": "UCsg-YqdqQ-KFF0LNk23BY4A",
+    "title": "樋口楓【にじさんじ所属】",
+    "description": "にじさんじ所属・バーチャルライバーの樋口楓です   Lantis所属・アーティスト活動してます     _(-ω- ´ _)⌒)__(-ω- ´ _)⌒)__(-ω- ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/xGQ_-9VQMpoWBMSPlhx6zdQnOTH6ThIVDD5astbuhC49itMZHVqS6fBh3p4a87TioLBsNeftbA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/xGQ_-9VQMpoWBMSPlhx6zdQnOTH6ThIVDD5astbuhC49itMZHVqS6fBh3p4a87TioLBsNeftbA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/xGQ_-9VQMpoWBMSPlhx6zdQnOTH6ThIVDD5astbuhC49itMZHVqS6fBh3p4a87TioLBsNeftbA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "樋口楓【にじさんじ所属】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-01-31T10:47:47Z"
+  }
+}

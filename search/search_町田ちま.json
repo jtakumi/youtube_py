@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "UNnRNdovl-rk8nFAUdHBTOZgMk8",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCo7TRj3cS-f_1D9ZDmuTsjw"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-07T06:57:44Z",
+    "channelId": "UCo7TRj3cS-f_1D9ZDmuTsjw",
+    "title": "町田ちま【にじさんじ】",
+    "description": "上から読んでも下から読んでも町田ちま(まちたちま) です 「まちだ」じゃなくて「まちた」です 歌が大好きです プロフィール ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTpaFhkNBf2kkuap4nxvCUFDUJJAX2LwyGNjgc59w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTpaFhkNBf2kkuap4nxvCUFDUJJAX2LwyGNjgc59w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTpaFhkNBf2kkuap4nxvCUFDUJJAX2LwyGNjgc59w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "町田ちま【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-08-07T06:57:44Z"
+  }
+}

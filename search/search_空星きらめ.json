@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "89r9TxphOjTuBZ7d8jeWYfsRcWk",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC_82HBGtvwN1hcGeOGHzUBQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-02-12T11:03:19Z",
+    "channelId": "UC_82HBGtvwN1hcGeOGHzUBQ",
+    "title": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+    "description": "にじさんじ所属    空星きらめです！ 大きな舞台で輝きたい高校生✨ 今はみんなを笑顔にするのが目標です！ ゲームとか歌とか ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/JJaabiw0FQjJlfRs4vKJjDHwDXbo5-DUqTW4HU19yggmZRRA4-RdM_94UMK-AUGCM3gnRuLq=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/JJaabiw0FQjJlfRs4vKJjDHwDXbo5-DUqTW4HU19yggmZRRA4-RdM_94UMK-AUGCM3gnRuLq=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/JJaabiw0FQjJlfRs4vKJjDHwDXbo5-DUqTW4HU19yggmZRRA4-RdM_94UMK-AUGCM3gnRuLq=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-02-12T11:03:19Z"
+  }
+}

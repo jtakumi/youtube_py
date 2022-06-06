@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "F6NlcXNiqIr4jQt0a8T9x8TpJS8",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCL34fAoFim9oHLbVzMKFavQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-20T11:12:06Z",
+    "channelId": "UCL34fAoFim9oHLbVzMKFavQ",
+    "title": "夜見れな/yorumi rena【にじさんじ所属】",
+    "description": "はじめまして！ にじさんじ所属の【夜見れな】です。 たのしいことだいすき❥ みんなを笑顔できたらいいなっ！ けど、 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/IIncCRzntW4-2phBOSa2hhvpq3CSbav32m1mDiC1ckYBDi9pD3IeBSft0su3R68qZuHdOt0z7g=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/IIncCRzntW4-2phBOSa2hhvpq3CSbav32m1mDiC1ckYBDi9pD3IeBSft0su3R68qZuHdOt0z7g=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/IIncCRzntW4-2phBOSa2hhvpq3CSbav32m1mDiC1ckYBDi9pD3IeBSft0su3R68qZuHdOt0z7g=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "夜見れな/yorumi rena【にじさんじ所属】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-06-20T11:12:06Z"
+  }
+}

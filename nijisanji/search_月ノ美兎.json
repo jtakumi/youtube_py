@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "QTg1VwkQjFftl6MbHMkJtf9NIyU",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCD-miitqNY3nyukJ4Fnf4_A"
+  },
+  "snippet": {
+    "publishedAt": "2018-01-31T17:00:35Z",
+    "channelId": "UCD-miitqNY3nyukJ4Fnf4_A",
+    "title": "月ノ美兎",
+    "description": "起立！気をつけ！こんにちは、アプリ「にじさんじ」所属の公式バーチャルライバー、月ノ美兎です。 生放送を中心にYoutubeで ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSGyQadwaaYuZy1zy33pdrj0yQLP_WVQziEbUwOJg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSGyQadwaaYuZy1zy33pdrj0yQLP_WVQziEbUwOJg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSGyQadwaaYuZy1zy33pdrj0yQLP_WVQziEbUwOJg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "月ノ美兎",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-01-31T17:00:35Z"
+  }
+}

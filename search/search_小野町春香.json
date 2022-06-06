@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "wxabJWErxVcuAQhuLCjFDYr9CI8",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCg63a3lk6PNeWhVvMRM_mrQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-01-22T03:57:08Z",
+    "channelId": "UCg63a3lk6PNeWhVvMRM_mrQ",
+    "title": "小野町 春香 / Onomachi Haruka 【にじさんじ】",
+    "description": "にじさんじ所属バーチャルライバー小野町春香(おのまち はるか)です 小野町旅館で若女将として働いている17歳 ASMRとパワプロ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ZB_vWGOmCnrcJRLP5rjeyl3QSXxG8jY0VZ6xCvKo-oo3DqRcqclKZX13sv2BtSwLknkrg6eC0w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ZB_vWGOmCnrcJRLP5rjeyl3QSXxG8jY0VZ6xCvKo-oo3DqRcqclKZX13sv2BtSwLknkrg6eC0w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ZB_vWGOmCnrcJRLP5rjeyl3QSXxG8jY0VZ6xCvKo-oo3DqRcqclKZX13sv2BtSwLknkrg6eC0w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "小野町 春香 / Onomachi Haruka 【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-01-22T03:57:08Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "1_C73_10X07DkUqwYQu5xgxX8hM",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCRcLAVTbmx2-iNcXSsupdNA"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-05T10:02:22Z",
+    "channelId": "UCRcLAVTbmx2-iNcXSsupdNA",
+    "title": "来栖 夏芽-kurusu natsume-【にじさんじ】",
+    "description": "にじさんじ所属、バーチャルライバーの「来栖夏芽」です。 主に（雑談/ゲーム/歌）配信をやる予定ですがなんでもします。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/qFI24mxiznmfADFy01hnobmj5pXzsgiwD0zbH7nIWUVWzGPD5fv1GyOmksugCqshd7NvhBzk=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/qFI24mxiznmfADFy01hnobmj5pXzsgiwD0zbH7nIWUVWzGPD5fv1GyOmksugCqshd7NvhBzk=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/qFI24mxiznmfADFy01hnobmj5pXzsgiwD0zbH7nIWUVWzGPD5fv1GyOmksugCqshd7NvhBzk=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "来栖 夏芽-kurusu natsume-【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-12-05T10:02:22Z"
+  }
+}

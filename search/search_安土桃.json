@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "xVPBMKeb3i2Z66Q4lKesLNHD6V0",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC6TfqY40Xt1Y0J-N18c85qQ"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-25T00:18:47Z",
+    "channelId": "UC6TfqY40Xt1Y0J-N18c85qQ",
+    "title": "安土桃",
+    "description": "にじさんじ所属、安土桃です。 顔面と声が可愛いです。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/50JCdIpi9B-ZxDaveVfSyKuvRyj8d2DgLe0sMkd_UxuxN-VcGQ54W4M-6T0wXzJV2TdfAeZglSc=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/50JCdIpi9B-ZxDaveVfSyKuvRyj8d2DgLe0sMkd_UxuxN-VcGQ54W4M-6T0wXzJV2TdfAeZglSc=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/50JCdIpi9B-ZxDaveVfSyKuvRyj8d2DgLe0sMkd_UxuxN-VcGQ54W4M-6T0wXzJV2TdfAeZglSc=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "安土桃",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-05-25T00:18:47Z"
+  }
+}

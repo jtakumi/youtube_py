@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "T7IMGo28DzBScQNdluvmquAh3s8",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCHVXbQzkl3rDfsXWo8xi2qw"
+  },
+  "snippet": {
+    "publishedAt": "2019-02-26T12:54:48Z",
+    "channelId": "UCHVXbQzkl3rDfsXWo8xi2qw",
+    "title": "アンジュ・カトリーナ - Ange Katrina -",
+    "description": "にじさんじ所属バーチャルライバーのアンジュ・カトリーナ、錬金術師です⚖️ 片腕持っていかれてもいいので彼氏を錬成したい ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR_pGHtlClnlVa26cboi8oZ34RWyGtml3vLxGTp=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR_pGHtlClnlVa26cboi8oZ34RWyGtml3vLxGTp=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR_pGHtlClnlVa26cboi8oZ34RWyGtml3vLxGTp=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "アンジュ・カトリーナ - Ange Katrina -",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-02-26T12:54:48Z"
+  }
+}

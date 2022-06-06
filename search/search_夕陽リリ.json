@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "m-GuwrfB1pS7qvVhWJXS1FIMT9w",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC48jH1ul-6HOrcSSfoR02fQ"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-05T13:30:19Z",
+    "channelId": "UC48jH1ul-6HOrcSSfoR02fQ",
+    "title": "Yuhi Riri Official",
+    "description": "16歳の高校1年生。未来人の女の子。悪戯好きで、よくいろんなことをやらかす。現代の電波をジャックして、悪戯の一環として ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/A5StWULqnF31ZbuUOD5XVuVLMa6mCxWLrhhOA1MPpI1M9CF0HFrjuPY5jx-OUPuvADsFTnkdvw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/A5StWULqnF31ZbuUOD5XVuVLMa6mCxWLrhhOA1MPpI1M9CF0HFrjuPY5jx-OUPuvADsFTnkdvw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/A5StWULqnF31ZbuUOD5XVuVLMa6mCxWLrhhOA1MPpI1M9CF0HFrjuPY5jx-OUPuvADsFTnkdvw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Yuhi Riri Official",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-03-05T13:30:19Z"
+  }
+}

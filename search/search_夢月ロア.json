@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "LIiyCXJ_CGXLmc6LIEjayXl9zpg",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCCVwhI5trmaSxfcze_Ovzfw"
+  },
+  "snippet": {
+    "publishedAt": "2019-01-15T07:21:21Z",
+    "channelId": "UCCVwhI5trmaSxfcze_Ovzfw",
+    "title": "夢月ロア🌖Yuzuki Roa",
+    "description": "にじさんじ所属 夢月ロア   深淵をのぞくとき我もまた深淵からのぞいているのだ リリンいつも、ありがとう メンバーシップ   ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRmPo2h6bbRdNtEHsBdGpl0zthpubIaDXuj_76mew=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRmPo2h6bbRdNtEHsBdGpl0zthpubIaDXuj_76mew=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRmPo2h6bbRdNtEHsBdGpl0zthpubIaDXuj_76mew=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "夢月ロア🌖Yuzuki Roa",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-01-15T07:21:21Z"
+  }
+}

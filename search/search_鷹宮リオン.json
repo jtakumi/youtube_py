@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "d3AWQ4H65b7U8RWxW9fCl21mApI",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCV5ZZlLjk5MKGg3L0n0vbzw"
+  },
+  "snippet": {
+    "publishedAt": "2018-08-07T05:25:06Z",
+    "channelId": "UCV5ZZlLjk5MKGg3L0n0vbzw",
+    "title": "鷹宮リオン / Rion Takamiya",
+    "description": "にじさんじ所属のバーチャルライバー 主に雑談・ゲーム配信・歌ってみたなどをメインに活動中！ ◇◇鷹宮リオン ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS8TC1gm0w3IaMn18kn41anLQhwuXgYdbF21OWd=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS8TC1gm0w3IaMn18kn41anLQhwuXgYdbF21OWd=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLS8TC1gm0w3IaMn18kn41anLQhwuXgYdbF21OWd=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "鷹宮リオン / Rion Takamiya",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-08-07T05:25:06Z"
+  }
+}

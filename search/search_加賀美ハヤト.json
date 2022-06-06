@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "2Kx4T1w15E1qnfk3yWYCfiNVvfc",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCmovZ2th3Sqpd00F5RdeigQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-21T06:49:11Z",
+    "channelId": "UCmovZ2th3Sqpd00F5RdeigQ",
+    "title": "加賀美 ハヤト/Hayato Kagami",
+    "description": "加賀美ハヤト/Hayato Kagami【にじさんじ所属】 玩具会社、加賀美インダストリアル代表取締役。 この度は自社製品のPRの ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR2sCJHgWqJohMQ574fjVmuSkoQGhkLNV-KvnrP=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR2sCJHgWqJohMQ574fjVmuSkoQGhkLNV-KvnrP=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR2sCJHgWqJohMQ574fjVmuSkoQGhkLNV-KvnrP=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "加賀美 ハヤト/Hayato Kagami",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-06-21T06:49:11Z"
+  }
+}

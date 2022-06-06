@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "bHE80M6Bc4JWwU8MQiKS-pzNttc",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCwokZsOK_uEre70XayaFnzA"
+  },
+  "snippet": {
+    "publishedAt": "2018-03-06T08:28:20Z",
+    "channelId": "UCwokZsOK_uEre70XayaFnzA",
+    "title": "鈴鹿詩子 Utako Suzuka",
+    "description": "よいこのみんなー、こんにっちはー！ にじさんじ所属、公式バーチャルライバーの、歌のお姉さんで腐女子で婚活中の26歳、鈴鹿 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ZdU0mQTwpOUTW6COr5JZjBb_VLTBShB-yDvR3v0eMz1_MQrQiMYyCk5QYFgM8SJ2lAaRortAHNo=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ZdU0mQTwpOUTW6COr5JZjBb_VLTBShB-yDvR3v0eMz1_MQrQiMYyCk5QYFgM8SJ2lAaRortAHNo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ZdU0mQTwpOUTW6COr5JZjBb_VLTBShB-yDvR3v0eMz1_MQrQiMYyCk5QYFgM8SJ2lAaRortAHNo=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "鈴鹿詩子 Utako Suzuka",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-03-06T08:28:20Z"
+  }
+}

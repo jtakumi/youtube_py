@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Ts4wYRyjfqe3f0w036brtiyy_NI",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCHK5wkevfaGrPr7j3g56Jmw"
+  },
+  "snippet": {
+    "publishedAt": "2019-01-22T03:51:37Z",
+    "channelId": "UCHK5wkevfaGrPr7j3g56Jmw",
+    "title": "瀬戸 美夜子 - Miyako Seto",
+    "description": "にじさんじ所属の18歳JK！ ------------------------------------------------ □リンク ❤チャンネル登録はコチラから： ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/wUEzLrVkQTWA1-zWet-DyzFUlsPHfDrXDHXIfvqJhn0734xXdl70RHOSHpK7wzRyd_kIVZZCCmw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/wUEzLrVkQTWA1-zWet-DyzFUlsPHfDrXDHXIfvqJhn0734xXdl70RHOSHpK7wzRyd_kIVZZCCmw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/wUEzLrVkQTWA1-zWet-DyzFUlsPHfDrXDHXIfvqJhn0734xXdl70RHOSHpK7wzRyd_kIVZZCCmw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "瀬戸 美夜子 - Miyako Seto",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-01-22T03:51:37Z"
+  }
+}

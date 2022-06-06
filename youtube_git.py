@@ -3,6 +3,7 @@ import json
 import os
 import datetime
 import sys
+import shutil
 
 key=''
 
@@ -12,8 +13,6 @@ https://qiita.com/rkamikawa/items/dd1fd4c1427ece787eea
 https://ccie-go.com/python-json/#toc9
 https://techacademy.jp/magazine/23279
 """
-
-
 def read_json(key):
     fnp='search/search_' + key + '.json'
 
@@ -26,6 +25,8 @@ def read_json(key):
     else:
         #idというkeyの中のchannelIdを取り出す
         return jsn['id']['channelId']
+
+
     
 
 def file_make(fn,search_respose):
@@ -35,13 +36,11 @@ def file_make(fn,search_respose):
                 continue
             print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
 
-    #できたファイルを移動させる
-    mvf='move'+ ' '+ fn + ' ' + 'youtube-json'
-    os.system(mvf)
+    
 
 def git(fn):
     #自動commit
-    gad='git add ' + 'youtube-json/'+ fn
+    gad='git add ' + fn
     os.system(gad)
     print('Do you want to commit? [y/n]')
     dc=input()
@@ -53,6 +52,9 @@ def git(fn):
     else:
         print('Bye')
 
+def fcopy(fn,fnc):
+    njsnj='nijisanji/' +  fnc
+    shutil.copyfile(fn,njsnj)
 
 def main():
     #API情報
@@ -66,9 +68,8 @@ def main():
 
 
     #jsonファイルに結果を書きこむ
-    print('please input file name.(no extension)')
-    fn=key + '.json'
-
+    fn='youtube-json/' +  key+'.json'
+    fnc=key+'.json'
 
     youtube=build(
         YOUTUBE_API_SERVICE_NAME,
@@ -82,6 +83,7 @@ def main():
     ).execute()
 
     file_make(fn,search_respose)
+    fcopy(fn,fnc)
     git(fn)
 
 

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "3rAStwLwscnRY2IWFTTPnMgxD5Y",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCL_O_HXgLJx3Auteer0n0pA"
+  },
+  "snippet": {
+    "publishedAt": "2020-07-30T05:16:51Z",
+    "channelId": "UCL_O_HXgLJx3Auteer0n0pA",
+    "title": "周央 サンゴ / Suo Sango【にじさんじ】",
+    "description": "世怜音女学院中等部1年生 演劇同好会の末っ子アイドル にじさんじ所属 バーチャルライバーの周央サンゴだよん   定期   毎週 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT8jX2XU6VpM_4AG2Bi9FsW-Xe1uyNVsXzbGewx=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT8jX2XU6VpM_4AG2Bi9FsW-Xe1uyNVsXzbGewx=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLT8jX2XU6VpM_4AG2Bi9FsW-Xe1uyNVsXzbGewx=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "周央 サンゴ / Suo Sango【にじさんじ】",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-07-30T05:16:51Z"
+  }
+}

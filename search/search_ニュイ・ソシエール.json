@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "hz0TaPA27zWmTFX8EfWmTQ3IruU",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCUc8GZfFxtmk7ZwSO7ccQ0g"
+  },
+  "snippet": {
+    "publishedAt": "2019-05-27T11:35:10Z",
+    "channelId": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
+    "title": "ニュイ・ソシエール //[Nui Sociere]",
+    "description": "大好きなママさん！ カンザリンママ https://twitter.com/kanzarinsan □□━━━━━━━━━━━━━━━━━・・・・・‥‥‥…",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQoQU-rYUIBmZBWelg6gP5OOjBVCCZie__z5OPG=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQoQU-rYUIBmZBWelg6gP5OOjBVCCZie__z5OPG=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQoQU-rYUIBmZBWelg6gP5OOjBVCCZie__z5OPG=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "ニュイ・ソシエール //[Nui Sociere]",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-05-27T11:35:10Z"
+  }
+}

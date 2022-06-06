@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "1RRHvT_8rzOrjFm7LBhE7UDHgJQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC6oDys1BGgBsIC3WhG1BovQ"
+  },
+  "snippet": {
+    "publishedAt": "2018-02-01T13:32:15Z",
+    "channelId": "UC6oDys1BGgBsIC3WhG1BovQ",
+    "title": "Shizuka Rin Official",
+    "description": "こんにちは✨   にじさんじ所属バーチャルライバーの、静凛(シズカリン)です(๑•̀ㅁ•́๑) 応援、登録、評価、宜しくお願い致し ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQLFsq0jjRSyn9Jsj75MzYOaDIg-Sm-WJsfe4ImIA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQLFsq0jjRSyn9Jsj75MzYOaDIg-Sm-WJsfe4ImIA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQLFsq0jjRSyn9Jsj75MzYOaDIg-Sm-WJsfe4ImIA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Shizuka Rin Official",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-02-01T13:32:15Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "S2fCeSv83KtsIM0o20jdGFXUjy4",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCXRlIK3Cw_TJIQC5kSJJQMg"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-19T03:56:54Z",
+    "channelId": "UCXRlIK3Cw_TJIQC5kSJJQMg",
+    "title": "戌亥とこ -Inui Toko-",
+    "description": "まいど！ にじさんじ所属、バーチャルライバーの\"戌亥 とこ\"です。 ゲームに歌に雑談に、いろんな事やりたいです！ みなさん ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTEPOzoQOA4JAS987M1QQHQ3hy1Tgj-AUGgKT2U=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTEPOzoQOA4JAS987M1QQHQ3hy1Tgj-AUGgKT2U=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTEPOzoQOA4JAS987M1QQHQ3hy1Tgj-AUGgKT2U=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "戌亥とこ -Inui Toko-",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-03-19T03:56:54Z"
+  }
+}

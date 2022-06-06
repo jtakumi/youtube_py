@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "j7M9Nysd_49j8wM41-YY3OVlNqM",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCRm6lqtdxs_Qo6HeL-SRQ-w"
+  },
+  "snippet": {
+    "publishedAt": "2021-03-25T09:33:15Z",
+    "channelId": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+    "title": "レイン・パターソン／Lain Paterson【にじさんじ】",
+    "description": "にじさんじ所属バーチャルライバー、レイン・パターソンです。 人を守る職業。 こちらをフォローしていただければ情報が得られ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/Ul99IOXmdIrSDN3ioPF0SOLOOgh7V_Y1CkMOdg-Iy4a9ykqMHijIalpjRrqNqc1guGIgouu7=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/Ul99IOXmdIrSDN3ioPF0SOLOOgh7V_Y1CkMOdg-Iy4a9ykqMHijIalpjRrqNqc1guGIgouu7=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/Ul99IOXmdIrSDN3ioPF0SOLOOgh7V_Y1CkMOdg-Iy4a9ykqMHijIalpjRrqNqc1guGIgouu7=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "レイン・パターソン／Lain Paterson【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2021-03-25T09:33:15Z"
+  }
+}
