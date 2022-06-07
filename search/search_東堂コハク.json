@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "ZXWWPoVisWTDXKfNFspX0moZcT4",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCebT4Aq-3XWb5je1S1FvR_A"
+  },
+  "snippet": {
+    "publishedAt": "2020-07-29T08:15:16Z",
+    "channelId": "UCebT4Aq-3XWb5je1S1FvR_A",
+    "title": "東堂コハク/ Todo Kohaku [にじさんじ]",
+    "description": "初めまして。 にじさんじ所属、バーチャルライバーの東堂コハクです！ 歌とスプラトゥーンが大好きな高校３年生♪ 見に来て ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQhNU5qcxREOapIZMtZcxYwZq5Sa-yvEqelX-EI=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQhNU5qcxREOapIZMtZcxYwZq5Sa-yvEqelX-EI=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQhNU5qcxREOapIZMtZcxYwZq5Sa-yvEqelX-EI=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "東堂コハク/ Todo Kohaku [にじさんじ]",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-07-29T08:15:16Z"
+  }
+}
