@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "i62Ckk6Pbr_oe3YAPXmI3Q6aOdA",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCvzVB-EYuHFXHZrObB8a_Og"
+  },
+  "snippet": {
+    "publishedAt": "2018-09-20T15:45:40Z",
+    "channelId": "UCvzVB-EYuHFXHZrObB8a_Og",
+    "title": "矢車りね - Rine Yaguruma -",
+    "description": "にじさんじ所属バーチャルライバー矢車りねです ❁⃘.ﾟファンレターﾟ❁ 詳細➡https://www.nijisanji.jp/contact よければ送って ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR-6P6Fyb6XZSFOF6PWYOFvpe0L9ozzurBVVucx=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR-6P6Fyb6XZSFOF6PWYOFvpe0L9ozzurBVVucx=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLR-6P6Fyb6XZSFOF6PWYOFvpe0L9ozzurBVVucx=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "矢車りね - Rine Yaguruma -",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-09-20T15:45:40Z"
+  }
+}

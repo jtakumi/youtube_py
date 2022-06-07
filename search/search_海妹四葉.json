@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Uh0nPxZDdE90MuHGQwVlr2FDmQI",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCtHY-tP0dyykhTRMmnfPs_g"
+  },
+  "snippet": {
+    "publishedAt": "2022-03-02T04:46:29Z",
+    "channelId": "UCtHY-tP0dyykhTRMmnfPs_g",
+    "title": "海妹四葉 / Umise Yotsuha 【にじさんじ】",
+    "description": "にじさんじ所属 七転び八起き系貧乏学生のバーチャルライバー海妹四葉です！ みんなと一緒にたくさんの“楽しい”を共有したい～ ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ibWtczO44OaYxIgA-sIwIt8LB_JKT6-4puFMaX72iUAqWRl_SCd5gZ0vi9EauEzV6wuU-fQ6bg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ibWtczO44OaYxIgA-sIwIt8LB_JKT6-4puFMaX72iUAqWRl_SCd5gZ0vi9EauEzV6wuU-fQ6bg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ibWtczO44OaYxIgA-sIwIt8LB_JKT6-4puFMaX72iUAqWRl_SCd5gZ0vi9EauEzV6wuU-fQ6bg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "海妹四葉 / Umise Yotsuha 【にじさんじ】",
+    "liveBroadcastContent": "none",
+    "publishTime": "2022-03-02T04:46:29Z"
+  }
+}
