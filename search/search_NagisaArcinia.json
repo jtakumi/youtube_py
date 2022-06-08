@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "azlc2OlpjF9EZvrBXJtjBBR__OY",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCijNnZ-6m8g85UGaRAWuw7g"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-26T06:13:41Z",
+    "channelId": "UCijNnZ-6m8g85UGaRAWuw7g",
+    "title": "Nagisa Arcinia【NIJISANJI・にじさんじ】",
+    "description": "Hawooo~ kabar gembira untuk semuwa ♪ ! Nagisa Arcinia telah hadir di NIJISANJI kesayangan kita ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/j-4KF0yi7F4oDvjhhyqxI3-OS5Bxl-e--BVtK7k3v2BXeejv7rVLE0buxso9AIgPjqEZMSgSrQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/j-4KF0yi7F4oDvjhhyqxI3-OS5Bxl-e--BVtK7k3v2BXeejv7rVLE0buxso9AIgPjqEZMSgSrQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/j-4KF0yi7F4oDvjhhyqxI3-OS5Bxl-e--BVtK7k3v2BXeejv7rVLE0buxso9AIgPjqEZMSgSrQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Nagisa Arcinia【NIJISANJI・にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-10-26T06:13:41Z"
+  }
+}

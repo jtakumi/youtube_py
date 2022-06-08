@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "UDbAClrtfveK4ZdC5VtH74rdd3c",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCIBj1-d71vKjRftiauF50pg"
+  },
+  "snippet": {
+    "publishedAt": "2021-07-13T06:22:33Z",
+    "channelId": "UCIBj1-d71vKjRftiauF50pg",
+    "title": "Hyona Elatiora【NIJISANJI / にじさんじ】",
+    "description": "Ah, sudah bangun? Salam kenal ya, aku dokter di klinik ini. Namaku Hyona Elatiora, tapi cukup dipanggil Hyona saja. Di kala ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/wq0Twc5pH-PrX6pzwZJp3FFrli6ww-LVl0GZSlRQYrAYi8vdNik3sCZHMhZIL6W8OSCzCnlpbA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/wq0Twc5pH-PrX6pzwZJp3FFrli6ww-LVl0GZSlRQYrAYi8vdNik3sCZHMhZIL6W8OSCzCnlpbA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/wq0Twc5pH-PrX6pzwZJp3FFrli6ww-LVl0GZSlRQYrAYi8vdNik3sCZHMhZIL6W8OSCzCnlpbA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Hyona Elatiora【NIJISANJI / にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2021-07-13T06:22:33Z"
+  }
+}
