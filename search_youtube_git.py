@@ -33,23 +33,27 @@ search_respose=youtube.search().list(
 ).execute()
 
 
+def make_file():
+    with open(fn,'w',encoding='utf-8') as f:
+        for search_result in search_respose.get('items',[]):
+            if search_result['id']['kind'] !='youtube#channel':
+                continue
+            print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
 
-with open(fn,'w',encoding='utf-8') as f:
-    for search_result in search_respose.get('items',[]):
-        if search_result['id']['kind'] !='youtube#channel':
-            continue
-        print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
+def git():
+    #自動commit
+    gad='git add ' + fn
+    os.system(gad)
+    print('Do you want to move to youtube.py?[y/n]')
+    dc=input()
+    if(dc=='y'):
+        import youtube
+        youtube.main()
+    else:
+            print('Bye')
 
-#自動commit
-gad='git add ' + fn
-os.system(gad)
-print('Do you want to move to youtube.py?[y/n]')
-dc=input()
-if(dc=='y'):
-    import youtube
-    youtube.main()
-else:
-        print('Bye')
-
+def main():
+    make_file()
+    git()
 
 

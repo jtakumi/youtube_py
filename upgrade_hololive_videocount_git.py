@@ -39,6 +39,7 @@ def read_json(path):
         with open(path,'r',encoding='utf-8') as f:
             fjn=json.load(f)
     except Exception as e:
+        print(path)
         print(e)
     else:
         vc=int(fjn['statistics']['videoCount'])

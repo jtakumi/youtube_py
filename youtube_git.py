@@ -21,7 +21,8 @@ def read_json(key):
         with open(fnp,"r",encoding='utf-8') as f:
             jsn=json.load(f)
     except Exception as e:
-        sys.exit('error')
+        print(e)
+        sys.exit()
     else:
         #idというkeyの中のchannelIdを取り出す
         return jsn['id']['channelId']
