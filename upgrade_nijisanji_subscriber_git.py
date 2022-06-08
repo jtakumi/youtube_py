@@ -28,6 +28,7 @@ def load_id(path):
         with open(path,'r',encoding='utf-8') as f:
             fjn=json.load(f)
     except Exception as e:
+        print(path)
         print(e)
     else:
         id=fjn['id']

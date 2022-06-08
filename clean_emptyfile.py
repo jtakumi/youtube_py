@@ -3,6 +3,8 @@ import os
 
 base='search'
 def clean():
+    #search dirにある検索に失敗して作成された
+    #空ファイルを削除する
     for i in os.listdir(base):
         path=os.path.join(base,i)
         size=os.path.getsize(path)
