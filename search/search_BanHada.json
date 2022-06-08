@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "hZvCoIYg1raYeZQ1cIbdkkH7fIM",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCLjx3lqIkYkPCBJop8czJ2A"
+  },
+  "snippet": {
+    "publishedAt": "2021-04-20T05:01:02Z",
+    "channelId": "UCLjx3lqIkYkPCBJop8czJ2A",
+    "title": "Ban Hada | NIJISANJI",
+    "description": "반하다 バン・ハダ / Pirate Captain.",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/vfZXd4d_VGJ-TzDc46vIqB-LYQu90TOr8Wbuya58sEgSLnQxYK3MnJDHEBNkIGz2aNhLe7vygbw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/vfZXd4d_VGJ-TzDc46vIqB-LYQu90TOr8Wbuya58sEgSLnQxYK3MnJDHEBNkIGz2aNhLe7vygbw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/vfZXd4d_VGJ-TzDc46vIqB-LYQu90TOr8Wbuya58sEgSLnQxYK3MnJDHEBNkIGz2aNhLe7vygbw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Ban Hada | NIJISANJI",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2021-04-20T05:01:02Z"
+  }
+}

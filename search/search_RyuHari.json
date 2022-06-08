@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "wnWnk6KNwZeYzjHMf-Yz8mqeTP4",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UClS6k3w1sPwlVFqK3-yID5A"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-06T11:31:59Z",
+    "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
+    "title": "ハリ / Ryu Hari 【にじさんじ】",
+    "description": "a poison tree.",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/i4_kn-e_cRcJKVtEQ7kWnA7j7KqxU1yRuuXzpKTLSa2myFTthEA-BzYtLM2Bs3ER5aNCTzrkag=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/i4_kn-e_cRcJKVtEQ7kWnA7j7KqxU1yRuuXzpKTLSa2myFTthEA-BzYtLM2Bs3ER5aNCTzrkag=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/i4_kn-e_cRcJKVtEQ7kWnA7j7KqxU1yRuuXzpKTLSa2myFTthEA-BzYtLM2Bs3ER5aNCTzrkag=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "ハリ / Ryu Hari 【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-10-06T11:31:59Z"
+  }
+}

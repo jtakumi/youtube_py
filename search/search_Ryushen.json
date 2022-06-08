@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "msxv53BcmJC5m1be0DVYWBcAz4A",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCt5-0i4AVHXaWJrL8Wql3mw"
+  },
+  "snippet": {
+    "publishedAt": "2018-05-27T03:17:32Z",
+    "channelId": "UCt5-0i4AVHXaWJrL8Wql3mw",
+    "title": "緑仙 / Ryushen",
+    "description": "にじさんじ所属 Virtual YouTuberの緑仙(リューシェン)です 歌うことが大好きな性別不詳です     ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "緑仙 / Ryushen",
+    "liveBroadcastContent": "none",
+    "publishTime": "2018-05-27T03:17:32Z"
+  }
+}

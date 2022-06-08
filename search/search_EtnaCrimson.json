@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "fCgOxSKnvkW3XrDr-5C2dUWLynE",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCjFu-9GHnabzSFRAYm1B9Dw"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-03T09:27:24Z",
+    "channelId": "UCjFu-9GHnabzSFRAYm1B9Dw",
+    "title": "Etna Crimson【NIJISANJI / にじさんじ】",
+    "description": "DUARRR!! Etna.. sanjou!! Hello everyone!! My name is Etna Crimson, you can call me Etna! Etna is a half-super human, that also ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/20v6t9tAqXo6QXUjGuowNZaY0XWmnGl8PdyYYL1A5CF5wwYvddjf14RZeNX0vaTa7jXMIoy8qw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/20v6t9tAqXo6QXUjGuowNZaY0XWmnGl8PdyYYL1A5CF5wwYvddjf14RZeNX0vaTa7jXMIoy8qw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/20v6t9tAqXo6QXUjGuowNZaY0XWmnGl8PdyYYL1A5CF5wwYvddjf14RZeNX0vaTa7jXMIoy8qw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Etna Crimson【NIJISANJI / にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-08-03T09:27:24Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "E_IrIKFf3c_erZ2tmxOCmIVKVRc",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCX88Pe54pxbJDSGIyGrzNdg"
+  },
+  "snippet": {
+    "publishedAt": "2021-08-17T11:32:14Z",
+    "channelId": "UCX88Pe54pxbJDSGIyGrzNdg",
+    "title": "ナ セラ / Na Sera【にじさんじ】",
+    "description": "にじさんじ所属の「ナ・セラ」と申します！魔法少女です！よろしくお願いします！՞(๑Ծ‸Ծ๑)՞/ ⋆⁺₊⋆ 니지산지 소속의 나 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/BXSqFYY5tcwucFSIm6s63f9YAEJG9bnKl4iTTJW8aWwU7TK_TfHnd5EM7D28--5m7vD-G39FBQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/BXSqFYY5tcwucFSIm6s63f9YAEJG9bnKl4iTTJW8aWwU7TK_TfHnd5EM7D28--5m7vD-G39FBQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/BXSqFYY5tcwucFSIm6s63f9YAEJG9bnKl4iTTJW8aWwU7TK_TfHnd5EM7D28--5m7vD-G39FBQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "ナ セラ / Na Sera【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2021-08-17T11:32:14Z"
+  }
+}
+{
+  "kind": "youtube#searchResult",
+  "etag": "5DWagd-yWHvzvtgAQP__Vw-4u2w",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCwbyNMdE9IM68gqX090w7yg"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-04T19:52:16Z",
+    "channelId": "UCwbyNMdE9IM68gqX090w7yg",
+    "title": "عالم نصيرة Nasera Tamazight",
+    "description": "nasersa world.",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTEIc9Vua72l8I3CchwBwUrip3RF7f5B4qWZnL1=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTEIc9Vua72l8I3CchwBwUrip3RF7f5B4qWZnL1=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTEIc9Vua72l8I3CchwBwUrip3RF7f5B4qWZnL1=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "عالم نصيرة Nasera Tamazight",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-09-04T19:52:16Z"
+  }
+}

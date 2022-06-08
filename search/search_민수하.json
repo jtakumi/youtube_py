@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "SLjtB7lkaR8jiLdkAmhJNs63nzQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCUtKkGKef8BYMs3h-3zQm9A"
+  },
+  "snippet": {
+    "publishedAt": "2020-01-21T16:37:21Z",
+    "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
+    "title": "민수하 /Suhaスハ【NIJISANJI】",
+    "description": "니지산지KR 소속 물속성 라이버 민수하(Suha. Min / ミン・スゥーハ)입니다! 게임과 노래를 좋아합니다 방송에서는 주로 한국어를 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/K8Ro901w9FqnU6GwIIW4IbtXQdurBg-vlAPiD0dFdVkd5iRF3YwfIpi8iydP2R807VT6z_ZXDg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/K8Ro901w9FqnU6GwIIW4IbtXQdurBg-vlAPiD0dFdVkd5iRF3YwfIpi8iydP2R807VT6z_ZXDg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/K8Ro901w9FqnU6GwIIW4IbtXQdurBg-vlAPiD0dFdVkd5iRF3YwfIpi8iydP2R807VT6z_ZXDg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "민수하 /Suhaスハ【NIJISANJI】",
+    "liveBroadcastContent": "none",
+    "publishTime": "2020-01-21T16:37:21Z"
+  }
+}

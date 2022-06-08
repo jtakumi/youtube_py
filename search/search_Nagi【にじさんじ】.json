@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "nw_wmzMnXW3vDfLbCgXbz7qrrAQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC5ek2GWKvUKFgnKSHuuCFrw"
+  },
+  "snippet": {
+    "publishedAt": "2020-05-12T04:08:29Z",
+    "channelId": "UC5ek2GWKvUKFgnKSHuuCFrw",
+    "title": "ナギ /  Nagi 【にじさんじ】",
+    "description": "お嬢様です ◇ Support https://toon.at/donate/nagi2434 ◇ Twitter https://twitter.com/NagiSo2434 ーーーーーーーーーーーーーーー ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/0ZlMM0OX42WgMGXlMX0tqYs4y7-uCvKN4VAcktt79Rxg7YwZWMP6ST3Yqt-3QLKv-UzrPK9W1gY=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/0ZlMM0OX42WgMGXlMX0tqYs4y7-uCvKN4VAcktt79Rxg7YwZWMP6ST3Yqt-3QLKv-UzrPK9W1gY=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/0ZlMM0OX42WgMGXlMX0tqYs4y7-uCvKN4VAcktt79Rxg7YwZWMP6ST3Yqt-3QLKv-UzrPK9W1gY=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "ナギ /  Nagi 【にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-05-12T04:08:29Z"
+  }
+}
