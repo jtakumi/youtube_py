@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchResult",
-  "etag": "ljNgcZKsmSwWI9vrnhT2i_MjNEQ",
+  "etag": "iU2M9Gk_x666mz593AHc7n0exx8",
   "id": {
     "kind": "youtube#channel",
     "channelId": "UCA3WE2WRSpoIvtnoVGq4VAw"
@@ -22,7 +22,7 @@
       }
     },
     "channelTitle": "ZEA Cornelia【NIJISANJI】",
-    "liveBroadcastContent": "live",
+    "liveBroadcastContent": "upcoming",
     "publishTime": "2019-08-23T09:17:59Z"
   }
 }

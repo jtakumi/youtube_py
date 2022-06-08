@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "cOdNDcOD5AYRIJrYzLvdD0goNg4",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCyRkQSuhJILuGOuXk10voPg"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-07T03:20:02Z",
+    "channelId": "UCyRkQSuhJILuGOuXk10voPg",
+    "title": "Layla Alstroemeria【NIJISANJI / にじさんじ】",
+    "description": "皆さんごきげんよう＾＾ Selaymat datang dan salam kenal! Kaboonga! Nama saya Layla Alstroemeria, bisa dipanggil Layla.",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/NpEV7vfougoGEZ5EzZLpJtCTWLuFf0buZGLfVul_RhffUWnS2LZRh0KbFlzV4mKxfxcXbqFpIRE=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/NpEV7vfougoGEZ5EzZLpJtCTWLuFf0buZGLfVul_RhffUWnS2LZRh0KbFlzV4mKxfxcXbqFpIRE=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/NpEV7vfougoGEZ5EzZLpJtCTWLuFf0buZGLfVul_RhffUWnS2LZRh0KbFlzV4mKxfxcXbqFpIRE=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Layla Alstroemeria【NIJISANJI / にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-03-07T03:20:02Z"
+  }
+}

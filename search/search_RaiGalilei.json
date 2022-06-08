@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "hJLZm-tIWDom6f7pIrgr4IAsSIk",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC8Snw5i4eOJXEQqURAK17hQ"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-14T07:30:33Z",
+    "channelId": "UC8Snw5i4eOJXEQqURAK17hQ",
+    "title": "Rai Galilei【NIJISANJI / にじさんじ】",
+    "description": "Hai! Nama ku Rai, Rai Galilei dari divisi ke-42 Interdimensional Police. Aku adalah salah satu dari member official Virtual liver ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/WWJbrOgskZOfn4pp4C2qNqVv_ndYNw-zhn56Wg55bMeRHtV2bVCLSVA9qrkY9VOmHtsrU4flHA=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/WWJbrOgskZOfn4pp4C2qNqVv_ndYNw-zhn56Wg55bMeRHtV2bVCLSVA9qrkY9VOmHtsrU4flHA=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/WWJbrOgskZOfn4pp4C2qNqVv_ndYNw-zhn56Wg55bMeRHtV2bVCLSVA9qrkY9VOmHtsrU4flHA=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Rai Galilei【NIJISANJI / にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-12-14T07:30:33Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "G2ED8o9FmAaibTW9yE5H3CY0QEE",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCOmjciHZ8Au3iKMElKXCF_g"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-14T07:30:34Z",
+    "channelId": "UCOmjciHZ8Au3iKMElKXCF_g",
+    "title": "Miyu Ottavia 【NIJISANJI / にじさんじ】",
+    "description": "Wohallaw! Namaku Miyu Ottavia, panggil saja Miyu karena... kalau ada Me and You, pasti jadi ada Miyu hahaha! Aku sedang ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/b7YSe2QV6RwE4SpcV4EAO5PdqwxQwHRo-fTbwfxg31ym8-9jSlQLMuJAmVTsDxiyBXT3d8h7TRw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/b7YSe2QV6RwE4SpcV4EAO5PdqwxQwHRo-fTbwfxg31ym8-9jSlQLMuJAmVTsDxiyBXT3d8h7TRw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/b7YSe2QV6RwE4SpcV4EAO5PdqwxQwHRo-fTbwfxg31ym8-9jSlQLMuJAmVTsDxiyBXT3d8h7TRw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Miyu Ottavia 【NIJISANJI / にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-12-14T07:30:34Z"
+  }
+}

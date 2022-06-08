@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "mMyt_26XUM7vsyy1B9YfFLs4bCM",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC5yckZliCkuaEFbqzLBD7hQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-10-26T06:13:40Z",
+    "channelId": "UC5yckZliCkuaEFbqzLBD7hQ",
+    "title": "Reza Avanluna 【NIJISANJI / にじさんじ】",
+    "description": "Eh? Udah mau tidur kah~? Reza Tamva- ehm… Avanluna di sini. Akrabnya bisa dipanggil Eja ato Awan~ Sebagai seorang ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/x6_U4UNDq8xhbp9eKJcFaHpcy9785Y4YwKOg-uBf7lzeOpEBKrc6pFe7cerfu7reBI-lccpQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/x6_U4UNDq8xhbp9eKJcFaHpcy9785Y4YwKOg-uBf7lzeOpEBKrc6pFe7cerfu7reBI-lccpQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/x6_U4UNDq8xhbp9eKJcFaHpcy9785Y4YwKOg-uBf7lzeOpEBKrc6pFe7cerfu7reBI-lccpQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Reza Avanluna 【NIJISANJI / にじさんじ】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-10-26T06:13:40Z"
+  }
+}
