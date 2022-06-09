@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "xSeDGjKTWOUwoBSYFfihsvXIOhA",
+  "id": "UCXU7YYxy_iQd3ulXyO-zC2w",
+  "snippet": {
+    "title": "伏見ガク【にじさんじ所属】",
+    "description": "ピース✌\nにじさんじ所属バーチャルライバー伏見ガクです！！\n\n楽しいこととか面白いことが大好き！\nゲームとか雑談とか！とにかくみんなと一体感を感じられるようなものをやりたいと思ってるんでそんな俺をどうぞよろしく！的な！？\n\ntwitter:https://twitter.com/gaku_fushimi\nメンバーシップ\nhttps://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w/join\n",
+    "publishedAt": "2018-03-05T12:51:41Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRZvEYxjm4fUoVOO7MsxnSxc8Ga6LIO9k3JicyZyQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRZvEYxjm4fUoVOO7MsxnSxc8Ga6LIO9k3JicyZyQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRZvEYxjm4fUoVOO7MsxnSxc8Ga6LIO9k3JicyZyQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "伏見ガク【にじさんじ所属】",
+      "description": "ピース✌\nにじさんじ所属バーチャルライバー伏見ガクです！！\n\n楽しいこととか面白いことが大好き！\nゲームとか雑談とか！とにかくみんなと一体感を感じられるようなものをやりたいと思ってるんでそんな俺をどうぞよろしく！的な！？\n\ntwitter:https://twitter.com/gaku_fushimi\nメンバーシップ\nhttps://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w/join\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "23214754",
+    "subscriberCount": "224000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "533"
+  }
+}

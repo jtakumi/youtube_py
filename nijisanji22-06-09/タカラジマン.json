@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "T-e2FQ--g7Ngi50ZEqQUtT2-tQ8",
+  "id": "UCZ5dNZsqBjBzbBl0l_IdmXg",
+  "snippet": {
+    "title": "Taka Radjiman【NIJISANJI / にじさんじ】",
+    "description": "Halo semuanya, Nama saya Taka Radjiman. Biasanya dipanggil Taka. Saya adalah official Virtual Liver / VTuber dari NIJISANJI. Saya adalah CEO dari Mitaka Solutions,sebuah perusahaan Aplikasi yang mempertemukan Supplier daging dan restoran-restoran yang bekerja sama. Saya akan menemani malam kalian selepas jam kantor sehingga kita dapat melepas penat bersama. Mohon kerja sama nya ya semua.\n\n【Twitter】\nhttps://twitter.com/Taka_Radjiman\n\n【Facebook】\nhttps://www.facebook.com/takaRadjiman\n\nANYCOLOR Inc. Official Link:\n【Website】\nhttps://www.anycolor.co.jp/en/\n",
+    "publishedAt": "2019-08-23T09:17:20Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/2x2mK0DT_kxKPKjKo1u8lfDtduym7VfpfnbgiQusAyXDb_t4bHhB-8fznwb8FxJLPFMU_RRL=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/2x2mK0DT_kxKPKjKo1u8lfDtduym7VfpfnbgiQusAyXDb_t4bHhB-8fznwb8FxJLPFMU_RRL=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/2x2mK0DT_kxKPKjKo1u8lfDtduym7VfpfnbgiQusAyXDb_t4bHhB-8fznwb8FxJLPFMU_RRL=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Taka Radjiman【NIJISANJI / にじさんじ】",
+      "description": "Halo semuanya, Nama saya Taka Radjiman. Biasanya dipanggil Taka. Saya adalah official Virtual Liver / VTuber dari NIJISANJI. Saya adalah CEO dari Mitaka Solutions,sebuah perusahaan Aplikasi yang mempertemukan Supplier daging dan restoran-restoran yang bekerja sama. Saya akan menemani malam kalian selepas jam kantor sehingga kita dapat melepas penat bersama. Mohon kerja sama nya ya semua.\n\n【Twitter】\nhttps://twitter.com/Taka_Radjiman\n\n【Facebook】\nhttps://www.facebook.com/takaRadjiman\n\nANYCOLOR Inc. Official Link:\n【Website】\nhttps://www.anycolor.co.jp/en/\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "7184420",
+    "subscriberCount": "110000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "721"
+  }
+}
