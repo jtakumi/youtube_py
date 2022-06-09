@@ -1,0 +1,37 @@
+{
+  "kind": "youtube#channel",
+  "etag": "Hjf1iPJ4L7Busmtzw-Fa0uFTsrw",
+  "id": "UCsFn_ueskBkMCEyzCEqAOvg",
+  "snippet": {
+    "title": "花畑チャイカ",
+    "description": "にじさんじ所属",
+    "publishedAt": "2018-05-25T00:13:41Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSQbbPLkmRgJ4Q74Fc8_JPkIMcPuBPwpPr1S_SD=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSQbbPLkmRgJ4Q74Fc8_JPkIMcPuBPwpPr1S_SD=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSQbbPLkmRgJ4Q74Fc8_JPkIMcPuBPwpPr1S_SD=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "花畑チャイカ",
+      "description": "にじさんじ所属"
+    }
+  },
+  "statistics": {
+    "viewCount": "62341639",
+    "subscriberCount": "375000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "629"
+  }
+}
