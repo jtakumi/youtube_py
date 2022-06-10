@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "rp0sBNKiRgO7QBp8l5_0W160XuM",
+  "id": "UCufQu4q65z63IgE4cfKs1BQ",
+  "snippet": {
+    "title": "語部紡",
+    "description": "にじさんじ所属バーチャルライバー、語部紡（かたりべつむぐ）です！諏訪部ではありません。\nよろしくお願いします！\n\n■https://twitter.com/KataribeTsumugu",
+    "publishedAt": "2019-01-22T03:44:54Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRszhb3NA8mojapmCQ_TnGlbYv0k8ycmAdBBE2hIQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRszhb3NA8mojapmCQ_TnGlbYv0k8ycmAdBBE2hIQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRszhb3NA8mojapmCQ_TnGlbYv0k8ycmAdBBE2hIQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "語部紡",
+      "description": "にじさんじ所属バーチャルライバー、語部紡（かたりべつむぐ）です！諏訪部ではありません。\nよろしくお願いします！\n\n■https://twitter.com/KataribeTsumugu"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "1152338",
+    "subscriberCount": "77400",
+    "hiddenSubscriberCount": false,
+    "videoCount": "3"
+  }
+}

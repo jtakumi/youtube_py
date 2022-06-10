@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "IlWJJBZqStlHcLrZ9q_jph3FlG0",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCG0rzBZV_QMP4MtWg6IjhEA"
+  },
+  "snippet": {
+    "publishedAt": "2021-11-30T23:20:46Z",
+    "channelId": "UCG0rzBZV_QMP4MtWg6IjhEA",
+    "title": "Shu Yamino【NIJISANJI EN】",
+    "description": "A sorcerer from NIJISANJI EN's 4th wave 「Luxiem」! 呪術師の闇ノシュウです！ □ My Socials! Twitter: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/b1jmzzU-KJ7QKXXUK8c44I86UiOz0e_SqaWofWV_62Wun8wL8JIzrAv-lD6NBo12Raz4p3du6w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/b1jmzzU-KJ7QKXXUK8c44I86UiOz0e_SqaWofWV_62Wun8wL8JIzrAv-lD6NBo12Raz4p3du6w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/b1jmzzU-KJ7QKXXUK8c44I86UiOz0e_SqaWofWV_62Wun8wL8JIzrAv-lD6NBo12Raz4p3du6w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Shu Yamino【NIJISANJI EN】",
+    "liveBroadcastContent": "none",
+    "publishTime": "2021-11-30T23:20:46Z"
+  }
+}
