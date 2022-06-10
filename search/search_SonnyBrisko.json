@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_6C47fRtd-26YTCMuq2AuNsogNA",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCuuAb_72QzK0M1USPMEl1yw"
+  },
+  "snippet": {
+    "publishedAt": "2022-02-07T23:27:34Z",
+    "channelId": "UCuuAb_72QzK0M1USPMEl1yw",
+    "title": "Sonny Brisko 【NIJISANJI EN】",
+    "description": "Special Forces Officer from NIJISANJI EN's Noctyx! にじさんじEN所属の特殊部隊長サニー・ブリスコーだ。 Twitter: ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Sonny Brisko 【NIJISANJI EN】",
+    "liveBroadcastContent": "none",
+    "publishTime": "2022-02-07T23:27:34Z"
+  }
+}

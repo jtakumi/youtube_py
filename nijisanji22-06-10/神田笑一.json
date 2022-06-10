@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "Y3p-J9ckPwQ13PgWRJHhc9_ZH8Q",
+  "id": "UCWz0CSYCxf4MhRKPDm220AQ",
+  "snippet": {
+    "title": "神田笑一 / Kanda Shoichi【 にじさんじ 】",
+    "description": "陽キャか！？それとも陰キャか！？\n\n『にじさんじ島、奥地ジャングルで謎のVtuber発見！』\nその衝撃的なニュースはVtuber新聞の一面トップを飾った！！\n\n人々から『神田笑一』と呼ばれ、恐れられているVtuberとは果たして何者か！？\n\n\n\n”””水曜スペシャル””””\n\n\nにじさんじ島奥地に幻のVtuber！\n『神田笑一』を追え！",
+    "publishedAt": "2018-08-07T06:39:31Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/OhYM2mgndmsXa4U7iDAh5hF3a2T7QoHOViOZ10GqgnQJv0XF8eQZZH6qMxP4PPj-wKzyks-z=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/OhYM2mgndmsXa4U7iDAh5hF3a2T7QoHOViOZ10GqgnQJv0XF8eQZZH6qMxP4PPj-wKzyks-z=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/OhYM2mgndmsXa4U7iDAh5hF3a2T7QoHOViOZ10GqgnQJv0XF8eQZZH6qMxP4PPj-wKzyks-z=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "神田笑一 / Kanda Shoichi【 にじさんじ 】",
+      "description": "陽キャか！？それとも陰キャか！？\n\n『にじさんじ島、奥地ジャングルで謎のVtuber発見！』\nその衝撃的なニュースはVtuber新聞の一面トップを飾った！！\n\n人々から『神田笑一』と呼ばれ、恐れられているVtuberとは果たして何者か！？\n\n\n\n”””水曜スペシャル””””\n\n\nにじさんじ島奥地に幻のVtuber！\n『神田笑一』を追え！"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "29295170",
+    "subscriberCount": "225000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "1461"
+  }
+}

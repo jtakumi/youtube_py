@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Yi-AufFEVazJvvCj-OUyB3-cssc",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCR6qhsLpn62WVxCBK1dkLow"
+  },
+  "snippet": {
+    "publishedAt": "2021-09-15T00:11:59Z",
+    "channelId": "UCR6qhsLpn62WVxCBK1dkLow",
+    "title": "Enna Alouette【NIJISANJI EN】",
+    "description": "_CREDIT _ banner illust. Xiangyin_V https://twitter.com/xiangyin_v icon. KT Mama https://twitter.com/gahara411 logo ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/2HewD-QZ5p6NSU7xVl64ayxXMqf9Yvin7XST5y8-FqIS_bIhkw_hgfX78P1Bxkx8W4UlZv6D=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/2HewD-QZ5p6NSU7xVl64ayxXMqf9Yvin7XST5y8-FqIS_bIhkw_hgfX78P1Bxkx8W4UlZv6D=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/2HewD-QZ5p6NSU7xVl64ayxXMqf9Yvin7XST5y8-FqIS_bIhkw_hgfX78P1Bxkx8W4UlZv6D=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Enna Alouette【NIJISANJI EN】",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2021-09-15T00:11:59Z"
+  }
+}
