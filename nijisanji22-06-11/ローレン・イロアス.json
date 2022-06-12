@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "gAAxrOUNuu050tcfNnfhdgh7shs",
+  "id": "UCgmFrRcyH7d1zR9sIVQhFow",
+  "snippet": {
+    "title": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
+    "description": "にじさんじ所属のローレン・イロアスす！\n\n頼もう。\n\n―リンク―\n【Twitter】\nhttps://twitter.com/Lauren_iroas\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n【お問い合わせやプレゼントはこちら】\nhttps://www.nijisanji.jp/contact\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp/\n\n",
+    "publishedAt": "2021-07-05T07:03:54.397422Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/_lIzJVcUyL0toipUhCD3tKArOsRr35fkWdAUTfukE9avQg9CMjuRgxRW3XratI4rkhgF4I31Vg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/_lIzJVcUyL0toipUhCD3tKArOsRr35fkWdAUTfukE9avQg9CMjuRgxRW3XratI4rkhgF4I31Vg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/_lIzJVcUyL0toipUhCD3tKArOsRr35fkWdAUTfukE9avQg9CMjuRgxRW3XratI4rkhgF4I31Vg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
+      "description": "にじさんじ所属のローレン・イロアスす！\n\n頼もう。\n\n―リンク―\n【Twitter】\nhttps://twitter.com/Lauren_iroas\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n【お問い合わせやプレゼントはこちら】\nhttps://www.nijisanji.jp/contact\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp/\n\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "46041601",
+    "subscriberCount": "299000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "228"
+  }
+}
