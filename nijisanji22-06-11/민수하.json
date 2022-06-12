@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "Rewhd1NVgLeNuaomQRP1svbYJMQ",
+  "id": "UCUtKkGKef8BYMs3h-3zQm9A",
+  "snippet": {
+    "title": "민수하 /Suhaスハ【NIJISANJI】",
+    "description": "🌊니지산지KR 소속 물속성 라이버 민수하(Suha. Min / ミン・スゥーハ)입니다! 게임과 노래를 좋아합니다\n🌊방송에서는 주로 한국어를 사용하지만 일본어도 종종 사용합니다!\n🌊아카이브는 유튜브에 올라옵니다!\n\n🎮にじさんじKR所属のみずタイプライバー、ミン·スゥーハです! ゲームと歌が好きです。\n🎮配信では主に韓国語を使いますが、日本語もしばしば使います!\n🎮アーカイブはYouTubeにアップロードします!\n\n-------------------------------------------------------------------------\n\n🌊twitter▶https://twitter.com/SuhaMin2434\n🎮twitch▶https://www.twitch.tv/suha2434\n🌊Question▶https://marshmallow-qa.com/suhamin2434\n\n-------------------------------------------------------------------------",
+    "publishedAt": "2020-01-21T16:37:21.81717Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/K8Ro901w9FqnU6GwIIW4IbtXQdurBg-vlAPiD0dFdVkd5iRF3YwfIpi8iydP2R807VT6z_ZXDg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/K8Ro901w9FqnU6GwIIW4IbtXQdurBg-vlAPiD0dFdVkd5iRF3YwfIpi8iydP2R807VT6z_ZXDg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/K8Ro901w9FqnU6GwIIW4IbtXQdurBg-vlAPiD0dFdVkd5iRF3YwfIpi8iydP2R807VT6z_ZXDg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "민수하 /Suhaスハ【NIJISANJI】",
+      "description": "🌊니지산지KR 소속 물속성 라이버 민수하(Suha. Min / ミン・スゥーハ)입니다! 게임과 노래를 좋아합니다\n🌊방송에서는 주로 한국어를 사용하지만 일본어도 종종 사용합니다!\n🌊아카이브는 유튜브에 올라옵니다!\n\n🎮にじさんじKR所属のみずタイプライバー、ミン·スゥーハです! ゲームと歌が好きです。\n🎮配信では主に韓国語を使いますが、日本語もしばしば使います!\n🎮アーカイブはYouTubeにアップロードします!\n\n-------------------------------------------------------------------------\n\n🌊twitter▶https://twitter.com/SuhaMin2434\n🎮twitch▶https://www.twitch.tv/suha2434\n🌊Question▶https://marshmallow-qa.com/suhamin2434\n\n-------------------------------------------------------------------------"
+    },
+    "country": "KR"
+  },
+  "statistics": {
+    "viewCount": "2451760",
+    "subscriberCount": "93500",
+    "hiddenSubscriberCount": false,
+    "videoCount": "433"
+  }
+}
