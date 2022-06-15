@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "_DLjiK34TrOZN3pVdLH6WNgnWOM",
+  "id": "UCnzZmBOSrQf2wDBbnsDajVw",
+  "snippet": {
+    "title": "ジユ / Jiyu 【にじさんじ】 ",
+    "description": "",
+    "publishedAt": "2020-10-06T11:37:22.784057Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/rdDh1n8jiCLMuWO7YHhDPCehQbGPNqZN7wXvfNQzj1gIY5RwQLx0qaSVb0e_zv3cmA-2Omxf=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/rdDh1n8jiCLMuWO7YHhDPCehQbGPNqZN7wXvfNQzj1gIY5RwQLx0qaSVb0e_zv3cmA-2Omxf=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/rdDh1n8jiCLMuWO7YHhDPCehQbGPNqZN7wXvfNQzj1gIY5RwQLx0qaSVb0e_zv3cmA-2Omxf=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ジユ / Jiyu 【にじさんじ】 ",
+      "description": ""
+    },
+    "country": "KR"
+  },
+  "statistics": {
+    "viewCount": "1071012",
+    "subscriberCount": "36900",
+    "hiddenSubscriberCount": false,
+    "videoCount": "308"
+  }
+}

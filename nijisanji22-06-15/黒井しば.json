@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "WO_g7Ssi1cUlhcxOpyVm9tiWX6I",
+  "id": "UCmeyo5pRj_6PXG-CsGUuWWg",
+  "snippet": {
+    "title": "黒井しば【にじさんじの犬】",
+    "description": "はじめまして！\nにじさんじ所属、公式バーチャルライバーの黒井しばだよ！\nみんなと、お話しながらおさんぽしたり、動物さんをお世話したり、ゲームやったりしてまーす！\n\nーーーーーーー\n※未成年者の視聴者の方々は、下記リンク先の注意事項もご覧ください。\n https://www.anycolor.co.jp/notice-for-minors\nーーーーーーー\n\n【お問い合わせやお手紙はこちら】\nhttps://www.nijisanji.jp/contact\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp",
+    "publishedAt": "2018-09-19T07:54:51Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRKf9p1esL7DeVqMWITAVJXQknx0jrC9m91Sljl=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRKf9p1esL7DeVqMWITAVJXQknx0jrC9m91Sljl=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRKf9p1esL7DeVqMWITAVJXQknx0jrC9m91Sljl=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "黒井しば【にじさんじの犬】",
+      "description": "はじめまして！\nにじさんじ所属、公式バーチャルライバーの黒井しばだよ！\nみんなと、お話しながらおさんぽしたり、動物さんをお世話したり、ゲームやったりしてまーす！\n\nーーーーーーー\n※未成年者の視聴者の方々は、下記リンク先の注意事項もご覧ください。\n https://www.anycolor.co.jp/notice-for-minors\nーーーーーーー\n\n【お問い合わせやお手紙はこちら】\nhttps://www.nijisanji.jp/contact\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "15794320",
+    "subscriberCount": "186000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "390"
+  }
+}
