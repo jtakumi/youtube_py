@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "OssjeJ4f87umQc5GnusjIwAvxVE",
+  "id": "UCLjx3lqIkYkPCBJop8czJ2A",
+  "snippet": {
+    "title": "Ban Hada | NIJISANJI",
+    "description": "반하다 バン・ハダ / Pirate Captain\n\n",
+    "customUrl": "반하다banhadanijisanjikr",
+    "publishedAt": "2021-04-20T05:01:02.918096Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/vfZXd4d_VGJ-TzDc46vIqB-LYQu90TOr8Wbuya58sEgSLnQxYK3MnJDHEBNkIGz2aNhLe7vygbw=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/vfZXd4d_VGJ-TzDc46vIqB-LYQu90TOr8Wbuya58sEgSLnQxYK3MnJDHEBNkIGz2aNhLe7vygbw=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/vfZXd4d_VGJ-TzDc46vIqB-LYQu90TOr8Wbuya58sEgSLnQxYK3MnJDHEBNkIGz2aNhLe7vygbw=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Ban Hada | NIJISANJI",
+      "description": "반하다 バン・ハダ / Pirate Captain\n\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "1702696",
+    "subscriberCount": "60700",
+    "hiddenSubscriberCount": false,
+    "videoCount": "159"
+  }
+}
