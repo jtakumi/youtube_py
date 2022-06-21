@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "CFf14ojTgYK7ggPxaH-L7pIQ4X4",
+  "id": "UCl1oLKcAq93p-pwKfDGhiYQ",
+  "snippet": {
+    "title": "えま★おうがすと / Emma★August【にじさんじ】",
+    "description": "魔王になる者です。いえーい！ヨイショ。\n\n\nメンバーシップはこちらから。\nhttps://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ/join\n\n【Twitter】\nhttps://twitter.com/emma_august_\n\n【おてがみ・お問い合わせはこちら】\nhttps://www.nijisanji.jp/contact\n\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp\nーーー",
+    "publishedAt": "2019-08-17T05:08:11Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/EFHakHIby-wWrVPnikUFgu1TqeBrF-_M_oljVbFAW3o3cZcH9KvqFouxrd2yWoq_6-QHL0KFzA=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/EFHakHIby-wWrVPnikUFgu1TqeBrF-_M_oljVbFAW3o3cZcH9KvqFouxrd2yWoq_6-QHL0KFzA=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/EFHakHIby-wWrVPnikUFgu1TqeBrF-_M_oljVbFAW3o3cZcH9KvqFouxrd2yWoq_6-QHL0KFzA=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "えま★おうがすと / Emma★August【にじさんじ】",
+      "description": "魔王になる者です。いえーい！ヨイショ。\n\n\nメンバーシップはこちらから。\nhttps://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ/join\n\n【Twitter】\nhttps://twitter.com/emma_august_\n\n【おてがみ・お問い合わせはこちら】\nhttps://www.nijisanji.jp/contact\n\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp\nーーー"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "11357796",
+    "subscriberCount": "200000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "355"
+  }
+}
