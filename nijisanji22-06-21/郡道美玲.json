@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "gBQgmzGUzPLG9r9Oau6SRXjhwo4",
+  "id": "UCeShTCVgZyq2lsBW9QwIJcw",
+  "snippet": {
+    "title": "【3年0組】郡道美玲の教室",
+    "description": "🌈にじさんじ所属🌈\nバーチャルライバー兼バーチャル教師の郡道美玲(ぐんどうみれい)です。\n\nTwitter→@g9v9g_mirei\n\nゲーム実況、授業動画、雑学動画、雑談等上げていきます。\nゆゆ式",
+    "publishedAt": "2019-01-15T07:25:30Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSdNE-T9cYM194hv2Xfs7jI-mpjsWH2aDOKOr-4tQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSdNE-T9cYM194hv2Xfs7jI-mpjsWH2aDOKOr-4tQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSdNE-T9cYM194hv2Xfs7jI-mpjsWH2aDOKOr-4tQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "【3年0組】郡道美玲の教室",
+      "description": "🌈にじさんじ所属🌈\nバーチャルライバー兼バーチャル教師の郡道美玲(ぐんどうみれい)です。\n\nTwitter→@g9v9g_mirei\n\nゲーム実況、授業動画、雑学動画、雑談等上げていきます。\nゆゆ式"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "70431956",
+    "subscriberCount": "423000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "1201"
+  }
+}
