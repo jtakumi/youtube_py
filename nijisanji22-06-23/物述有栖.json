@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "OO33eSaoIf0_rRsq4llzvmYZH-8",
+  "id": "UCt0clH12Xk1-Ej5PXKGfdPA",
+  "snippet": {
+    "title": "♥️♠️物述有栖♦️♣️",
+    "description": "Hi✨\nにじさんじバーチャルライバーの物述有栖(もののべありす)よっ☕️💕\nみんなと楽しくお茶会したり、ゲームしたり、色んなことにチャレンジしていきたいから、応援してもらえると嬉しいわっ♡\nチャンネル登録待ってます❣️\nんーまっ(๑´³`)♥️",
+    "publishedAt": "2018-03-05T13:51:15Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRA6p4Y7X98R9eomkyXd0_ffp66auHBpV1Du5_Y=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRA6p4Y7X98R9eomkyXd0_ffp66auHBpV1Du5_Y=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRA6p4Y7X98R9eomkyXd0_ffp66auHBpV1Du5_Y=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "♥️♠️物述有栖♦️♣️",
+      "description": "Hi✨\nにじさんじバーチャルライバーの物述有栖(もののべありす)よっ☕️💕\nみんなと楽しくお茶会したり、ゲームしたり、色んなことにチャレンジしていきたいから、応援してもらえると嬉しいわっ♡\nチャンネル登録待ってます❣️\nんーまっ(๑´³`)♥️"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "25759951",
+    "subscriberCount": "248000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "512"
+  }
+}
