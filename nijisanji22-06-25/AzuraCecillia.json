@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "8akXUHDhKvrrp9bl2BhcOCzuWGo",
+  "id": "UCk5r533QVMgJUdWwqegH2TA",
+  "snippet": {
+    "title": "Azura Cecillia Ch.",
+    "description": "Ohazura, earthlings! Nice to meet you.\n\nMy name is Azura Cecillia, a soldier from outer space. I'm a Virtual YouTuber and I like to play video games. If you're bored, feel free to come and watch my streams. Let's chat a lot and be friends! \n\n(Facebook)\nhttps://www.facebook.com/AzuraCecillia/\n\n(Twitter)\nhttps://twitter.com/Azura_Cecillia\n----------------------------------------------------------------------------------------------\n\nWebsite ANYCOLOR Inc.:\nhttps://www.anycolor.co.jp/en/\n",
+    "publishedAt": "2020-03-07T03:17:01.702401Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/vQ4uwdnkDaC1srk9lbdEaoycXASSkFaFCvTRoycKUt590-UH4VIVVUKbPuWgET-qdK5mmmij=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/vQ4uwdnkDaC1srk9lbdEaoycXASSkFaFCvTRoycKUt590-UH4VIVVUKbPuWgET-qdK5mmmij=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/vQ4uwdnkDaC1srk9lbdEaoycXASSkFaFCvTRoycKUt590-UH4VIVVUKbPuWgET-qdK5mmmij=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Azura Cecillia Ch.",
+      "description": "Ohazura, earthlings! Nice to meet you.\n\nMy name is Azura Cecillia, a soldier from outer space. I'm a Virtual YouTuber and I like to play video games. If you're bored, feel free to come and watch my streams. Let's chat a lot and be friends! \n\n(Facebook)\nhttps://www.facebook.com/AzuraCecillia/\n\n(Twitter)\nhttps://twitter.com/Azura_Cecillia\n----------------------------------------------------------------------------------------------\n\nWebsite ANYCOLOR Inc.:\nhttps://www.anycolor.co.jp/en/\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "1526805",
+    "subscriberCount": "53600",
+    "hiddenSubscriberCount": false,
+    "videoCount": "451"
+  }
+}

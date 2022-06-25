@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "cVfFiiCkAqHDw-NyX72bC8kawHs",
+  "id": "UCjlmCrq4TP1I4xguOtJ-31w",
+  "snippet": {
+    "title": "でびでび・でびる",
+    "description": "にじさんじ所属　おそろしい　あくまの　ちゃんねる\nどうが　と　はいしん　する\nさいせい　りすと　みろ\n\nおまえはもう\n契約している",
+    "publishedAt": "2019-01-31T10:36:58Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTWk1sLvA2J8IGxJfcpNiXuwx-jfouD_rRYKJFFpA=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTWk1sLvA2J8IGxJfcpNiXuwx-jfouD_rRYKJFFpA=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLTWk1sLvA2J8IGxJfcpNiXuwx-jfouD_rRYKJFFpA=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "でびでび・でびる",
+      "description": "にじさんじ所属　おそろしい　あくまの　ちゃんねる\nどうが　と　はいしん　する\nさいせい　りすと　みろ\n\nおまえはもう\n契約している"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "68446938",
+    "subscriberCount": "492000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "956"
+  }
+}
