@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "s3fNc44LdSczxHWmNIzN2SHCKS0",
+  "id": "UChUJbHiTVeGrSkTdBzVfNCQ",
+  "snippet": {
+    "title": "ジョー・力一 Joe Rikiichi",
+    "description": "にじさんじのピエロ、ジョー・力一(りきいち)のチャンネルだよ～～～！！！！！\nたのしい配信とたのしい暮らしの両立をめざして……\n\nYouTube\nhttps://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nTwitter\nhttps://twitter.com/JoeRikiichi",
+    "publishedAt": "2018-08-07T06:55:54Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/vU4bFnln7i28MPhPIyCoFZIjhHzsfWEvTImcee1sny8Osi0YNk_XqCnGdJ_x6Wb37h7FoUNKSEQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/vU4bFnln7i28MPhPIyCoFZIjhHzsfWEvTImcee1sny8Osi0YNk_XqCnGdJ_x6Wb37h7FoUNKSEQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/vU4bFnln7i28MPhPIyCoFZIjhHzsfWEvTImcee1sny8Osi0YNk_XqCnGdJ_x6Wb37h7FoUNKSEQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ジョー・力一 Joe Rikiichi",
+      "description": "にじさんじのピエロ、ジョー・力一(りきいち)のチャンネルだよ～～～！！！！！\nたのしい配信とたのしい暮らしの両立をめざして……\n\nYouTube\nhttps://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ\nTwitter\nhttps://twitter.com/JoeRikiichi"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "65166795",
+    "subscriberCount": "394000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "504"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "40QfKO7ckZDB3vFVv3A_zIMsKek",
+  "id": "UCRcLAVTbmx2-iNcXSsupdNA",
+  "snippet": {
+    "title": "来栖 夏芽-kurusu natsume-【にじさんじ】",
+    "description": "にじさんじ所属、バーチャルライバーの「来栖夏芽」です。\n主に（雑談/ゲーム/歌）配信をやる予定ですがなんでもします。\n\n\n◯リンク\n【Twitter】\n「https://twitter.com/kurusu72me」\n《@kurusu72me 》\n\n【お問い合わせやファンレターはこちら】\nhttps://www.nijisanji.jp/contact\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp\n\nーーー",
+    "publishedAt": "2019-12-05T10:02:22.119195Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/qFI24mxiznmfADFy01hnobmj5pXzsgiwD0zbH7nIWUVWzGPD5fv1GyOmksugCqshd7NvhBzk=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/qFI24mxiznmfADFy01hnobmj5pXzsgiwD0zbH7nIWUVWzGPD5fv1GyOmksugCqshd7NvhBzk=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/qFI24mxiznmfADFy01hnobmj5pXzsgiwD0zbH7nIWUVWzGPD5fv1GyOmksugCqshd7NvhBzk=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "来栖 夏芽-kurusu natsume-【にじさんじ】",
+      "description": "にじさんじ所属、バーチャルライバーの「来栖夏芽」です。\n主に（雑談/ゲーム/歌）配信をやる予定ですがなんでもします。\n\n\n◯リンク\n【Twitter】\n「https://twitter.com/kurusu72me」\n《@kurusu72me 》\n\n【お問い合わせやファンレターはこちら】\nhttps://www.nijisanji.jp/contact\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp\n\nーーー"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "12745584",
+    "subscriberCount": "178000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "565"
+  }
+}
