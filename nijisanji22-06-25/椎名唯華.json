@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "kYFAbC6Yn3YvPyHpvTEEhabSlag",
+  "id": "UC_4tXjqecqox5Uc05ncxpxg",
+  "snippet": {
+    "title": "椎名唯華 / Shiina Yuika",
+    "description": "にじさんじ所属、霊能力者、バーチャルライバーの椎名唯華です。\nゲーム配信・動画投稿がんばります！\n",
+    "publishedAt": "2018-07-27T08:57:37Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSIXjxaKvTQAgBpIwZtdI_Ux_cUEi3wefTTSVZW1w=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSIXjxaKvTQAgBpIwZtdI_Ux_cUEi3wefTTSVZW1w=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLSIXjxaKvTQAgBpIwZtdI_Ux_cUEi3wefTTSVZW1w=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "椎名唯華 / Shiina Yuika",
+      "description": "にじさんじ所属、霊能力者、バーチャルライバーの椎名唯華です。\nゲーム配信・動画投稿がんばります！\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "124429619",
+    "subscriberCount": "577000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "1107"
+  }
+}
