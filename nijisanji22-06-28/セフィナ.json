@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "wapzu9IsQAcqPLH1RxOlT1WpA40",
+  "id": "UCeGendL8CO5RkffB6IFwHow",
+  "snippet": {
+    "title": "セフィナ / Seffyna【にじさんじ】",
+    "description": "💗にじさんじ所属の「セフィナ」です! よろしくお願いいたします!🌕\n💗I'M SEFFYNA FROM NIJISANJI! NICE TO MEET YOU!🌕\n💗니지산지소속 「세피나」 입니다! 잘부탁드려요!🌕\n\n\n",
+    "publishedAt": "2021-04-20T05:06:25.825024Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/jtKEMnqzW7TsuiGNbD3cAR4e8F9_Yc7xcKrx5UVFEi9wTFuDHV3wDW0JKKc3wXZ3mOLdXoMOZQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/jtKEMnqzW7TsuiGNbD3cAR4e8F9_Yc7xcKrx5UVFEi9wTFuDHV3wDW0JKKc3wXZ3mOLdXoMOZQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/jtKEMnqzW7TsuiGNbD3cAR4e8F9_Yc7xcKrx5UVFEi9wTFuDHV3wDW0JKKc3wXZ3mOLdXoMOZQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "セフィナ / Seffyna【にじさんじ】",
+      "description": "💗にじさんじ所属の「セフィナ」です! よろしくお願いいたします!🌕\n💗I'M SEFFYNA FROM NIJISANJI! NICE TO MEET YOU!🌕\n💗니지산지소속 「세피나」 입니다! 잘부탁드려요!🌕\n\n\n"
+    },
+    "country": "KR"
+  },
+  "statistics": {
+    "viewCount": "7348082",
+    "subscriberCount": "85800",
+    "hiddenSubscriberCount": false,
+    "videoCount": "416"
+  }
+}

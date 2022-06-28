@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "jqNGB4o2zfvp4D-yoyI6Hpzf0bg",
+  "id": "UC1zFJrfEKvCixhsjNSb1toQ",
+  "snippet": {
+    "title": "シスター・クレア -SisterClaire-",
+    "description": "ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ \n\n　シスター・クレア\n\n　𝗧witter\n\n　 https://twitter.com/SisterCleaire\n\n　𝗠arshmallow\n\n　https://marshmallow-qa.com/sistercleaire\n　　　　　　　　　　　　　　　　　　　　　　\n　𝗗estination\n\n　https://www.nijisanji.jp/contact\n　\n ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ",
+    "publishedAt": "2018-05-25T00:10:05Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRqTF6i5n7IjFe7XalCRAe9_tqUrFQPVcCmdEUcGw=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRqTF6i5n7IjFe7XalCRAe9_tqUrFQPVcCmdEUcGw=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLRqTF6i5n7IjFe7XalCRAe9_tqUrFQPVcCmdEUcGw=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "シスター・クレア -SisterClaire-",
+      "description": "ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ \n\n　シスター・クレア\n\n　𝗧witter\n\n　 https://twitter.com/SisterCleaire\n\n　𝗠arshmallow\n\n　https://marshmallow-qa.com/sistercleaire\n　　　　　　　　　　　　　　　　　　　　　　\n　𝗗estination\n\n　https://www.nijisanji.jp/contact\n　\n ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ･｡..｡･ﾟ"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "58810209",
+    "subscriberCount": "443000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "2009"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "V5YnTkKOyUZn4btRDdxaCmSZ74U",
+  "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+  "snippet": {
+    "title": "Noel Ch. 白銀ノエル",
+    "description": "おっとりしているが、なんでも筋力でどうにかする物騒な面を持つ ゆるふわ脳筋女騎士。強さに憧れるあまり、つよつよな人達が集まるVtuber界に武者修行にきた。",
+    "publishedAt": "2019-07-26T12:28:31Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQW7DXGL_nPlEiuqvHzJBiSZKiS5VKqrxzvKHLL9A=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQW7DXGL_nPlEiuqvHzJBiSZKiS5VKqrxzvKHLL9A=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQW7DXGL_nPlEiuqvHzJBiSZKiS5VKqrxzvKHLL9A=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Noel Ch. 白銀ノエル",
+      "description": "おっとりしているが、なんでも筋力でどうにかする物騒な面を持つ ゆるふわ脳筋女騎士。強さに憧れるあまり、つよつよな人達が集まるVtuber界に武者修行にきた。"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "154812009",
+    "subscriberCount": "1510000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "672"
+  }
+}
