@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "YTOQc_M-s2x0GoFejLPuV33-e08",
+  "id": "UCebT4Aq-3XWb5je1S1FvR_A",
+  "snippet": {
+    "title": "東堂コハク/ Todo Kohaku [にじさんじ]",
+    "description": "初めまして。\nにじさんじ所属、バーチャルライバーの東堂コハクです！\n歌とスプラトゥーンが大好きな高校３年生♪\n見に来てくれた人みんなを、ポジティブにできるような配信を目指します！！！\nぜひぜひ遊びに来てください～\n\nHi! My name is Kohaku Todo:)\nI LOVE singing and Splatoon so much!!!!\nI want to make everyone smile and happy.\nPlease come and see me♡\n\n‣Twitter\nhttps://twitter.com/kohaku_todo\n\n\n‣にじさんじ公式HP\nhttps://www.nijisanji.jp",
+    "publishedAt": "2020-07-29T08:15:16.47087Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQhNU5qcxREOapIZMtZcxYwZq5Sa-yvEqelX-EI=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQhNU5qcxREOapIZMtZcxYwZq5Sa-yvEqelX-EI=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQhNU5qcxREOapIZMtZcxYwZq5Sa-yvEqelX-EI=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "東堂コハク/ Todo Kohaku [にじさんじ]",
+      "description": "初めまして。\nにじさんじ所属、バーチャルライバーの東堂コハクです！\n歌とスプラトゥーンが大好きな高校３年生♪\n見に来てくれた人みんなを、ポジティブにできるような配信を目指します！！！\nぜひぜひ遊びに来てください～\n\nHi! My name is Kohaku Todo:)\nI LOVE singing and Splatoon so much!!!!\nI want to make everyone smile and happy.\nPlease come and see me♡\n\n‣Twitter\nhttps://twitter.com/kohaku_todo\n\n\n‣にじさんじ公式HP\nhttps://www.nijisanji.jp"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "9336388",
+    "subscriberCount": "112000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "160"
+  }
+}
