@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "A2NAM0RbQZflPTfkdbNC2cEWXWI",
+  "id": "UC5ek2GWKvUKFgnKSHuuCFrw",
+  "snippet": {
+    "title": "ナギ /  Nagi 【にじさんじ】",
+    "description": "お嬢様です\n\n◆ Support\nhttps://toon.at/donate/nagi2434\n◆ Twitter\nhttps://twitter.com/NagiSo2434\nーーーーーーーーーーーーーーーーーーーーー\n・니지산지 관련\n◆ 공식Twitter\n@NIJISANJI_KR",
+    "publishedAt": "2020-05-12T04:08:29.678148Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/0ZlMM0OX42WgMGXlMX0tqYs4y7-uCvKN4VAcktt79Rxg7YwZWMP6ST3Yqt-3QLKv-UzrPK9W1gY=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/0ZlMM0OX42WgMGXlMX0tqYs4y7-uCvKN4VAcktt79Rxg7YwZWMP6ST3Yqt-3QLKv-UzrPK9W1gY=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/0ZlMM0OX42WgMGXlMX0tqYs4y7-uCvKN4VAcktt79Rxg7YwZWMP6ST3Yqt-3QLKv-UzrPK9W1gY=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ナギ /  Nagi 【にじさんじ】",
+      "description": "お嬢様です\n\n◆ Support\nhttps://toon.at/donate/nagi2434\n◆ Twitter\nhttps://twitter.com/NagiSo2434\nーーーーーーーーーーーーーーーーーーーーー\n・니지산지 관련\n◆ 공식Twitter\n@NIJISANJI_KR"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "2917694",
+    "subscriberCount": "69900",
+    "hiddenSubscriberCount": false,
+    "videoCount": "355"
+  }
+}
