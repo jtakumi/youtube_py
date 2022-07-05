@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channel",
-  "etag": "xCRlr8PcL-RROuMQNXL_B0ulhQw",
+  "etag": "CwWTNa31bIJpTntWJuzvIk6SUk4",
   "id": "UCvpredjG93ifbCP1Y77JyFA",
   "snippet": {
     "title": "Ayase / YOASOBI",
@@ -31,8 +31,8 @@
     "country": "JP"
   },
   "statistics": {
-    "viewCount": "1828333449",
-    "subscriberCount": "3830000",
+    "viewCount": "1896206582",
+    "subscriberCount": "3890000",
     "hiddenSubscriberCount": false,
     "videoCount": "89"
   }
