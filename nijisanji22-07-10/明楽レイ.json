@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "ggYTjscj4zVDBClsPhCeY6ZxCe8",
+  "id": "UC7hffDQLKIEG-_zoAQkMIvg",
+  "snippet": {
+    "title": "明楽 レイ /아키라 레이 / Ray Akira 【にじさんじ】",
+    "description": "にじさんじ所属元にじさんじKR所属の日本人明楽レイです！\n\nYouTubeは日本語メイン、Twichは韓国語メインで活動しています💙\nよろしくおねがいします！！\n\n니지산지소속 일본인 아키라레이입니다!\nYoutube는 일본어, Twich는 한국어로 방송하고 있습니다!\n잘 부탁드립니다!\n",
+    "publishedAt": "2020-07-30T09:33:40.107864Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/y-WK1cEtNQPv6DjkaR0_GgC_tSxrXE5nobIYvMPgGFmXwrln7MA1dYlWf9vFpdtM81dTrk86UGM=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/y-WK1cEtNQPv6DjkaR0_GgC_tSxrXE5nobIYvMPgGFmXwrln7MA1dYlWf9vFpdtM81dTrk86UGM=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/y-WK1cEtNQPv6DjkaR0_GgC_tSxrXE5nobIYvMPgGFmXwrln7MA1dYlWf9vFpdtM81dTrk86UGM=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "defaultLanguage": "ja",
+    "localized": {
+      "title": "明楽 レイ /아키라 레이 / Ray Akira 【にじさんじ】",
+      "description": "にじさんじ所属元にじさんじKR所属の日本人明楽レイです！\n\nYouTubeは日本語メイン、Twichは韓国語メインで活動しています💙\nよろしくおねがいします！！\n\n니지산지소속 일본인 아키라레이입니다!\nYoutube는 일본어, Twich는 한국어로 방송하고 있습니다!\n잘 부탁드립니다!\n"
+    },
+    "country": "KR"
+  },
+  "statistics": {
+    "viewCount": "1675122",
+    "subscriberCount": "49000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "320"
+  }
+}

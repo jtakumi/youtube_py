@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "fsaoDzH-Uqp5iCkwHKrm9jF3878",
+  "id": "UCRWOdwLRsenx2jLaiCAIU4A",
+  "snippet": {
+    "title": "雨森小夜",
+    "description": "にじさんじ所属\nhttps://www.nijisanji.jp\n\n雨森宛のご意見・ご感想はこちら\nhttps://t.co/R0y0DmD8Ze\n\nTwitter\nhttps://twitter.com/Sayo_Amemori\n\nオフィシャルストア\nhttps://shop.nijisanji.jp/s/niji/\n\n\nお借りしています\nいらすとや様\nニコニ・コモンズ様\nDOVA-SYNDROME様\n効果音ラボ様\nぱくたそ様\npixabay様\nYoutube Audio Library様",
+    "publishedAt": "2018-08-07T06:39:58Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQbZwSWhuHjTkf4KRiJ8wLmSD1fW21QW70-KDOn=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQbZwSWhuHjTkf4KRiJ8wLmSD1fW21QW70-KDOn=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AKedOLQbZwSWhuHjTkf4KRiJ8wLmSD1fW21QW70-KDOn=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "雨森小夜",
+      "description": "にじさんじ所属\nhttps://www.nijisanji.jp\n\n雨森宛のご意見・ご感想はこちら\nhttps://t.co/R0y0DmD8Ze\n\nTwitter\nhttps://twitter.com/Sayo_Amemori\n\nオフィシャルストア\nhttps://shop.nijisanji.jp/s/niji/\n\n\nお借りしています\nいらすとや様\nニコニ・コモンズ様\nDOVA-SYNDROME様\n効果音ラボ様\nぱくたそ様\npixabay様\nYoutube Audio Library様"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "18000575",
+    "subscriberCount": "158000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "73"
+  }
+}
