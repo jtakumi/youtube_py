@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "sPAkn6V-HKtT8js5SAWW3wxT6i0",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCczXor4HpvWvET6CZiBlLBg"
+  },
+  "snippet": {
+    "publishedAt": "2022-07-01T11:00:24Z",
+    "channelId": "UCczXor4HpvWvET6CZiBlLBg",
+    "title": "Dokuro ch. / 夜美月どくろ",
+    "description": "バーチャルメイド喫茶『こねくとぴあ』所属、夜美月どくろのチャンネルです♪ □Creative staff AvatarDesign：ほね ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/5Q4VB_7sGc1TJoLDxzTm3BKZL1dbmfIzA6KQu3vUnbdC-EIiaGoKsJEmL_TX4mLhr1-hoDK83kk=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/5Q4VB_7sGc1TJoLDxzTm3BKZL1dbmfIzA6KQu3vUnbdC-EIiaGoKsJEmL_TX4mLhr1-hoDK83kk=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/5Q4VB_7sGc1TJoLDxzTm3BKZL1dbmfIzA6KQu3vUnbdC-EIiaGoKsJEmL_TX4mLhr1-hoDK83kk=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Dokuro ch. / 夜美月どくろ",
+    "liveBroadcastContent": "none",
+    "publishTime": "2022-07-01T11:00:24Z"
+  }
+}

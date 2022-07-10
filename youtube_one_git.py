@@ -38,10 +38,16 @@ search_respose=youtube.search().list(
 #searchにファイルを作成
 def make_file(fn):
     with open(fn,'w',encoding='utf-8') as f:
+        wf=0
+        #検索結果が複数なら","をエラー対策でつけたい
         for search_result in search_respose.get('items',[]):
-            if search_result['id']['kind'] !='youtube#channel':
-                continue
-            print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
+            if wf==0:
+                if search_result['id']['kind'] !='youtube#channel':
+                    continue
+                print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
+                wf=1
+            else:
+                break
 
 def read_json(fn,search_word):
     #ファイルがなかったときは強制終了

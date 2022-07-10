@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#channel",
+  "etag": "ERmwx7qUYpADC30o73oqa2PTWKg",
+  "id": "UC16niRr50-MSBwiO3YDb3RA",
+  "snippet": {
+    "title": "BBC News",
+    "description": "Welcome to the official BBC News YouTube channel. \n\nInterested in global news with an impartial perspective? Want to see behind-the-scenes clips and footage directly from the front-line? Our YouTube channel has all this and more, bringing you specially selected clips from the world's most trusted news source.\n\nTune into BBC World News for 24 hour news on TV. Check out BBC News on mobile and download our app for iPhone, Android and Kindle Fire. \n\nThe official BBC News YouTube channel is operated by BBC Global News Ltd which comprises BBC World News the 24hr TV channel and bbc.com/news, the international news website.",
+    "customUrl": "bbcnews",
+    "publishedAt": "2006-04-08T05:51:05Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/MRywaef1JLriHf-MUivy7-WAoVAL4sB7VHZXgmprXtmpOlN73I4wBhjjWdkZNFyJNiUP6MHm1w=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/MRywaef1JLriHf-MUivy7-WAoVAL4sB7VHZXgmprXtmpOlN73I4wBhjjWdkZNFyJNiUP6MHm1w=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/MRywaef1JLriHf-MUivy7-WAoVAL4sB7VHZXgmprXtmpOlN73I4wBhjjWdkZNFyJNiUP6MHm1w=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "defaultLanguage": "en-GB",
+    "localized": {
+      "title": "BBC News",
+      "description": "Welcome to the official BBC News YouTube channel. \n\nInterested in global news with an impartial perspective? Want to see behind-the-scenes clips and footage directly from the front-line? Our YouTube channel has all this and more, bringing you specially selected clips from the world's most trusted news source.\n\nTune into BBC World News for 24 hour news on TV. Check out BBC News on mobile and download our app for iPhone, Android and Kindle Fire. \n\nThe official BBC News YouTube channel is operated by BBC Global News Ltd which comprises BBC World News the 24hr TV channel and bbc.com/news, the international news website."
+    },
+    "country": "GB"
+  },
+  "statistics": {
+    "viewCount": "3774683457",
+    "subscriberCount": "12600000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "16202"
+  }
+}
