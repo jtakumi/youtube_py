@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Ud2etwXyvg6jLrlt3a_-7L8OXRA",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCS9uQI-jC3DE0L4IpXyvr6w"
+  },
+  "snippet": {
+    "publishedAt": "2019-12-04T09:54:01Z",
+    "channelId": "UCS9uQI-jC3DE0L4IpXyvr6w",
+    "title": "Coco Ch. 桐生ココ",
+    "description": "2021年07月01日（木）卒業】 ホロライブ所属。 人間の文化に興味を持ち、異世界から日本に語学留学中の子どものドラゴン。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8xM8iFAtHMoKUPqKh-0NT7QL6zU06fEgwkIB0D0A=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8xM8iFAtHMoKUPqKh-0NT7QL6zU06fEgwkIB0D0A=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8xM8iFAtHMoKUPqKh-0NT7QL6zU06fEgwkIB0D0A=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Coco Ch. 桐生ココ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-12-04T09:54:01Z"
+  }
+}
