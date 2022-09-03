@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "eEIhzykh8nx7r8W7tV6PfX7JWmA",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UChSvpZYRPh0FvG4SJGSga3g"
+  },
+  "snippet": {
+    "publishedAt": "2020-04-08T08:11:16Z",
+    "channelId": "UChSvpZYRPh0FvG4SJGSga3g",
+    "title": "Shien Ch.影山シエン",
+    "description": "男性Vtuber事務所「ホロスターズ」 Twitter// https://twitter.com/holostarstv ▽最新情報はこちら▽ 影山シエンTwitter ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/N20GfJbuG8BBl9CexUek023y2DXQAYqgYoRRqsVGAYoS-gZsGuH7W1Il0y-8TnIul19rBPG78Jo=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/N20GfJbuG8BBl9CexUek023y2DXQAYqgYoRRqsVGAYoS-gZsGuH7W1Il0y-8TnIul19rBPG78Jo=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/N20GfJbuG8BBl9CexUek023y2DXQAYqgYoRRqsVGAYoS-gZsGuH7W1Il0y-8TnIul19rBPG78Jo=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Shien Ch.影山シエン",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-04-08T08:11:16Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "qclYgmSxnyrkSqs3kRaDcq6bt9Y",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCdfMHxjcCc2HSd9qFvfJgjg"
+  },
+  "snippet": {
+    "publishedAt": "2022-02-07T06:21:34Z",
+    "channelId": "UCdfMHxjcCc2HSd9qFvfJgjg",
+    "title": "Rio Ch. 水無世燐央 - UPROAR!! -",
+    "description": "ホロスターズグループ「UPROAR!!」所属の、水無世燐央です。 歌うことが好きなのんびり幽霊。 アイドルになるために！成仏は ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/k3AK3r8wYjKakhMMRXsc-CWMwtwPaXzkOz_RdutB9hmb5gB0h9l_PAHDfeT8CNatTcbUreCcyw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/k3AK3r8wYjKakhMMRXsc-CWMwtwPaXzkOz_RdutB9hmb5gB0h9l_PAHDfeT8CNatTcbUreCcyw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/k3AK3r8wYjKakhMMRXsc-CWMwtwPaXzkOz_RdutB9hmb5gB0h9l_PAHDfeT8CNatTcbUreCcyw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Rio Ch. 水無世燐央 - UPROAR!! -",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2022-02-07T06:21:34Z"
+  }
+}

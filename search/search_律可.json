@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "tV1XF5hg17qr2Ybc7yudRKWgRcg",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC9mf_ZVpouoILRY9NUIaK-w"
+  },
+  "snippet": {
+    "publishedAt": "2019-09-18T07:48:40Z",
+    "channelId": "UC9mf_ZVpouoILRY9NUIaK-w",
+    "title": "Rikka ch.律可",
+    "description": "ホロライブプロダクション所属 ホロスターズの律可(りっか)です！ 弾き語り配信を中心に、ゲーム実況や雑談などしています ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Rikka ch.律可",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-09-18T07:48:40Z"
+  }
+}

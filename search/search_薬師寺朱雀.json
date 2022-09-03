@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "5j7EPLvlwvUFLM4_Lm40u0_gHhg",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCGKgJ4MtJ1coi6tWJUfnsQA"
+  },
+  "snippet": {
+    "publishedAt": "2019-08-14T05:39:01Z",
+    "channelId": "UCGKgJ4MtJ1coi6tWJUfnsQA",
+    "title": "Suzaku Ch. 薬師寺朱雀",
+    "description": "薬師寺 朱雀(やくしじ すざく) ※2020年3月6日活動終了 男性Vtuber事務所「ホロスターズ」1期生 ▽最新情報はこちら▽ 薬師寺 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_a75R9Gam4_hdwi8YLHLA3VLrJ1BMX7iT5ebk=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_a75R9Gam4_hdwi8YLHLA3VLrJ1BMX7iT5ebk=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_a75R9Gam4_hdwi8YLHLA3VLrJ1BMX7iT5ebk=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Suzaku Ch. 薬師寺朱雀",
+    "liveBroadcastContent": "none",
+    "publishTime": "2019-08-14T05:39:01Z"
+  }
+}

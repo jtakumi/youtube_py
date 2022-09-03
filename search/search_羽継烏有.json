@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "-acNub5S0i1N8lMBDm6qdq4rl7E",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCgRqGV1gBf2Esxh0Tz1vxzw"
+  },
+  "snippet": {
+    "publishedAt": "2022-02-07T06:06:23Z",
+    "channelId": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+    "title": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+    "description": "ホロスターズグループ「UPROAR!!」所属の、羽継烏有(Utsugi Uyu)です。 普段は喫茶店の店長、時々怪盗なんかもしてます。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/neUPMbtKMBEQKyfOOUT84tGmBg6w7R25l-5aQfLXR28p-zjZ4fEpwtJB80_m7K-DI9RD-FZC=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/neUPMbtKMBEQKyfOOUT84tGmBg6w7R25l-5aQfLXR28p-zjZ4fEpwtJB80_m7K-DI9RD-FZC=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/neUPMbtKMBEQKyfOOUT84tGmBg6w7R25l-5aQfLXR28p-zjZ4fEpwtJB80_m7K-DI9RD-FZC=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2022-02-07T06:06:23Z"
+  }
+}
