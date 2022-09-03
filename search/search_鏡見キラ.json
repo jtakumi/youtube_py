@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "OD7SVNQgXjefVd-QoVcOKZG9KSY",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCEzsociuFqVwgZuMaZqaCsg"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-03T01:10:26Z",
+    "channelId": "UCEzsociuFqVwgZuMaZqaCsg",
+    "title": "Kira Ch. 鏡見キラ",
+    "description": "2020年11月30日（月）卒業】 ホロスターズ所属の鏡見キラだよっ✨ 最強のアイドル目指して頑張るから皆見ててね   僕の ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Kira Ch. 鏡見キラ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-06-03T01:10:26Z"
+  }
+}

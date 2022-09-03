@@ -76,13 +76,16 @@ def file_make(fny,idc):
             print(json.dumps(search_result,indent=2,ensure_ascii=False),file=f)
 
 def fcopy(fny,fnj):
-    njsnj='nijisanji/' +  fnj
+    hs = "holostars/" + fnj
+    shutil.copyfile(fny,hs)
+    return hs
+    """njsnj='nijisanji/' +  fnj
     shutil.copyfile(fny,njsnj)
-    return njsnj
+    return njsnj"""
 
-def git(fn,fny,njf):
+def git(fn,fny,cp):
     #自動commit
-    gad='git add ' + fn + ' ' + fny +' ' +  njf
+    gad='git add ' + fn + ' ' + fny + ' ' + cp
     os.system(gad)
     
 
@@ -91,8 +94,9 @@ def main():
     make_file(fn)
     idc=read_json(fn,search_word)
     file_make(fny,idc)
-    njf=fcopy(fny,fnj)
-    git(fn,fny,njf)
+    cp=fcopy(fny,fnj)
+    git(fn,fny,cp)
+
 
 
 if __name__ == '__main__':

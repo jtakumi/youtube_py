@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "L084JGEWD2P85qEqGk1f3kpiljE",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCc88OV45ICgHbn3ZqLLb52w"
+  },
+  "snippet": {
+    "publishedAt": "2022-02-02T07:36:22Z",
+    "channelId": "UCc88OV45ICgHbn3ZqLLb52w",
+    "title": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+    "description": "ホロスターズグループ所属 / UPROAR!! 夜十神 封魔(Yatogami Fuma)です。妖の万屋やってます。 「通知ON」推奨！！ ▽配信の ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/HGqJ7mPwkE1frsJ1Gf0jFWAigC1mLGYEpj2N1L8CdD6QFTxCC7aNyuf1frR8AwSa_MJh58TioQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/HGqJ7mPwkE1frsJ1Gf0jFWAigC1mLGYEpj2N1L8CdD6QFTxCC7aNyuf1frR8AwSa_MJh58TioQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/HGqJ7mPwkE1frsJ1Gf0jFWAigC1mLGYEpj2N1L8CdD6QFTxCC7aNyuf1frR8AwSa_MJh58TioQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2022-02-02T07:36:22Z"
+  }
+}

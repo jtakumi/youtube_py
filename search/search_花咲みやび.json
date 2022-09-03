@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "fDvElcjfmclcSyIk4YublXCDQ2A",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC6t3-_N8A6ME1JShZHHqOMw"
+  },
+  "snippet": {
+    "publishedAt": "2019-06-03T01:03:38Z",
+    "channelId": "UC6t3-_N8A6ME1JShZHHqOMw",
+    "title": "Miyabi Ch. 花咲みやび",
+    "description": "ホロスターズ所属VTuber、花咲みやびです。光の戦士 Ridill RDM (Sub:SMN) 【大好きなお母様：@honippo】 男性Vtuber事務 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/O6KhIGX91d99vduasQsqIQNvt1tC9DjDlTlLQr_k0aq0EtvgF4hM1YNAOmEOz9Vtqs1yyAkfkw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/O6KhIGX91d99vduasQsqIQNvt1tC9DjDlTlLQr_k0aq0EtvgF4hM1YNAOmEOz9Vtqs1yyAkfkw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/O6KhIGX91d99vduasQsqIQNvt1tC9DjDlTlLQr_k0aq0EtvgF4hM1YNAOmEOz9Vtqs1yyAkfkw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Miyabi Ch. 花咲みやび",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-06-03T01:03:38Z"
+  }
+}

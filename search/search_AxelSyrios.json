@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "1RVngkC2vNdjTcxvrF5JAwA1bHM",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC2hx0xVkMoHGWijwr_lA01w"
+  },
+  "snippet": {
+    "publishedAt": "2022-06-13T06:13:27Z",
+    "channelId": "UC2hx0xVkMoHGWijwr_lA01w",
+    "title": "Axel Syrios Ch. HOLOSTARS-EN",
+    "description": "Axel Syrios of HOLOSTARS English -TEMPUS-. The one and only gladiator, Axel Syrios on duty baby! この最強のアクセル様に ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/BcfKD35tQ053FmocAwANErU1pqdCeU0Eri4i0OOWe3whPDOUUhz-7mQs0oE9jNROdC2kODIn3w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/BcfKD35tQ053FmocAwANErU1pqdCeU0Eri4i0OOWe3whPDOUUhz-7mQs0oE9jNROdC2kODIn3w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/BcfKD35tQ053FmocAwANErU1pqdCeU0Eri4i0OOWe3whPDOUUhz-7mQs0oE9jNROdC2kODIn3w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "Axel Syrios Ch. HOLOSTARS-EN",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2022-06-13T06:13:27Z"
+  }
+}
