@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Bw0ADx0VPuoqvvHaPqhUdAvjCmw",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-03-04T23:26:40Z",
+    "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+    "title": "神成きゅぴ / Kaminari Qpi",
+    "description": "ˋˏ ぶいすぽっ！所属 ˎˊ˗ 神成きゅぴ  (Kaminari Qpi） ↳ 褐色ギャルVtuber 5/18生まれ みんなに少しでも元気をお届けでき ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/83sEziNDVt1HoBeo4JXIBXjA3DMGCxxyCLmCig9nml-h7f5bPMvczmtgh8TQUqzaOEoc-0lFgg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/83sEziNDVt1HoBeo4JXIBXjA3DMGCxxyCLmCig9nml-h7f5bPMvczmtgh8TQUqzaOEoc-0lFgg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/83sEziNDVt1HoBeo4JXIBXjA3DMGCxxyCLmCig9nml-h7f5bPMvczmtgh8TQUqzaOEoc-0lFgg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "神成きゅぴ / Kaminari Qpi",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-03-04T23:26:40Z"
+  }
+}

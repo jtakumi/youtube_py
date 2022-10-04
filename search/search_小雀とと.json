@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "2d_mjWKiyaWCHN6Jn2V4WjpPjZc",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-13T09:09:32Z",
+    "channelId": "UCgTzsBI0DIRopMylJEDqnog",
+    "title": "小雀とと / Toto Kogara",
+    "description": "はじめまして！VTuberの小雀ととです！ Lupinus Virtual Gamesに所属しています。 ゲームをメインに、歌ったりしながら活動し ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8d2VlTlgwSnPyUgUcjtUGE6SnmP0RzsR-DoYPU=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8d2VlTlgwSnPyUgUcjtUGE6SnmP0RzsR-DoYPU=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8d2VlTlgwSnPyUgUcjtUGE6SnmP0RzsR-DoYPU=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "小雀とと / Toto Kogara",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-03-13T09:09:32Z"
+  }
+}

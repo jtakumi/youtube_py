@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "pm47_xHAKjFfRsYJsjI9fZ1erTE",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng"
+  },
+  "snippet": {
+    "publishedAt": "2021-09-08T19:05:02Z",
+    "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+    "title": "藍沢エマ / Aizawa Ema",
+    "description": "はじめまして   ぶいすぽっ！所属の藍沢エマ(Aizawa Ema)です！ はじめての事だらけで、あたふたしてしまうかもしれません ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/85CbHoO-hMkjkTcktBJAlKuLg4cFWwQQDDnH7QzRNjrT8ZqPVIoiokcnP0b2VzIyl_0LszkyJw=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/85CbHoO-hMkjkTcktBJAlKuLg4cFWwQQDDnH7QzRNjrT8ZqPVIoiokcnP0b2VzIyl_0LszkyJw=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/85CbHoO-hMkjkTcktBJAlKuLg4cFWwQQDDnH7QzRNjrT8ZqPVIoiokcnP0b2VzIyl_0LszkyJw=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "藍沢エマ / Aizawa Ema",
+    "liveBroadcastContent": "none",
+    "publishTime": "2021-09-08T19:05:02Z"
+  }
+}

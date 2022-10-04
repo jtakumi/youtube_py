@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_xDAXwmZ-XZwFvVEBdlFW_CDrZI",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCxvxIxnS9cjPyeebbiOd4lg"
+  },
+  "snippet": {
+    "publishedAt": "2011-12-28T02:56:48Z",
+    "channelId": "UCxvxIxnS9cjPyeebbiOd4lg",
+    "title": "トヨタ YouTubeショールーム",
+    "description": "トヨタ自動車株式会社が運営するトヨタ公式チャンネルです。 車種の最新映像やTVCMなど、様々な動画をお届けします。",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/lTgb1BATG5sQkbk1V0mYj3kkfPVH_Mg527JHwGZMXfEIqBxgZC-G6hnXJMtSYqk5UCwTFg1A=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/lTgb1BATG5sQkbk1V0mYj3kkfPVH_Mg527JHwGZMXfEIqBxgZC-G6hnXJMtSYqk5UCwTFg1A=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/lTgb1BATG5sQkbk1V0mYj3kkfPVH_Mg527JHwGZMXfEIqBxgZC-G6hnXJMtSYqk5UCwTFg1A=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "トヨタ YouTubeショールーム",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2011-12-28T02:56:48Z"
+  }
+}

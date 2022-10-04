@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "_8OHSVzCoNAwX3I1aMHzwIp-Cg0",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCcDDxnoQcezyTUzHg5uHaKg"
+  },
+  "snippet": {
+    "publishedAt": "2022-07-02T02:06:31Z",
+    "channelId": "UCcDDxnoQcezyTUzHg5uHaKg",
+    "title": "四季凪アキラ / Shikinagi Akira",
+    "description": "「にじさんじ」所属兼、「VOLTACTION」のメンバーでもある、四季凪アキラ(Shikinagi Akira)と申します。 元スパイ、現在は ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "四季凪アキラ / Shikinagi Akira",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2022-07-02T02:06:31Z"
+  }
+}

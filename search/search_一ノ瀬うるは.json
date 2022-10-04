@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "bLVv3VXXxszKmL0aWU9iiZAeh8w",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g"
+  },
+  "snippet": {
+    "publishedAt": "2019-03-20T05:35:50Z",
+    "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
+    "title": "一ノ瀬うるは",
+    "description": "はじめまして、一ノ瀬うるはです。2019.4/19VTuberになりました。よろしくお願いします。 (@Vspo77)所属。 ✦ゲームが好き ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8I71gwpCeWe4M0AfQXA67TVog1Ds4ahklXbGnf=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8I71gwpCeWe4M0AfQXA67TVog1Ds4ahklXbGnf=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8I71gwpCeWe4M0AfQXA67TVog1Ds4ahklXbGnf=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "一ノ瀬うるは",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2019-03-20T05:35:50Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "0I-57TB8cKrg4fcpiG2yyH5DjgY",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-04T14:42:35Z",
+    "channelId": "UCvUc0m317LWTTPZoBQV479A",
+    "title": "橘ひなの / Hinano Tachibana",
+    "description": "はじめまして！ ぶいすぽっ！ Iris Black Games 所属のバーチャルライバーの橘ひなのです！ APEXなどの配信をしていきます！",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/pl2lGIkqUJlkc6Xn3ut4-NvhLAYYnxaMTBl7ap8bFK1mEQB2sHZYCykQ_eIg6ccwvnlb6npP9w=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/pl2lGIkqUJlkc6Xn3ut4-NvhLAYYnxaMTBl7ap8bFK1mEQB2sHZYCykQ_eIg6ccwvnlb6npP9w=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/pl2lGIkqUJlkc6Xn3ut4-NvhLAYYnxaMTBl7ap8bFK1mEQB2sHZYCykQ_eIg6ccwvnlb6npP9w=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "橘ひなの / Hinano Tachibana",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-08-04T14:42:35Z"
+  }
+}
