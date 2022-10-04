@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "YNFhTZbSJpENWCvRhX7x68DINfY",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg"
+  },
+  "snippet": {
+    "publishedAt": "2020-08-07T12:16:28Z",
+    "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
+    "title": "如月れん -Ren kisaragi-",
+    "description": "ぶいすぽっ！Iris Black games所属 如月れん 配信タグ:#放れん送 ファンアートタグ（活動に使用させていただく場合がござい ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/U2M8O-qwS0vrjAr7nYk9y58xAV-I80eRn1jn1MX6pmsGcMdtUhMmgRekSAun2ca2Db7ntFuwwQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/U2M8O-qwS0vrjAr7nYk9y58xAV-I80eRn1jn1MX6pmsGcMdtUhMmgRekSAun2ca2Db7ntFuwwQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/U2M8O-qwS0vrjAr7nYk9y58xAV-I80eRn1jn1MX6pmsGcMdtUhMmgRekSAun2ca2Db7ntFuwwQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "如月れん -Ren kisaragi-",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-08-07T12:16:28Z"
+  }
+}

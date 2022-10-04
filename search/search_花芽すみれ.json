@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "O0grns8VvA7Hr9SMSKbpiiXnJzQ",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA"
+  },
+  "snippet": {
+    "publishedAt": "2018-09-21T06:29:47Z",
+    "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
+    "title": "花芽すみれ",
+    "description": "おいす～！花芽すみれです。 ゲームが好きです.",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/WKDurPqE4i5jD_qvsIP0e9qeAQD24f9vAl_3vFT9dmgjxfo5IRFghSg9_IzFKC06WcFoMdE8mQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/WKDurPqE4i5jD_qvsIP0e9qeAQD24f9vAl_3vFT9dmgjxfo5IRFghSg9_IzFKC06WcFoMdE8mQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/WKDurPqE4i5jD_qvsIP0e9qeAQD24f9vAl_3vFT9dmgjxfo5IRFghSg9_IzFKC06WcFoMdE8mQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "花芽すみれ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2018-09-21T06:29:47Z"
+  }
+}

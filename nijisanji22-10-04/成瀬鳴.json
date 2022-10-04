@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "g5qio8OofBHgBnHS6OoohwG1BCw",
+  "id": "UCoM_XmK45j504hfUWvN06Qg",
+  "snippet": {
+    "title": "成瀬 鳴 / Naruse Naru【にじさんじ】",
+    "description": "にじさんじ所属のバーチャルライバー成瀬鳴（Naruse Naru)です！\nチャンネル登録、高評価いつもありがとうございます！！\nコメント＆チャットで一緒に盛り上げてくれ～～🔥🔥🔥\n",
+    "publishedAt": "2018-05-27T03:25:27Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/tvYMThASe8lsOIO-iNeqd-GmUQyyRzriO3ZHymSBLlevj0hGCnSmF2pFJBrivAM0bnSGzRct8w=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/tvYMThASe8lsOIO-iNeqd-GmUQyyRzriO3ZHymSBLlevj0hGCnSmF2pFJBrivAM0bnSGzRct8w=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/tvYMThASe8lsOIO-iNeqd-GmUQyyRzriO3ZHymSBLlevj0hGCnSmF2pFJBrivAM0bnSGzRct8w=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "成瀬 鳴 / Naruse Naru【にじさんじ】",
+      "description": "にじさんじ所属のバーチャルライバー成瀬鳴（Naruse Naru)です！\nチャンネル登録、高評価いつもありがとうございます！！\nコメント＆チャットで一緒に盛り上げてくれ～～🔥🔥🔥\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "10225687",
+    "subscriberCount": "125000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "610"
+  }
+}

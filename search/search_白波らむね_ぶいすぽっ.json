@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "fvEhBq7-EaWAh4nOY2pKRnCLt3g",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC61OwuYOVuKkpKnid-43Twg"
+  },
+  "snippet": {
+    "publishedAt": "2022-08-14T12:58:46Z",
+    "channelId": "UC61OwuYOVuKkpKnid-43Twg",
+    "title": "白波らむね / Shiranami Ramune",
+    "description": "ぶいすぽっ！所属Vtuberの 白波らむね(Shiranami Ramune)です！！！ 誕生日：３月２１日 身長：１５３ｃｍ 好きな物：海、 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/VykxxNIMhokn4vMohzwVp_xgM7TbviYrXFhGm8vzcJAlyz3zohSPSbnrfKehdDhprRk7R9XfRFI=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/VykxxNIMhokn4vMohzwVp_xgM7TbviYrXFhGm8vzcJAlyz3zohSPSbnrfKehdDhprRk7R9XfRFI=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/VykxxNIMhokn4vMohzwVp_xgM7TbviYrXFhGm8vzcJAlyz3zohSPSbnrfKehdDhprRk7R9XfRFI=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "白波らむね / Shiranami Ramune",
+    "liveBroadcastContent": "none",
+    "publishTime": "2022-08-14T12:58:46Z"
+  }
+}

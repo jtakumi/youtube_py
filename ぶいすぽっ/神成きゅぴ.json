@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "gH3LQNEwqbdf016JscxVGhB5ZsI",
+  "id": "UCMp55EbT_ZlqiMS3lCj01BQ",
+  "snippet": {
+    "title": "神成きゅぴ / Kaminari Qpi",
+    "description": "˗ˋˏ ぶいすぽっ！所属 ˎˊ˗\n　神成きゅぴ🌩(Kaminari Qpi）\n　 ↳ 褐色ギャルVtuber 5/18生まれ \n\nみんなに少しでも元気をお届けできたら神成はそれで幸せ～！\n仲良くしてね🤞\n",
+    "customUrl": "@kaminariqpi",
+    "publishedAt": "2020-03-04T23:26:40.210267Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/83sEziNDVt1HoBeo4JXIBXjA3DMGCxxyCLmCig9nml-h7f5bPMvczmtgh8TQUqzaOEoc-0lFgg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/83sEziNDVt1HoBeo4JXIBXjA3DMGCxxyCLmCig9nml-h7f5bPMvczmtgh8TQUqzaOEoc-0lFgg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/83sEziNDVt1HoBeo4JXIBXjA3DMGCxxyCLmCig9nml-h7f5bPMvczmtgh8TQUqzaOEoc-0lFgg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "神成きゅぴ / Kaminari Qpi",
+      "description": "˗ˋˏ ぶいすぽっ！所属 ˎˊ˗\n　神成きゅぴ🌩(Kaminari Qpi）\n　 ↳ 褐色ギャルVtuber 5/18生まれ \n\nみんなに少しでも元気をお届けできたら神成はそれで幸せ～！\n仲良くしてね🤞\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "16667457",
+    "subscriberCount": "226000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "484"
+  }
+}

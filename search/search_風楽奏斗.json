@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "lX_-r50DD8vY4VnqDDwEt8rWrp0",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCC7rRD6P7RQcx0hKv9RQP4w"
+  },
+  "snippet": {
+    "publishedAt": "2022-07-01T04:05:05Z",
+    "channelId": "UCC7rRD6P7RQcx0hKv9RQP4w",
+    "title": "風楽奏斗 / Fura Kanato ",
+    "description": "にじさんじ所属バーチャルライバーの風楽奏斗（Fura Kanato）です！ マフィア家系生まれで、今は実業家として活動し ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/-xyHRHW2DgK07Q74mMI7FRkikzY7IKwlQmF9Hqmr_wiukT4m4cUBs-psdXzI5gRWv4Q2FkEse8Y=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/-xyHRHW2DgK07Q74mMI7FRkikzY7IKwlQmF9Hqmr_wiukT4m4cUBs-psdXzI5gRWv4Q2FkEse8Y=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/-xyHRHW2DgK07Q74mMI7FRkikzY7IKwlQmF9Hqmr_wiukT4m4cUBs-psdXzI5gRWv4Q2FkEse8Y=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "風楽奏斗 / Fura Kanato ",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2022-07-01T04:05:05Z"
+  }
+}

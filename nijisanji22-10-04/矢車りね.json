@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "V3M_i4g_h4SPl2sLCImqzPgHmzs",
+  "id": "UCvzVB-EYuHFXHZrObB8a_Og",
+  "snippet": {
+    "title": "矢車りね - Rine Yaguruma -",
+    "description": "にじさんじ所属バーチャルライバー矢車りねです\n\n\n❁⃘.ﾟファンレターﾟ❁\n\n詳細➡https://www.nijisanji.jp/contact\n\nよければ送ってください :sparkles:(本人の励みになります)",
+    "publishedAt": "2018-09-20T15:45:40Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9KxxyaQTutdhivZDkN80nJORTHcRdzkpzhPYQN=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9KxxyaQTutdhivZDkN80nJORTHcRdzkpzhPYQN=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9KxxyaQTutdhivZDkN80nJORTHcRdzkpzhPYQN=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "矢車りね - Rine Yaguruma -",
+      "description": "にじさんじ所属バーチャルライバー矢車りねです\n\n\n❁⃘.ﾟファンレターﾟ❁\n\n詳細➡https://www.nijisanji.jp/contact\n\nよければ送ってください :sparkles:(本人の励みになります)"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "2540869",
+    "subscriberCount": "84500",
+    "hiddenSubscriberCount": false,
+    "videoCount": "130"
+  }
+}

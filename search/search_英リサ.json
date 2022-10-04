@@ -1,0 +1,28 @@
+{
+  "kind": "youtube#searchResult",
+  "etag": "Kh2ZlLeL3bXYaE-vmJIG2iuezqk",
+  "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ"
+  },
+  "snippet": {
+    "publishedAt": "2020-07-20T12:29:24Z",
+    "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
+    "title": "英リサ.Hanabusa Lisa",
+    "description": "バーチャルお嬢様の英(はなぶさ)リサです！   6月3日生まれ 身長160㎝ 趣味：お絵かき、ゲーム、おいしい食事 貯蓄：5000000 ...",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu82NHSzMCFgyNnixpotkSrtUlUvGQ-LGWXDz26b=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu82NHSzMCFgyNnixpotkSrtUlUvGQ-LGWXDz26b=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu82NHSzMCFgyNnixpotkSrtUlUvGQ-LGWXDz26b=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "channelTitle": "英リサ.Hanabusa Lisa",
+    "liveBroadcastContent": "upcoming",
+    "publishTime": "2020-07-20T12:29:24Z"
+  }
+}
