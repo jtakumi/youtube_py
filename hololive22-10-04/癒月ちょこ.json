@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "lCVk23j8wOpBeNL9O2pImztqAxU",
+  "id": "UC1suqwovbL1kzsoaZgFZLKg",
+  "snippet": {
+    "title": "Choco Ch. 癒月ちょこ",
+    "description": "新人Vtuberの魔界学校のバーチャル保健医癒月ちょこ（ゆづきちょこ）と申します！ チョコのような甘くとろけるような癒しのひとときをあなたに \nファンアート【 #しょこらーと】※描いて頂いた絵は活動に使用させて頂くことがあります。 \n母上様：@shima_je",
+    "publishedAt": "2018-08-20T05:41:58Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_WKXuY_2hTGpb2yUVyckqlGxSVLF30QMOWo5BeSA=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_WKXuY_2hTGpb2yUVyckqlGxSVLF30QMOWo5BeSA=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_WKXuY_2hTGpb2yUVyckqlGxSVLF30QMOWo5BeSA=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Choco Ch. 癒月ちょこ",
+      "description": "新人Vtuberの魔界学校のバーチャル保健医癒月ちょこ（ゆづきちょこ）と申します！ チョコのような甘くとろけるような癒しのひとときをあなたに \nファンアート【 #しょこらーと】※描いて頂いた絵は活動に使用させて頂くことがあります。 \n母上様：@shima_je"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "47787586",
+    "subscriberCount": "914000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "515"
+  }
+}
