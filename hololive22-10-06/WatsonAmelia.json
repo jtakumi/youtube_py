@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "rGH5EhbpIevoJAPq6RClTJHTzVM",
+  "id": "UCyl1z3jo3XHR1riLFKG5UAg",
+  "snippet": {
+    "title": "Watson Amelia Ch. hololive-EN",
+    "description": "VTuber Detective investigating strange occurrences and mythical creature within Hololive. And playing games!\n\nFor Inquiries\nCover Corp: http://cover-corp.com/\nOfficial Twitter: https://twitter.com/hololive_En",
+    "publishedAt": "2020-07-16T06:24:42.28337Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/RZ4Fp3L6_zyq6YA7s5WnH8-22iezMLwdJhtkBgs_EAb06mvMCnF59JKMNu9YPCqb7nhaeXMdPvY=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/RZ4Fp3L6_zyq6YA7s5WnH8-22iezMLwdJhtkBgs_EAb06mvMCnF59JKMNu9YPCqb7nhaeXMdPvY=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/RZ4Fp3L6_zyq6YA7s5WnH8-22iezMLwdJhtkBgs_EAb06mvMCnF59JKMNu9YPCqb7nhaeXMdPvY=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Watson Amelia Ch. hololive-EN",
+      "description": "VTuber Detective investigating strange occurrences and mythical creature within Hololive. And playing games!\n\nFor Inquiries\nCover Corp: http://cover-corp.com/\nOfficial Twitter: https://twitter.com/hololive_En"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "142693342",
+    "subscriberCount": "1720000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "657"
+  }
+}
