@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "03_PLwtyo_7W6mbr0ZBQ62lQXgs",
+  "id": "UC6TfqY40Xt1Y0J-N18c85qQ",
+  "snippet": {
+    "title": "安土桃",
+    "description": "にじさんじ所属、安土桃です。\n顔面と声が可愛いです。\n\n\nplay now🌟\n◾︎バイオHD 2週目！\n◾︎ポケモンシールド英語縛り\nTerraria/Minecraft/マリオカート8DX ほねクッパそらまめ/スプラトゥーン2/StreetFighter5 かりん/FIFA22/あつ森/モンハンライズ/テトリス99",
+    "publishedAt": "2018-05-25T00:18:47Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/50JCdIpi9B-ZxDaveVfSyKuvRyj8d2DgLe0sMkd_UxuxN-VcGQ54W4M-6T0wXzJV2TdfAeZglSc=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/50JCdIpi9B-ZxDaveVfSyKuvRyj8d2DgLe0sMkd_UxuxN-VcGQ54W4M-6T0wXzJV2TdfAeZglSc=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/50JCdIpi9B-ZxDaveVfSyKuvRyj8d2DgLe0sMkd_UxuxN-VcGQ54W4M-6T0wXzJV2TdfAeZglSc=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "安土桃",
+      "description": "にじさんじ所属、安土桃です。\n顔面と声が可愛いです。\n\n\nplay now🌟\n◾︎バイオHD 2週目！\n◾︎ポケモンシールド英語縛り\nTerraria/Minecraft/マリオカート8DX ほねクッパそらまめ/スプラトゥーン2/StreetFighter5 かりん/FIFA22/あつ森/モンハンライズ/テトリス99"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "3084668",
+    "subscriberCount": "131000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "127"
+  }
+}
