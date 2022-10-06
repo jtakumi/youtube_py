@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "P7AMiPFh7p4dW2pVIMDBhDFawxw",
+  "id": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
+  "snippet": {
+    "title": "三枝明那 / Saegusa Akina",
+    "description": "にじさんじ所属、バーチャルライバーの三枝明那と申します。\n\nTwitter //\nhttps://twitter.com/333akina\nメンバーシップ登録 //\nhttps://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ/join\n\nお問い合わせ・ファンレター //\nhttps://www.nijisanji.jp/contact\nにじさんじオフィシャルストア //\nhttps://shop.nijisanji.jp/\nにじさんじ公式Twitter //\nhttps://twitter.com/nijisanji_app\nにじさんじ公式HP //\nhttps://www.nijisanji.jp\n",
+    "publishedAt": "2019-03-19T11:25:33Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9APGRBjo772gO81HL4PA6Qzvyt5K1Sibgr6IMVXw=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9APGRBjo772gO81HL4PA6Qzvyt5K1Sibgr6IMVXw=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9APGRBjo772gO81HL4PA6Qzvyt5K1Sibgr6IMVXw=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "三枝明那 / Saegusa Akina",
+      "description": "にじさんじ所属、バーチャルライバーの三枝明那と申します。\n\nTwitter //\nhttps://twitter.com/333akina\nメンバーシップ登録 //\nhttps://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ/join\n\nお問い合わせ・ファンレター //\nhttps://www.nijisanji.jp/contact\nにじさんじオフィシャルストア //\nhttps://shop.nijisanji.jp/\nにじさんじ公式Twitter //\nhttps://twitter.com/nijisanji_app\nにじさんじ公式HP //\nhttps://www.nijisanji.jp\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "116908369",
+    "subscriberCount": "554000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "674"
+  }
+}

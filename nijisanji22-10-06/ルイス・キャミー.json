@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "iKQJag3zdONNwfHiaRwKGOKps10",
+  "id": "UCb6ObE-XGCctO3WrjRZC-cw",
+  "snippet": {
+    "title": "ルイス・キャミー",
+    "description": "にじさんじ所属のルイス・キャミーです。\n是非最後まで見ていってくださいね！\n\n\n◯リンク\n【Twitter】https://twitter.com/Luis_Cammy\n\n【お問い合わせやファンレターはこちら】\nhttps://www.nijisanji.jp/contact\n\n【公式オンラインショップ】\nhttps://shop.nijisanji.jp/s/niji\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp",
+    "publishedAt": "2019-08-21T06:17:14Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/gghM-wAirsl3aNr2OXwLGCuTJ_8s8PQiYYgOmZCkx--QKR0mmFWTWETca2cA0tBSOMutkVkoXg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/gghM-wAirsl3aNr2OXwLGCuTJ_8s8PQiYYgOmZCkx--QKR0mmFWTWETca2cA0tBSOMutkVkoXg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/gghM-wAirsl3aNr2OXwLGCuTJ_8s8PQiYYgOmZCkx--QKR0mmFWTWETca2cA0tBSOMutkVkoXg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ルイス・キャミー",
+      "description": "にじさんじ所属のルイス・キャミーです。\n是非最後まで見ていってくださいね！\n\n\n◯リンク\n【Twitter】https://twitter.com/Luis_Cammy\n\n【お問い合わせやファンレターはこちら】\nhttps://www.nijisanji.jp/contact\n\n【公式オンラインショップ】\nhttps://shop.nijisanji.jp/s/niji\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "23043079",
+    "subscriberCount": "207000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "667"
+  }
+}

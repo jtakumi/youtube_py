@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "8B0iy3AgfJHp-hX4t4C1Bdl0KSk",
+  "id": "UCSc_KzY_9WYAx9LghggjVRA",
+  "snippet": {
+    "title": "Yugo Asuma 【NIJISANJI EN】",
+    "description": "Yo. I’m Yugo Asuma the DJ from Nijisanji EN’s Noctyx.\nLet’s have fun.\n\n◇Streamlab Donation◇\nhttps://streamlabs.com/yugoasumanijisanjien/tip\n\n◇Twitter◇\nhttps://twitter.com/yugo_asuma\n\n◇Hashtags◇\nGeneral: #YugoAsuma\nLive: #YugoONAIR\nArt: #AsumArt\nMeme: #Yugottem\nNSFW: #Asensored\nFan Name: #YUGUYS\n\n◇CREDITS◇\n◇Mama: https://twitter.com/takerunamito\n◇Profile: https://twitter.com/alase_00\n◇Header: https://twitter.com/me_yue_la\n",
+    "publishedAt": "2022-02-07T23:30:55.635061Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/dUDmqz15wCiw7pHG7Qkdzw2iZ0i_7ByJBugyCb4VTa8ebmfsUo3YJuwe6DHmFdCrHh6BPLYc=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/dUDmqz15wCiw7pHG7Qkdzw2iZ0i_7ByJBugyCb4VTa8ebmfsUo3YJuwe6DHmFdCrHh6BPLYc=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/dUDmqz15wCiw7pHG7Qkdzw2iZ0i_7ByJBugyCb4VTa8ebmfsUo3YJuwe6DHmFdCrHh6BPLYc=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Yugo Asuma 【NIJISANJI EN】",
+      "description": "Yo. I’m Yugo Asuma the DJ from Nijisanji EN’s Noctyx.\nLet’s have fun.\n\n◇Streamlab Donation◇\nhttps://streamlabs.com/yugoasumanijisanjien/tip\n\n◇Twitter◇\nhttps://twitter.com/yugo_asuma\n\n◇Hashtags◇\nGeneral: #YugoAsuma\nLive: #YugoONAIR\nArt: #AsumArt\nMeme: #Yugottem\nNSFW: #Asensored\nFan Name: #YUGUYS\n\n◇CREDITS◇\n◇Mama: https://twitter.com/takerunamito\n◇Profile: https://twitter.com/alase_00\n◇Header: https://twitter.com/me_yue_la\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "14024439",
+    "subscriberCount": "400000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "167"
+  }
+}
