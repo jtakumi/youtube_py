@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#channel",
+  "etag": "WmXS7p1ijm5dginfXyEEgZpKSuA",
+  "id": "UCClwIqTUn5LDpFucHyaAhHg",
+  "snippet": {
+    "title": "イ・ロハ / LeeRoha【にじさんじ】",
+    "description": "にじさんじ所属ライバーイ・ロハと申します！\n色んな面白いコンテンツを企画し挑戦しようと思っています。\nよろしくお願いいたします❣\n\nYOUTUBEでは日本語を使うコンテンツをしています！\nTWITCH では韓国語を使うコンテンツをしています！\n",
+    "customUrl": "@leeroha",
+    "publishedAt": "2020-07-30T09:34:51.453557Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/CzsQ3YYPSJbnkFSeRRYKI5sMpoRfpHxn0HGnyqBARI3mS1IuvHeT6uiXSSacQCMr8qNBVbJmw-E=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/CzsQ3YYPSJbnkFSeRRYKI5sMpoRfpHxn0HGnyqBARI3mS1IuvHeT6uiXSSacQCMr8qNBVbJmw-E=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/CzsQ3YYPSJbnkFSeRRYKI5sMpoRfpHxn0HGnyqBARI3mS1IuvHeT6uiXSSacQCMr8qNBVbJmw-E=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "defaultLanguage": "ja",
+    "localized": {
+      "title": "イ・ロハ / LeeRoha【にじさんじ】",
+      "description": "にじさんじ所属ライバーイ・ロハと申します！\n色んな面白いコンテンツを企画し挑戦しようと思っています。\nよろしくお願いいたします❣\n\nYOUTUBEでは日本語を使うコンテンツをしています！\nTWITCH では韓国語を使うコンテンツをしています！\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "4067404",
+    "subscriberCount": "91200",
+    "hiddenSubscriberCount": false,
+    "videoCount": "287"
+  }
+}

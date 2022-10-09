@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "RTGFL0fRSztx8fyqvz-vxQYk0e0",
+  "id": "UCo2N7C-Z91waaR6lF3LL_jw",
+  "snippet": {
+    "title": "甲斐田 晴 / Kaida Haru【にじさんじ】",
+    "description": "にじさんじ所属バーチャルライバー\n甲斐田 晴(かいだ はる)です🌞\n皇都で研究者をしております！\n\n主な配信内容は【ゲーム】【歌・弾き語り】【ASMR】\n毎日配信が目標です！\n\n💠Twitter💠\n@Kaida_Haru\n\n\n-----------------------------------------------------------------------------\n\n\n🌈にじさんじ公式Twitter\n　  @nijisanji_app\n\n🕒にじさんじBOOTH\n　  https://nijisanji.booth.pm/\n\n🏢お問い合わせやファンレター\n　  https://www.nijisanji.jp/contact",
+    "customUrl": "@kaidaharu",
+    "publishedAt": "2020-02-25T08:08:25.087684Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/PDk6FBRHOX2VIntWthp1XRRbKjjhQUVt6A1MDa8lsm-B4V6igcnsXHtGGFb-sQV7LnkqJNxnHQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/PDk6FBRHOX2VIntWthp1XRRbKjjhQUVt6A1MDa8lsm-B4V6igcnsXHtGGFb-sQV7LnkqJNxnHQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/PDk6FBRHOX2VIntWthp1XRRbKjjhQUVt6A1MDa8lsm-B4V6igcnsXHtGGFb-sQV7LnkqJNxnHQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "甲斐田 晴 / Kaida Haru【にじさんじ】",
+      "description": "にじさんじ所属バーチャルライバー\n甲斐田 晴(かいだ はる)です🌞\n皇都で研究者をしております！\n\n主な配信内容は【ゲーム】【歌・弾き語り】【ASMR】\n毎日配信が目標です！\n\n💠Twitter💠\n@Kaida_Haru\n\n\n-----------------------------------------------------------------------------\n\n\n🌈にじさんじ公式Twitter\n　  @nijisanji_app\n\n🕒にじさんじBOOTH\n　  https://nijisanji.booth.pm/\n\n🏢お問い合わせやファンレター\n　  https://www.nijisanji.jp/contact"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "92994985",
+    "subscriberCount": "521000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "974"
+  }
+}
