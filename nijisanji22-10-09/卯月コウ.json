@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "21Gk4BGflEbcvde72Zoip-1aGvU",
+  "id": "UC3lNFeJiTq6L3UWoz4g1e-A",
+  "snippet": {
+    "title": "卯月コウ",
+    "description": "にじさんじ所属バーチャルライバーです。\n企画・雑談・ゲーム実況など思いついたことたくさんやってます。\nいっぞ！\n\n配信告知等ツイッターで情報発信してます。\n【twitter】 https://twitter.com/udukikohh\n\n▼ ファンレターなど\n\nhttps://www.nijisanji.jp/contact",
+    "customUrl": "@uzukikou",
+    "publishedAt": "2018-05-27T03:14:09Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_2mFXZvb1CZO8yG2_srC1dIv5RAWbkvyxcdO5v=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_2mFXZvb1CZO8yG2_srC1dIv5RAWbkvyxcdO5v=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_2mFXZvb1CZO8yG2_srC1dIv5RAWbkvyxcdO5v=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "卯月コウ",
+      "description": "にじさんじ所属バーチャルライバーです。\n企画・雑談・ゲーム実況など思いついたことたくさんやってます。\nいっぞ！\n\n配信告知等ツイッターで情報発信してます。\n【twitter】 https://twitter.com/udukikohh\n\n▼ ファンレターなど\n\nhttps://www.nijisanji.jp/contact"
+    }
+  },
+  "statistics": {
+    "viewCount": "40076412",
+    "subscriberCount": "246000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "609"
+  }
+}

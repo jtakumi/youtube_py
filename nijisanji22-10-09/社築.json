@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "2xYOg1m4io5AVO_4GwQP5EIz8XU",
+  "id": "UCKMYISTJAQ8xTplUPHiABlA",
+  "snippet": {
+    "title": "社築",
+    "description": "バーチャルライバー集団「にじさんじ」所属の社築（やしろ　きずく）です。\nただのオタクです。\n\nTwitter: https://twitter.com/846kizuQ\n\nお手紙等：\n一部受け取れないものもあります。詳細は下記にて\nhttps://www.nijisanji.jp/contact",
+    "customUrl": "@yashirokizuku",
+    "publishedAt": "2018-05-25T00:13:18Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8CKwpOWX7LoNWS2mbeL9cfNomk7Z8C3yYcTx-kzA=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8CKwpOWX7LoNWS2mbeL9cfNomk7Z8C3yYcTx-kzA=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8CKwpOWX7LoNWS2mbeL9cfNomk7Z8C3yYcTx-kzA=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "社築",
+      "description": "バーチャルライバー集団「にじさんじ」所属の社築（やしろ　きずく）です。\nただのオタクです。\n\nTwitter: https://twitter.com/846kizuQ\n\nお手紙等：\n一部受け取れないものもあります。詳細は下記にて\nhttps://www.nijisanji.jp/contact"
+    }
+  },
+  "statistics": {
+    "viewCount": "155145593",
+    "subscriberCount": "675000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "910"
+  }
+}
