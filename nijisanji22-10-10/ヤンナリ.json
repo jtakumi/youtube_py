@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "rWUSpGif25tdTHJTrtXYDvleW4M",
+  "id": "UCCHH0nWYXFZmtDS_4tvMxHQ",
+  "snippet": {
+    "title": "ヤン・ナリ / Yang Nari 【にじさんじ】",
+    "description": "",
+    "customUrl": "@yangnari",
+    "publishedAt": "2020-10-06T11:36:25.641098Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/A9aQVbdtGe1jcgupEtiG9CLW27aPPhi6mCIjoKwunxHku93821sd4RfQHQIZdyAoc2pGvCfo=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/A9aQVbdtGe1jcgupEtiG9CLW27aPPhi6mCIjoKwunxHku93821sd4RfQHQIZdyAoc2pGvCfo=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/A9aQVbdtGe1jcgupEtiG9CLW27aPPhi6mCIjoKwunxHku93821sd4RfQHQIZdyAoc2pGvCfo=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ヤン・ナリ / Yang Nari 【にじさんじ】",
+      "description": ""
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "10452098",
+    "subscriberCount": "152000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "531"
+  }
+}
