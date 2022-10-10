@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "GQ6i9vs8IVr4FUEwBlKV9vsbw8g",
+  "id": "UCp6993wxpyDPHUpavwDFqgg",
+  "snippet": {
+    "title": "SoraCh. ときのそらチャンネル",
+    "description": "☆ホロライブ所属バーチャルアイドル、ときのそらです！\n横浜アリーナでの単独ライブを目標に活動しています！！絶対に！行きたいので！！応援よろしくおねがいします！！！！\n\nいいなと思ったら、ぜひチャンネル登録よろしくお願いします୧(๑•̀ㅁ•́๑)૭✧\n\n\n★オフィシャルファンクラブ★\nhttps://tokinosora-fc.com/\n\n★ときのそら『5th Anniversary』特設サイト★\nhttps://www.jvcmusic.co.jp/tokinosora/5th/\n\n★ときのそら 4th ALBUM『Sign』特設サイト★\nhttps://www.jvcmusic.co.jp/tokinosora/65715/\n\n[Sounds] ポケットサウンド,DOVA-SYNDROME,魔王魂,OtoLogic\n[System] HoloLive (COVER Inc.)",
+    "publishedAt": "2017-09-07T03:02:42Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s88-c-k-c0x00ffffff-no-rj-mo",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s240-c-k-c0x00ffffff-no-rj-mo",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s800-c-k-c0x00ffffff-no-rj-mo",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "SoraCh. ときのそらチャンネル",
+      "description": "☆ホロライブ所属バーチャルアイドル、ときのそらです！\n横浜アリーナでの単独ライブを目標に活動しています！！絶対に！行きたいので！！応援よろしくおねがいします！！！！\n\nいいなと思ったら、ぜひチャンネル登録よろしくお願いします୧(๑•̀ㅁ•́๑)૭✧\n\n\n★オフィシャルファンクラブ★\nhttps://tokinosora-fc.com/\n\n★ときのそら『5th Anniversary』特設サイト★\nhttps://www.jvcmusic.co.jp/tokinosora/5th/\n\n★ときのそら 4th ALBUM『Sign』特設サイト★\nhttps://www.jvcmusic.co.jp/tokinosora/65715/\n\n[Sounds] ポケットサウンド,DOVA-SYNDROME,魔王魂,OtoLogic\n[System] HoloLive (COVER Inc.)"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "113915529",
+    "subscriberCount": "1030000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "715"
+  }
+}
