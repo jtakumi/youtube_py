@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "9B07f4sBIZG6OmvpGcl-Memyxv8",
+  "id": "UCyLGcqYs7RsBb3L0SJfzGYA",
+  "snippet": {
+    "title": "花芽すみれ",
+    "description": "おいす～！花芽すみれです。\nゲームが好きです👾💤\n\n\n",
+    "publishedAt": "2018-09-21T06:29:47Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/WKDurPqE4i5jD_qvsIP0e9qeAQD24f9vAl_3vFT9dmgjxfo5IRFghSg9_IzFKC06WcFoMdE8mQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/WKDurPqE4i5jD_qvsIP0e9qeAQD24f9vAl_3vFT9dmgjxfo5IRFghSg9_IzFKC06WcFoMdE8mQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/WKDurPqE4i5jD_qvsIP0e9qeAQD24f9vAl_3vFT9dmgjxfo5IRFghSg9_IzFKC06WcFoMdE8mQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "花芽すみれ",
+      "description": "おいす～！花芽すみれです。\nゲームが好きです👾💤\n\n\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "54507006",
+    "subscriberCount": "424000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "566"
+  }
+}

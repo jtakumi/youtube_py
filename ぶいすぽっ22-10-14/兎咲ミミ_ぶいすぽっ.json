@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "7fTQ5G4jECn2YZveJjXWhMgF728",
+  "id": "UCnvVG9RbOW3J6Ifqo-zKLiw",
+  "snippet": {
+    "title": "兎咲ミミ / Tosaki Mimi",
+    "description": "はじめまして、ぶいすぽ所属の兎咲ミミです。\nゲーム配信をメインにいろいろな活動をしていきたいな～って思ってます。\nよかったらチャンネル登録してね！\n\n\n【ぶいすぽ運営】\n◇Twitter (@Vspo77)\n\n\n【グッズ販売に関して】\n\nURL：https://lupinusvg.booth.pm/\n\n【ファンレターやプレゼントに関して】\n郵便番号：154-0001\n住所：東京都世田谷区池尻2-31-20 清水ビル5F\n宛先：ぶいすぽ運営　兎咲ミミ宛て",
+    "publishedAt": "2020-06-30T06:34:57.450577Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/o4GRKhWWG_vvRHtD7PygytWqZNpN8fQD2NTdtmZrFCLjbGJrW9lhJZWmlvdNRc13nd4H7VrLXLc=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/o4GRKhWWG_vvRHtD7PygytWqZNpN8fQD2NTdtmZrFCLjbGJrW9lhJZWmlvdNRc13nd4H7VrLXLc=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/o4GRKhWWG_vvRHtD7PygytWqZNpN8fQD2NTdtmZrFCLjbGJrW9lhJZWmlvdNRc13nd4H7VrLXLc=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "兎咲ミミ / Tosaki Mimi",
+      "description": "はじめまして、ぶいすぽ所属の兎咲ミミです。\nゲーム配信をメインにいろいろな活動をしていきたいな～って思ってます。\nよかったらチャンネル登録してね！\n\n\n【ぶいすぽ運営】\n◇Twitter (@Vspo77)\n\n\n【グッズ販売に関して】\n\nURL：https://lupinusvg.booth.pm/\n\n【ファンレターやプレゼントに関して】\n郵便番号：154-0001\n住所：東京都世田谷区池尻2-31-20 清水ビル5F\n宛先：ぶいすぽ運営　兎咲ミミ宛て"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "23967899",
+    "subscriberCount": "206000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "710"
+  }
+}

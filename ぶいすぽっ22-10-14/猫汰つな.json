@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "Ov_Z_zbpZj3V4lFNlnIRrEyxRXA",
+  "id": "UCIjdfjcSaEgdjwbgjxC3ZWg",
+  "snippet": {
+    "title": "猫汰つな / Nekota Tsuna",
+    "description": "ぶいすぽっ！所属の 猫汰つな(nekota tsuna)です！\n\n",
+    "publishedAt": "2022-06-12T09:25:19.595101Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/yf-cHSFj3-JXC8mz7FyIzTG2W_W_nAbCOr2TRzHzFUVBSCU047G2gfr7th5NitHidR20s5ov=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/yf-cHSFj3-JXC8mz7FyIzTG2W_W_nAbCOr2TRzHzFUVBSCU047G2gfr7th5NitHidR20s5ov=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/yf-cHSFj3-JXC8mz7FyIzTG2W_W_nAbCOr2TRzHzFUVBSCU047G2gfr7th5NitHidR20s5ov=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "猫汰つな / Nekota Tsuna",
+      "description": "ぶいすぽっ！所属の 猫汰つな(nekota tsuna)です！\n\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "10320734",
+    "subscriberCount": "279000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "79"
+  }
+}

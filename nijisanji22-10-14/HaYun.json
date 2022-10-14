@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "R7HXqmJWM5TvlfMVC4DTIPsLcGQ",
+  "id": "UCrhhJPNsOqzNIkUfTABoSpg",
+  "snippet": {
+    "title": "ハユン / HaYun  【にじさんじ】",
+    "description": "니지산지 하윤🎮🦭\nにじさんじ  ハユン🎮🦭\n\n",
+    "customUrl": "@hayun",
+    "publishedAt": "2021-08-17T07:06:32.541461Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/5h-2M-aXi-mManFnbaTWvYZ1vwvmHD4dsGgWsE9oS_SLzUbSCP8XnqAFbSsojd_csGWU1Dk_MA=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/5h-2M-aXi-mManFnbaTWvYZ1vwvmHD4dsGgWsE9oS_SLzUbSCP8XnqAFbSsojd_csGWU1Dk_MA=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/5h-2M-aXi-mManFnbaTWvYZ1vwvmHD4dsGgWsE9oS_SLzUbSCP8XnqAFbSsojd_csGWU1Dk_MA=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "ハユン / HaYun  【にじさんじ】",
+      "description": "니지산지 하윤🎮🦭\nにじさんじ  ハユン🎮🦭\n\n"
+    },
+    "country": "KR"
+  },
+  "statistics": {
+    "viewCount": "2391820",
+    "subscriberCount": "64700",
+    "hiddenSubscriberCount": false,
+    "videoCount": "234"
+  }
+}

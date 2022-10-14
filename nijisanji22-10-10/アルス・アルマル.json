@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "pA3LcI8vSM8KdlnaBkXULFYbidQ",
+  "id": "UCdpUojq0KWZCN9bxXnZwz5w",
+  "snippet": {
+    "title": "アルス・アルマル -ars almal- 【にじさんじ】",
+    "description": "にじさんじ所属のアルス･アルマルです。\n雑談、ゲームを中心に配信を行っていきます！\n\nメンバー登録よろしくね～\nhttps://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w/join\n\n【Twitter】\nhttps://twitter.com/ars_almal\n\n【お問い合わせはこちら】\nhttps://www.nijisanji.jp/contact\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp",
+    "customUrl": "@arsalmal",
+    "publishedAt": "2019-06-27T06:17:49Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9uzveq5p5L5dTYquR-y_p9UsE1cSuYx6LoU4Ab=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9uzveq5p5L5dTYquR-y_p9UsE1cSuYx6LoU4Ab=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9uzveq5p5L5dTYquR-y_p9UsE1cSuYx6LoU4Ab=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "アルス・アルマル -ars almal- 【にじさんじ】",
+      "description": "にじさんじ所属のアルス･アルマルです。\n雑談、ゲームを中心に配信を行っていきます！\n\nメンバー登録よろしくね～\nhttps://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w/join\n\n【Twitter】\nhttps://twitter.com/ars_almal\n\n【お問い合わせはこちら】\nhttps://www.nijisanji.jp/contact\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "127621376",
+    "subscriberCount": "680000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "1008"
+  }
+}

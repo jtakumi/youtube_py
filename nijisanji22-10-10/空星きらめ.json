@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "aoRkBAjeG96HJH9uiwrd4_0rKyw",
+  "id": "UC_82HBGtvwN1hcGeOGHzUBQ",
+  "snippet": {
+    "title": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+    "description": "にじさんじ所属🌈🕒空星きらめです！\n大きな舞台で輝きたい高校生✨\n今はみんなを笑顔にするのが目標です！\n\nゲームとか歌とか経験したことない事に\nたくさん挑戦してみたい👍\n\n【Twitter】https://twitter.com/kirame_2434?s=09\n\n------------------------------\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp\n『公式Twitter』\nhttps://twitter.com/nijisanji_app?s=09\n\n【にじさんじBOOTH/ストア】\n・https://nijisanji.booth.pm/\n・https://shop.nijisanji.jp/\n\n【お問い合わせやファンレター】\nhttps://www.nijisanji.jp/contact",
+    "customUrl": "@sorahoshikirame",
+    "publishedAt": "2020-02-12T11:03:19.298592Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/JJaabiw0FQjJlfRs4vKJjDHwDXbo5-DUqTW4HU19yggmZRRA4-RdM_94UMK-AUGCM3gnRuLq=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/JJaabiw0FQjJlfRs4vKJjDHwDXbo5-DUqTW4HU19yggmZRRA4-RdM_94UMK-AUGCM3gnRuLq=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/JJaabiw0FQjJlfRs4vKJjDHwDXbo5-DUqTW4HU19yggmZRRA4-RdM_94UMK-AUGCM3gnRuLq=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+      "description": "にじさんじ所属🌈🕒空星きらめです！\n大きな舞台で輝きたい高校生✨\n今はみんなを笑顔にするのが目標です！\n\nゲームとか歌とか経験したことない事に\nたくさん挑戦してみたい👍\n\n【Twitter】https://twitter.com/kirame_2434?s=09\n\n------------------------------\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp\n『公式Twitter』\nhttps://twitter.com/nijisanji_app?s=09\n\n【にじさんじBOOTH/ストア】\n・https://nijisanji.booth.pm/\n・https://shop.nijisanji.jp/\n\n【お問い合わせやファンレター】\nhttps://www.nijisanji.jp/contact"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "9337239",
+    "subscriberCount": "159000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "362"
+  }
+}
