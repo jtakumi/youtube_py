@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "KAFk5wQoSkkpiXsYanSg6HSPpzw",
+  "id": "UCHK5wkevfaGrPr7j3g56Jmw",
+  "snippet": {
+    "title": "瀬戸 美夜子 - Miyako Seto",
+    "description": "にじさんじ所属の18歳JK！\n\n------------------------------------------------\n■リンク\n\n❤チャンネル登録はコチラから：\nhttps://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw?sub_confirmation=1\n\n💜メンバーシップ登録コチラから：\nhttps://gaming.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw/\n\n💙Twitter：\nhttps://twitter.com/seto_miyako\n\n💚にじさんじ公式なんか売ってるとこ：\nhttps://nijisanji.booth.pm/\nhttps://shop.nijisanji.jp/s/niji/?ima=0049\n\n\n💛お問い合わせ・プレゼント送付先：\nhttps://www.nijisanji.jp/contact\n------------------------------------------------",
+    "customUrl": "@setomiyako",
+    "publishedAt": "2019-01-22T03:51:37Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/wUEzLrVkQTWA1-zWet-DyzFUlsPHfDrXDHXIfvqJhn0734xXdl70RHOSHpK7wzRyd_kIVZZCCmw=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/wUEzLrVkQTWA1-zWet-DyzFUlsPHfDrXDHXIfvqJhn0734xXdl70RHOSHpK7wzRyd_kIVZZCCmw=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/wUEzLrVkQTWA1-zWet-DyzFUlsPHfDrXDHXIfvqJhn0734xXdl70RHOSHpK7wzRyd_kIVZZCCmw=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "瀬戸 美夜子 - Miyako Seto",
+      "description": "にじさんじ所属の18歳JK！\n\n------------------------------------------------\n■リンク\n\n❤チャンネル登録はコチラから：\nhttps://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw?sub_confirmation=1\n\n💜メンバーシップ登録コチラから：\nhttps://gaming.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw/\n\n💙Twitter：\nhttps://twitter.com/seto_miyako\n\n💚にじさんじ公式なんか売ってるとこ：\nhttps://nijisanji.booth.pm/\nhttps://shop.nijisanji.jp/s/niji/?ima=0049\n\n\n💛お問い合わせ・プレゼント送付先：\nhttps://www.nijisanji.jp/contact\n------------------------------------------------"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "13469980",
+    "subscriberCount": "162000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "961"
+  }
+}

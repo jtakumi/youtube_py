@@ -1,0 +1,40 @@
+{
+  "kind": "youtube#channel",
+  "etag": "ESxwgQTWrIuyc3egpe2RuTi56Is",
+  "id": "UC1QgXt46-GEvtNjEC1paHnw",
+  "snippet": {
+    "title": "グウェル・オス・ガール / Gwelu Os Gar 【にじさんじ】",
+    "description": "にじさんじ所属バーチャルライバー、企画屋/司会屋のエルフ。既婚/一児の父。\n\n・にじさんじ公式HP\nhttps://www.nijisanji.jp\n\n※ファンレターの送付先などは下記ページをご参照ください\nhttps://www.nijisanji.jp/contact",
+    "customUrl": "@gweluosgar",
+    "publishedAt": "2019-10-16T09:04:47.958136Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9l7YXqthb4Z0azIE4ohwAL90hxjFWmsA9K7Wj1gg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9l7YXqthb4Z0azIE4ohwAL90hxjFWmsA9K7Wj1gg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9l7YXqthb4Z0azIE4ohwAL90hxjFWmsA9K7Wj1gg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "defaultLanguage": "ja",
+    "localized": {
+      "title": "グウェル・オス・ガール / Gwelu Os Gar 【にじさんじ】",
+      "description": "にじさんじ所属バーチャルライバー、企画屋/司会屋のエルフ。既婚/一児の父。\n\n・にじさんじ公式HP\nhttps://www.nijisanji.jp\n\n※ファンレターの送付先などは下記ページをご参照ください\nhttps://www.nijisanji.jp/contact"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "159395870",
+    "subscriberCount": "441000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "632"
+  }
+}
