@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "pTRkGypojkvWKFhyO7cTj29q_ao",
+  "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+  "snippet": {
+    "title": "Roberu Ch. 夕刻ロベル",
+    "description": "楽しむのじゃ！！\n\n-------------------------------------------------------------------------------\n\n【お手紙宛先】\n〒173-0003\n東京都板橋区加賀1丁目6番1号　ネットデポ新板橋\nカバー株式会社　ホロスターズ　夕刻ロベル 宛\n",
+    "customUrl": "@yukokuroberu",
+    "publishedAt": "2019-11-25T10:44:27.049038Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/yVTO0I6VAXBjBLBPvgLGlBlp1hganldhl6AY3PW_ZWOJ0sYwfLo1yc2Sqr5SMjXQf7Dm4U-2=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/yVTO0I6VAXBjBLBPvgLGlBlp1hganldhl6AY3PW_ZWOJ0sYwfLo1yc2Sqr5SMjXQf7Dm4U-2=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/yVTO0I6VAXBjBLBPvgLGlBlp1hganldhl6AY3PW_ZWOJ0sYwfLo1yc2Sqr5SMjXQf7Dm4U-2=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Roberu Ch. 夕刻ロベル",
+      "description": "楽しむのじゃ！！\n\n-------------------------------------------------------------------------------\n\n【お手紙宛先】\n〒173-0003\n東京都板橋区加賀1丁目6番1号　ネットデポ新板橋\nカバー株式会社　ホロスターズ　夕刻ロベル 宛\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "20009877",
+    "subscriberCount": "273000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "1203"
+  }
+}
