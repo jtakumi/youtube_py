@@ -1,7 +1,20 @@
 # youtube_py
-control youtube api
+## outline
+control youtube api<br>
+the programs exporing channel datas  
+e.g.) videocount,subscribers,channel name...
+## programs
+### youtube_one
+this is a program which return response datas of pointed channels.<br>
+### upgrade__
+they upgrade datas based each group folder.<br>
+### call__upgrade
+they call upgrade programs.<br>
+## dataset
+hololive,holostars,nijisanji,Vsports
 <br>
-参考サイト<br>
+
+## Referd websites
 https://qiita.com/rkamikawa/items/dd1fd4c1427ece787eea <br>
 https://ccie-go.com/python-json/#toc9 <br>
 https://techacademy.jp/magazine/23279 <br>
