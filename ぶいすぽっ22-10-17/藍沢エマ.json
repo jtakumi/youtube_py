@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "pN7snxQEcY1yBhJ2gxWEJVT6pV4",
+  "id": "UCPkKpOHxEDcwmUAnRpIu-Ng",
+  "snippet": {
+    "title": "藍沢エマ / Aizawa Ema",
+    "description": "はじめまして💫\nぶいすぽっ！所属の藍沢エマ(Aizawa Ema)です！\nはじめての事だらけで、あたふたしてしまうかもしれませんが、温かい目で見ていただけると嬉しいです🙇‍♀️\n\nTwitter（ https://twitter.com/Ema_Aizawa ）\nぶいすぽっ！運営（ https://twitter.com/Vspo77  ）\n\n遠坂あさぎママ\n（ https://twitter.com/asagi_0398 ）\n白沢飾音パパ\n（ https://twitter.com/ShirasawaKazane ）\n",
+    "customUrl": "@aizawaema",
+    "publishedAt": "2021-09-08T19:05:02.436204Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/85CbHoO-hMkjkTcktBJAlKuLg4cFWwQQDDnH7QzRNjrT8ZqPVIoiokcnP0b2VzIyl_0LszkyJw=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/85CbHoO-hMkjkTcktBJAlKuLg4cFWwQQDDnH7QzRNjrT8ZqPVIoiokcnP0b2VzIyl_0LszkyJw=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/85CbHoO-hMkjkTcktBJAlKuLg4cFWwQQDDnH7QzRNjrT8ZqPVIoiokcnP0b2VzIyl_0LszkyJw=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "藍沢エマ / Aizawa Ema",
+      "description": "はじめまして💫\nぶいすぽっ！所属の藍沢エマ(Aizawa Ema)です！\nはじめての事だらけで、あたふたしてしまうかもしれませんが、温かい目で見ていただけると嬉しいです🙇‍♀️\n\nTwitter（ https://twitter.com/Ema_Aizawa ）\nぶいすぽっ！運営（ https://twitter.com/Vspo77  ）\n\n遠坂あさぎママ\n（ https://twitter.com/asagi_0398 ）\n白沢飾音パパ\n（ https://twitter.com/ShirasawaKazane ）\n"
+    }
+  },
+  "statistics": {
+    "viewCount": "36860108",
+    "subscriberCount": "350000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "352"
+  }
+}
