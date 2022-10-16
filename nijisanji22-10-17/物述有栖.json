@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "sX1FqZh_7wlVGuigTT8GwBL-Ty8",
+  "id": "UCt0clH12Xk1-Ej5PXKGfdPA",
+  "snippet": {
+    "title": "♥️♠️物述有栖♦️♣️",
+    "description": "Hi✨\nにじさんじバーチャルライバーの物述有栖(もののべありす)よっ☕️💕\nみんなと楽しくお茶会したり、ゲームしたり、色んなことにチャレンジしていきたいから、応援してもらえると嬉しいわっ♡\nチャンネル登録待ってます❣️\nんーまっ(๑´³`)♥️",
+    "customUrl": "@mononobealice",
+    "publishedAt": "2018-03-05T13:51:15Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu88DDz4yTlKziQ3CGOS0FosJSz3zxT7cjiFm4ja=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu88DDz4yTlKziQ3CGOS0FosJSz3zxT7cjiFm4ja=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu88DDz4yTlKziQ3CGOS0FosJSz3zxT7cjiFm4ja=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "♥️♠️物述有栖♦️♣️",
+      "description": "Hi✨\nにじさんじバーチャルライバーの物述有栖(もののべありす)よっ☕️💕\nみんなと楽しくお茶会したり、ゲームしたり、色んなことにチャレンジしていきたいから、応援してもらえると嬉しいわっ♡\nチャンネル登録待ってます❣️\nんーまっ(๑´³`)♥️"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "26802316",
+    "subscriberCount": "252000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "547"
+  }
+}

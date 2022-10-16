@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "mYbMR6T7QMuA_fWMQBaibUOnt5Q",
+  "id": "UC6wvdADTJ88OfIbJYIpAaDA",
+  "snippet": {
+    "title": "不破 湊 / Fuwa Minato【にじさんじ】",
+    "description": "にじさんじ所属バーチャルホストの不破 湊（ふわ みなと）です\nゲームと歌\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTwitter｜https://twitter.com/Fuwa_Minato\nMembership｜https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA/join\nマシュマロ｜https://marshmallow-qa.com/fuwa_minato?utm_medium=url_text&utm_source=promotion\nお問い合わせ｜https://www.nijisanji.jp/contact\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n",
+    "customUrl": "@fuwaminato",
+    "publishedAt": "2019-10-16T06:08:16.519657Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9sv_HUtwZPWFy1XRpzApKaPrmATcBidXIB4g4TFQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9sv_HUtwZPWFy1XRpzApKaPrmATcBidXIB4g4TFQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9sv_HUtwZPWFy1XRpzApKaPrmATcBidXIB4g4TFQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "不破 湊 / Fuwa Minato【にじさんじ】",
+      "description": "にじさんじ所属バーチャルホストの不破 湊（ふわ みなと）です\nゲームと歌\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nTwitter｜https://twitter.com/Fuwa_Minato\nMembership｜https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA/join\nマシュマロ｜https://marshmallow-qa.com/fuwa_minato?utm_medium=url_text&utm_source=promotion\nお問い合わせ｜https://www.nijisanji.jp/contact\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "208870186",
+    "subscriberCount": "710000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "830"
+  }
+}

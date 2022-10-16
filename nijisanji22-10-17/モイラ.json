@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "6RZFO3LpaDy3EFG1zdcN-swu3Yo",
+  "id": "UCvmppcdYf4HOv-tFQhHHJMA",
+  "snippet": {
+    "title": "《にじさんじ所属の女神》モイラ",
+    "description": "\n[Twitter]@Moiramoimoimoi",
+    "customUrl": "@moira",
+    "publishedAt": "2018-01-31T09:12:07Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8coG1XpvVC7E4nLq-pvOcWBtuNvSpwRG7pNR9Q=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8coG1XpvVC7E4nLq-pvOcWBtuNvSpwRG7pNR9Q=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu8coG1XpvVC7E4nLq-pvOcWBtuNvSpwRG7pNR9Q=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "《にじさんじ所属の女神》モイラ",
+      "description": "\n[Twitter]@Moiramoimoimoi"
+    }
+  },
+  "statistics": {
+    "viewCount": "10159808",
+    "subscriberCount": "140000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "436"
+  }
+}
