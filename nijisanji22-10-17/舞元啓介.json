@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "ePk8hReBlP267pbjpu4nQ2tLATw",
+  "id": "UCJubINhCcFXlsBwnHp0wl_g",
+  "snippet": {
+    "title": "舞元啓介",
+    "description": "にじさんじ所属 舞元啓介と申します。\nスポーツ実況を中心に活動をしているおじさんじです！\n【Twitter】\nhttps://twitter.com/maimoto_k\n【メールフォーム】\nhttps://docs.google.com/forms/d/1w7VnS5eFN43H4tLYAuNiRiqJ26WJbDAZEWHpumG4e8w/edit\n\n\n【にじさんじ】\n\n▼ 公式HP\nhttps://www.nijisanji.jp\n\n\n▼ 問い合わせ\nhttps://www.nijisanji.jp/contact\n\n▼ 公式Twitter\nhttps://twitter.com/Nijisanji_app\n\n▼ ファンレターなど\nhttps://www.nijisanji.jp/contact\nお預かりできない物もあるので上記URLの「ファンレターについて」をご一読お願いします。",
+    "customUrl": "@maimotokeisuke",
+    "publishedAt": "2018-08-07T06:40:33Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9HmojcF5L6UzKeTL5rEO6X3qV6vlpnE9Vql3KP=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9HmojcF5L6UzKeTL5rEO6X3qV6vlpnE9Vql3KP=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9HmojcF5L6UzKeTL5rEO6X3qV6vlpnE9Vql3KP=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "舞元啓介",
+      "description": "にじさんじ所属 舞元啓介と申します。\nスポーツ実況を中心に活動をしているおじさんじです！\n【Twitter】\nhttps://twitter.com/maimoto_k\n【メールフォーム】\nhttps://docs.google.com/forms/d/1w7VnS5eFN43H4tLYAuNiRiqJ26WJbDAZEWHpumG4e8w/edit\n\n\n【にじさんじ】\n\n▼ 公式HP\nhttps://www.nijisanji.jp\n\n\n▼ 問い合わせ\nhttps://www.nijisanji.jp/contact\n\n▼ 公式Twitter\nhttps://twitter.com/Nijisanji_app\n\n▼ ファンレターなど\nhttps://www.nijisanji.jp/contact\nお預かりできない物もあるので上記URLの「ファンレターについて」をご一読お願いします。"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "86959478",
+    "subscriberCount": "391000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "611"
+  }
+}

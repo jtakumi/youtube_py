@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "I7gMAg6p5ILyhuWkHfoAnFYEWZ8",
+  "id": "UCBi8YaVyZpiKWN3_Z0dCTfQ",
+  "snippet": {
+    "title": "赤羽葉子ちゃんねる",
+    "description": "あかばねようこ▼\nよくぜっきょうをするにじさんじのJK ホラーとオカルトがすきなようだ\n\n【Twitter】\nhttps://twitter.com/Youko_Akabane\n\n配信： #赤羽絶況チュウ\nファンアート： #赤羽絵葉書\nご意見ご感想飯テロ： #しかばねの遺書\n\n\n【お問い合わせはこちら】\nhttps://www.nijisanji.jp/contact\n\n【にじさんじオフィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp",
+    "customUrl": "@akabaneyouko",
+    "publishedAt": "2018-05-02T20:48:14Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9FOQbMfKHvKKSCEaqImv1X0VguIIzLTYglNVjUxg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9FOQbMfKHvKKSCEaqImv1X0VguIIzLTYglNVjUxg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu9FOQbMfKHvKKSCEaqImv1X0VguIIzLTYglNVjUxg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "赤羽葉子ちゃんねる",
+      "description": "あかばねようこ▼\nよくぜっきょうをするにじさんじのJK ホラーとオカルトがすきなようだ\n\n【Twitter】\nhttps://twitter.com/Youko_Akabane\n\n配信： #赤羽絶況チュウ\nファンアート： #赤羽絵葉書\nご意見ご感想飯テロ： #しかばねの遺書\n\n\n【お問い合わせはこちら】\nhttps://www.nijisanji.jp/contact\n\n【にじさんじオフィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "11745104",
+    "subscriberCount": "174000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "235"
+  }
+}
