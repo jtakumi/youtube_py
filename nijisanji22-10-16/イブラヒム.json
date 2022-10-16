@@ -1,0 +1,38 @@
+{
+  "kind": "youtube#channel",
+  "etag": "XW4CakMDfVc5C0FEz1nSCCt6irI",
+  "id": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
+  "snippet": {
+    "title": "イブラヒム【にじさんじ】",
+    "description": "にじさんじ所属、バーチャルライバーの「イブラヒム」です。\n元石油王、現在は温泉を掘って生活しています。\nお金大好き。\nマギに出てないし首に付けてるのは神秘の雫ではないので水タイプの技の威力は1.2倍になりません。\n\n【お問い合わせやファンレターはこちら】\nhttps://www.nijisanji.jp/contact\n\n【にじさんじオフィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp",
+    "publishedAt": "2019-12-19T08:05:18.461468Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_69h0rPtk8ksUsZoIjmuoKLBgrl_0beGluIMidZg=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_69h0rPtk8ksUsZoIjmuoKLBgrl_0beGluIMidZg=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/ytc/AMLnZu_69h0rPtk8ksUsZoIjmuoKLBgrl_0beGluIMidZg=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "イブラヒム【にじさんじ】",
+      "description": "にじさんじ所属、バーチャルライバーの「イブラヒム」です。\n元石油王、現在は温泉を掘って生活しています。\nお金大好き。\nマギに出てないし首に付けてるのは神秘の雫ではないので水タイプの技の威力は1.2倍になりません。\n\n【お問い合わせやファンレターはこちら】\nhttps://www.nijisanji.jp/contact\n\n【にじさんじオフィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "125461445",
+    "subscriberCount": "503000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "855"
+  }
+}
