@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "kMlTjin4YmUXDRDDyy9dkK9PUh0",
+  "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+  "snippet": {
+    "title": "Izuru Ch. 奏手イヅル",
+    "description": "ホロスターズ所属Vtuber かなでいづる。\n配信アーカイブは再生リストから!!\n\n男性Vtuber事務所「ホロスターズ」\nTwitter//　https://twitter.com/holostarstv\n\nTwitter（@kanadeizuru）\nhttps://twitter.com/kanadeizuru\n\n\n",
+    "customUrl": "@kanadeizuru",
+    "publishedAt": "2019-06-03T01:16:29Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Izuru Ch. 奏手イヅル",
+      "description": "ホロスターズ所属Vtuber かなでいづる。\n配信アーカイブは再生リストから!!\n\n男性Vtuber事務所「ホロスターズ」\nTwitter//　https://twitter.com/holostarstv\n\nTwitter（@kanadeizuru）\nhttps://twitter.com/kanadeizuru\n\n\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "9714166",
+    "subscriberCount": "199000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "205"
+  }
+}
