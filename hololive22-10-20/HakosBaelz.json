@@ -1,0 +1,39 @@
+{
+  "kind": "youtube#channel",
+  "etag": "bv9DUi_PVqd5H5HbeibvopJLeag",
+  "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+  "snippet": {
+    "title": "Hakos Baelz Ch. hololive-EN",
+    "description": "just a lil rat idol who wants to make you smile! \nネズミアイドルでちゅ～！よろしくでちゅ～！\n\nIcon Art: \n❥ Mika Pikazo (https://twitter.com/MikaPikazo)\n\nFor Inquiries\nCover Corp: http://cover-corp.com/\nOfficial Twitter: https://twitter.com/hololive_En\n\n\n",
+    "customUrl": "@hakosbaelz",
+    "publishedAt": "2021-07-26T15:33:07.061396Z",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s88-c-k-c0x00ffffff-no-rj",
+        "width": 88,
+        "height": 88
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s240-c-k-c0x00ffffff-no-rj",
+        "width": 240,
+        "height": 240
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s800-c-k-c0x00ffffff-no-rj",
+        "width": 800,
+        "height": 800
+      }
+    },
+    "localized": {
+      "title": "Hakos Baelz Ch. hololive-EN",
+      "description": "just a lil rat idol who wants to make you smile! \nネズミアイドルでちゅ～！よろしくでちゅ～！\n\nIcon Art: \n❥ Mika Pikazo (https://twitter.com/MikaPikazo)\n\nFor Inquiries\nCover Corp: http://cover-corp.com/\nOfficial Twitter: https://twitter.com/hololive_En\n\n\n"
+    },
+    "country": "JP"
+  },
+  "statistics": {
+    "viewCount": "49011997",
+    "subscriberCount": "643000",
+    "hiddenSubscriberCount": false,
+    "videoCount": "298"
+  }
+}
