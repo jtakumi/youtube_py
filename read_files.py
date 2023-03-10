@@ -6,9 +6,15 @@ class ReadFiles:
     """
     
     def dat_read_file(self,dir_name,file_name):
-        with open(os.path.abspath(os.path.join(os.path.dirname(__file__),dir_name,file_name)),"r") as f:
+        with open(os.path.abspath(os.path.join(os.path.dirname(__file__),dir_name,file_name)),"r",encoding='utf-8') as f:
             fn = f.readline()
             fn = fn.replace('\n','')
+        return fn
+
+    def dat_read_file_lines(self,dir_name,file_name):
+        fn = list()
+        with open(os.path.abspath(os.path.join(os.path.dirname(__file__),dir_name,file_name)),"r",encoding='utf-8') as f:
+            fn = f.readlines()
         return fn
 
     def dat_write_file(self,output,dir_name,file_name):
@@ -17,7 +23,7 @@ class ReadFiles:
 
     #jsonの読み込みはここで行う
     def json_input(self,dir_name,file_name):
-        with open(os.path.abspath(os.path.join(os.path.dirname(__file__),dir_name,file_name)),'r') as f:
+        with open(os.path.abspath(os.path.join(os.path.dirname(__file__),dir_name,file_name)),'r',encoding='utf-8') as f:
                 d = json.load(f)
         return d
 
