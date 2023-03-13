@@ -50,7 +50,9 @@ class Update:
 
     def makedata(self,fdn):
         #API情報
-        API_KEY='own_key'
+        rf =ReadFiles()
+        key = rf.dat_read_file('','key.dat')
+        API_KEY=key
         YOUTUBE_API_SERVICE_NAME='youtube'
         YOUTUBE_API_VERSION='v3'
         youtube=build(
