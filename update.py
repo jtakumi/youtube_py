@@ -11,13 +11,6 @@ class Update:
     """
     
 
-
-    def subscriber(self):
-        pass
-
-    def videocount(self):
-        pass
-
     def make_csv(self,fdn,data):
         header = ['streamer']
         header = header + data
@@ -26,6 +19,8 @@ class Update:
             with open(path,'w',encoding='utf-8-sig') as f:
                 wr = csv.writer(f,lineterminator='\n')
                 wr.writerow(header)
+                for j in range(len(data)):
+                    print(data[j],file=f)
 
     def read_data(self,dirname,filename,data):
         wana_get=[['snippet','title','publishedAt','country'],['statitics','subscriberCount','videoCount','viewCount']]
