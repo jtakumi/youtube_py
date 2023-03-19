@@ -9,7 +9,6 @@ class Update:
     """
     this is program which is update vtuber groups data.
     """
-    
 
     def make_csv(self,fdn,data):
         header = ['streamer']
@@ -109,6 +108,20 @@ class Update:
         self.makedata(fdn)
         self.read_data(fdn,data)
 
+    def test(self):
+        rf = ReadFiles()
+        fdn = rf.dat_read_file_lines('foldername','foldername.dat')
+        key = rf.dat_read_file('','key.dat')
+        API_KEY=key
+        YOUTUBE_API_SERVICE_NAME='youtube'
+        YOUTUBE_API_VERSION='v3'
+        youtube=build(
+        YOUTUBE_API_SERVICE_NAME,
+        YOUTUBE_API_VERSION,
+        developerKey = API_KEY)
+        print('got the key')
+        print(fdn)
+
 if __name__ == '__main__':
     upd = Update()
-    upd.doit()
+    upd.test()
