@@ -14,7 +14,7 @@ class ReadFiles:
     def dat_read_file_lines(self,dir_name,file_name):
         fn = list()
         with open(os.path.abspath(os.path.join(os.path.dirname(__file__),dir_name,file_name)),"r",encoding='utf-8') as f:
-            fn = f.readlines()
+            fn = f.read().splitlines()
         return fn
 
     def dat_write_file(self,output,dir_name,file_name):
