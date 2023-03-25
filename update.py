@@ -10,7 +10,7 @@ class Update:
     this is program which is update vtuber groups data.
     """
 
-    def make_csv(self,fdn,data):
+    def make_csv(self,fdn,member):
         header = ['streamer']
         header = header + data
         for i in fdn:
@@ -18,11 +18,12 @@ class Update:
             with open(path,'w',encoding='utf-8-sig') as f:
                 wr = csv.writer(f,lineterminator='\n')
                 wr.writerow(header)
-                for j in range(len(data)):
-                    print(data[j],file=f)
+                for j in range(len(member)):
+                    print(member[j],file=f)
 
     def read_data(self,dirname,filename,data):
-        wana_get=[['snippet','title','publishedAt','country'],['statitics','subscriberCount','videoCount','viewCount']]
+        title =publishAt = country =list()
+        subscriberCount = videoCount = viewCount =list()
         data = list()
         rf = ReadFiles()
         try:            
@@ -31,10 +32,15 @@ class Update:
             print(dirname,filename)
             print(e)
         else:
-            for h in range(len(wana_get)):
-                for i in range(len(wana_get[0])):
-                    data.append(filedata[wana_get[h,0]][wana_get[h,i+1]])
-        return data            
+            for i in filedata:
+                title.append(filedata['snippet']['title'])
+                publishAt.append(filedata['snippet']['publishAt'])
+                country.append(filedata['snippet']['country'])
+                subscriberCount.append(filedata['statistics']['subscriberCount'])
+                videoCount.append(filedata['statistics']['videoCount'])
+                viewCount.append(filedata['statistics']['viewCount'])
+            data= zip(title,publishAt,country,subscriberCount,videoCount,viewCount)
+            return data            
     
     def load_id(self,dirname,filename):
         rf = ReadFiles()
@@ -65,7 +71,7 @@ class Update:
             tdr = td.strftime("%Y-%m-%d")
             operate = "mkdir " + os.path.join(fdn[i] + '_update',i + tdr) 
             os.system(operate)
-            member =member_id=vc=sub=pubat=ct = list()
+            member =member_id = list()
 
             for j in os.listdir(fdn[n]):
                 member.append(os.path.splitext(os.path.basename(j))[0])
@@ -81,24 +87,12 @@ class Update:
                     jout = json.dumps(search_result,indent=2,ensure_ascii=False)
                 rf.json_output(fdn[n],j,jout)
             data = self.read_data()
-            self.make_csv(fdn)
+            self.make_csv(fdn,member)
 
 
     
         
-    def read_data(self,dirname,filename,data,wana_get):
-        data = list()
-        rf = ReadFiles()
-        try:            
-            filedata = rf.json_input(dirname,filename)
-        except Exception as e:
-            print(dirname,filename)
-            print(e)
-        else:
-            for h in range(2):
-                for i in range(3):
-                    data.append(filedata[wana_get[h,0]][wana_get[h,i+1]])
-        return data            
+    
 
     def doit(self):
         data =list()
