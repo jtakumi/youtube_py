@@ -46,7 +46,7 @@ class Youtube:
     def main(self):
         #API情報
         rf =ReadFiles()
-        api_key = rf.dat_read_file('','key.dat')
+        api_key = rf.dat_read_file('','.key')
         API_KEY=api_key
         YOUTUBE_API_SERVICE_NAME='youtube'
         YOUTUBE_API_VERSION='v3'

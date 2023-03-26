@@ -55,7 +55,7 @@ class Update:
     def makedata(self,fdn):
         #API情報
         rf =ReadFiles()
-        key = rf.dat_read_file('','key.dat')
+        key = rf.dat_read_file('','.key')
         API_KEY=key
         YOUTUBE_API_SERVICE_NAME='youtube'
         YOUTUBE_API_VERSION='v3'
@@ -97,13 +97,6 @@ class Update:
         self.makedata(fdn)
         self.read_data(fdn,data)
 
-    def test(self):
-        rf = ReadFiles()
-        fdn = rf.dat_read_file_lines('foldername','foldername.dat')
-        for i in fdn:
-            for j in os.listdir(i):
-                print(i,j)
 
 if __name__ == '__main__':
     upd = Update()
-    upd.test()
