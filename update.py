@@ -12,7 +12,6 @@ class Update:
 
     def make_csv(self,fdn,member):
         header = ['streamer']
-        header = header + data
         for i in fdn:
             path = os.path.join(i+'_csv',i+'.csv')
             with open(path,'w',encoding='utf-8-sig') as f:
@@ -86,13 +85,9 @@ class Update:
                         continue
                     jout = json.dumps(search_result,indent=2,ensure_ascii=False)
                 rf.json_output(fdn[n],j,jout)
-            data = self.read_data()
+            self.read_data(member)
             self.make_csv(fdn,member)
 
-
-    
-        
-    
 
     def doit(self):
         data =list()
@@ -105,16 +100,9 @@ class Update:
     def test(self):
         rf = ReadFiles()
         fdn = rf.dat_read_file_lines('foldername','foldername.dat')
-        key = rf.dat_read_file('','key.dat')
-        API_KEY=key
-        YOUTUBE_API_SERVICE_NAME='youtube'
-        YOUTUBE_API_VERSION='v3'
-        youtube=build(
-        YOUTUBE_API_SERVICE_NAME,
-        YOUTUBE_API_VERSION,
-        developerKey = API_KEY)
-        print('got the key')
-        print(fdn)
+        for i in fdn:
+            for j in os.listdir(i):
+                print(i,j)
 
 if __name__ == '__main__':
     upd = Update()

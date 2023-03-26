@@ -41,29 +41,13 @@ class Youtube:
 
         
 
-    def git(self,fn):
-        #自動commit
-        gad='git add ' + fn
-        os.system(gad)
-        print('Do you want to commit? [y/n]')
-        dc=input()
-        if(dc=='y'):
-            today=datetime.date.today()
-            d1=today.strftime('%y-%m-%d')
-            gcm='git commit -m ' + d1
-            os.system(gcm)
-        else:
-            print('Bye')
 
-    def fcopy(self,fn,fnc):
-        njsnj='nijisanji/' +  fnc
-        shutil.copyfile(fn,njsnj)
 
     def main(self):
         #API情報
         rf =ReadFiles()
-        key = rf.dat_read_file('','key.dat')
-        API_KEY=key
+        api_key = rf.dat_read_file('','key.dat')
+        API_KEY=api_key
         YOUTUBE_API_SERVICE_NAME='youtube'
         YOUTUBE_API_VERSION='v3'
         yt = Youtube()
@@ -89,8 +73,6 @@ class Youtube:
         ).execute()
 
         yt.file_make(fn,search_respose)
-        yt.fcopy(fn,fnc)
-        yt.git(fn)
 
 
 
